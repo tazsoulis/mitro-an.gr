@@ -1,0 +1,5 @@
+Disk quotas for user oscaroe (uid 4461): 
+     Filesystem  blocks   quota   limit   grace   files   quota   limit   grace
+      /dev/vda3       4  1024000 1024000               3       0       0        
+      /dev/vda2       0  1024000 1024000               0       0       0        
+      /dev/vda1       0  1024000 1024000               0       0       0        

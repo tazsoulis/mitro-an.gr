@@ -1,0 +1,1953 @@
+Return-path: <bounce-1186465-42804873@enews.pcmag.com>
+Envelope-to: 1@oscar-oe.gr
+Delivery-date: Fri, 06 Mar 2015 14:59:23 -0600
+Received: from hdmail09-1.toolbox.com ([208.99.185.114]:27341)
+	by nascar.websitewelcome.com with esmtp (Exim 4.82)
+	(envelope-from <bounce-1186465-42804873@enews.pcmag.com>)
+	id 1YTzL9-0005U6-9w
+	for 1@oscar-oe.gr; Fri, 06 Mar 2015 14:59:23 -0600
+Received: from enews.pcmag.com (unknown [10.1.1.45])
+	by hdmail09-1.toolbox.com (Postfix) with SMTP id 111D52C04BB
+	for <1@oscar-oe.gr>; Fri,  6 Mar 2015 13:59:21 -0700 (MST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; q=dns/txt; l=82910;
+ d=enews.pcmag.com;s=lyrisv2;
+ h=from : message-id;
+ bh=Bq0Kg4NLr/gZUzsv4Awu+EE7WvdFdNWjCmj0aMGy638=;
+ b=kqNoohMZQotZxeO30F5XruPnnpkj/e9jhAbpThnlp6Q2siL45DzAkQqDyNhirWbrjcH6/grW
+ 2U5OfAROW6l6JHA5gGTGnRSDHpvLjrX+jshJqqkdeBlLd4tKzv7eIsGnsaEcdg4n7TqGoYCZ
+ naNSndERLvBpCYiD5pSn/EZHVjs=;
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=lyrisv2; d=enews.pcmag.com;
+ h=from:message-id;
+ b=nUxrSQpaKWt87ZKAi0lyj8caPl6jHegU+RMnSMD+rMsnSPQErciCpoqimws6id5q9PSMGPmp li/cCqRkmr+R1GqcjD4NHZJo96FIQcTJy7cVqruJ7MQ4ZxY1LniP5s4BUFoY0mN4sISb/bW/
+ GXl8C6GjY1gEVIegq179GviDanM=
+From: "PCMag" <newsletters@enews.pcmag.com>
+To: 1@oscar-oe.gr
+Subject: Deals on Laptops & Accessories
+Date: Fri, 06 Mar 2015 13:59:55 -0700
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+List-Unsubscribe: <mailto:leave-1186465-42804873.2480c4524b6f7eb344efbc8a4dda2330@enews.pcmag.com>
+Message-ID: <LYRIS-42804873-1186465-2015.03.06-14.00.01--1#oscar-oe.gr@enews.pcmag.com>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Untitled Document</title>
+<style>	
+#outlook a {padding:0;} 
+body{width:100% !important; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; margin:0; padding:0; background-color:#666666;}
+
+.ExternalClass {width:100%;}
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} 
+#backgroundTable {margin:0; padding:0; width:100% !important; line-height: 100% !important;}
+img {outline:none; text-decoration:none;border:none; -ms-interpolation-mode: bicubic;}
+a img {border:none;}
+.image_fix {display:block;}
+p {margin: 0px 0px !important;}
+table td {border-collapse: collapse;}
+table { border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; align-content:center; }
+a {color: #333333;text-decoration: none;text-decoration:none!important;}
+.col425 {width: 500px!important;}
+.subhead {font-size: 15px; color: #ffffff; font-family: sans-serif; letter-spacing: 10px;}
+.h1 {font-size: 30px; line-height: 38px; font-weight: bold;}
+.h1, .h2, .bodycopy {color: #ffffff; font-family: sans-serif;}
+
+
+
+
+@media only screen and (min-width:520px){
+.bgimg{background:url(http://blog.logicbuy.com/images/ignlogo-repeat.jpg) repeat-x!important;}
+}
+
+@media only screen and (max-width: 651px){
+a[href^="tel"], a[href^="sms"] {
+text-decoration: none;
+color: #333333;
+pointer-events: none;
+cursor: default;}
+
+.mobile_http://mailing.enews.pcmag.com/t/1186465/42804873/5938838/608/ a[href^="tel"], .mobile_http://mailing.enews.pcmag.com/t/1186465/42804873/5938838/608/ a[href^="sms"] {
+text-decoration: default;
+color: #333333 !important;
+pointer-events: auto;
+cursor: default;}
+
+[class=container] {
+width: 650px!important;}
+
+[class=devicewidth]{
+width:100%!important; height:auto!important;
+margin-left:auto; margin-right:auto; text-align:center;}
+
+[class=imgdevicewidth]{
+width:270px!important; height:auto!important;}
+
+[class=imgdevicewidth2]{
+width:200px!important; height:auto!important;}
+
+[class=devicewidth-border]{
+width:100%!important; height:auto!important;
+margin-left:auto; margin-right:auto;
+border:2px solid #666666!important; margin-bottom:10px!important;}
+
+td[class=mobileHeading]{
+width:80%!important;
+text-align:center!important;
+padding-left:20px; padding-right:20px;
+background-color:#f8f8f8; color:#333333!important;}
+
+table[class=cost]{
+width:80%!important;
+margin-left:auto; margin-right:auto; margin-top:5px;
+text-align:center;}
+
+td[class=costTxt]{
+text-align:center; font-size:20px!important;}
+
+[class=fontsize14]{
+font-size:14px!important; color:#333333!important; font-weight:normal!important;}
+
+[class=fontsize]{
+font-size:16px!important;}
+
+[class=center]{
+text-align:center!important; padding-top:10px!important; padding-bottom:10px!important;}
+
+td[class=button-resize] {
+margin-top:10px; margin-left:auto; margin-right:auto;
+width: 60%!important;
+height: auto!important;
+border:2px solid #999999!important;}
+
+[class=hide]{display:none !important;}
+
+.full {
+display:block;
+width:100%;}
+
+td[class=logoname]{
+width:100%;
+background-color:#ffffff;
+}
+
+[class=title]{text-align:center; vertical-align:top;}
+[class=titletxt]{font-size:35px;}
+
+font[class=headingsize]{
+font-size:4.5vw!important; font-weight:bold!important;	
+}
+
+
+font[class=headingsize2]{
+font-size:7.0vw!important;	
+}
+
+}
+
+</style>
+
+</head>
+
+<body yahoo bgcolor="#666666" style="background-color:#666666">
+<!--[if (gte mso 9)|(IE)]>
+<table width="680" align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<center>
+<td align="center">
+<![endif]-->
+
+<table bgcolor="#383838" cellpadding="0" cellspacing="0" border="0" align="center" width="100%" class="devicewidth" style="max-width:100%;">
+	<tr>
+<td class="hide">
+<table cellpadding="0" cellspacing="0" border="0" align="center" width="750" class="devicewidth" bgcolor="#383838">
+<tr>
+<td height="40" width="560" style="font-family:Arial; font-size:11px; color:#ffffff; line-height:15px; text-align:left;" align="left">
+<span style="font-weight:bold;">
++ Laptops &amp; Accessories for Work, Play and More
+</span>
+</td>
+<td height="30" width="190" style="font-family:Arial; font-size:11px; color:#ffffff; line-height:15px; text-align:left;" align="left">
+<span>
+<a href="http://mailing.enews.pcmag.com/t/1186465/42804873/6/5/?6299e5a7=aHR0cDovL21haWxpbmcuZW5ld3MucGNtYWcuY29tL3JlYWQvYXJjaGl2ZT9pZD0zNzI2NSZtaWQ9NDI4MDQ4NzMmZT0xJTQwb3NjYXIlMmRvZSUyZWdyJng9MGVjY2QzYzY%3d&x=f020a500" style="color: #ffffff; font-weight:bold; text-decoration: underline;">
+View Message in a Browser
+</a>
+</span>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table bgcolor="#666666" cellpadding="0" cellspacing="0" border="0" align="center" width="100%" class="devicewidth" style="max-width:100%;">
+	<tr>
+<td>
+<table cellpadding="0" cellspacing="0" border="0" align="center" width="750" class="devicewidth" bgcolor="#383838">
+<tr>
+<td height="100" width="84" style="font-family:Arial; font-size:11px; color:#ffffff; line-height:15px; text-align:left;" align="left">
+<img src="http://static.ziffdavis.com/cimages/blackfriday/pcmag-logo1.jpg" alt="" style="display:block; border:none;" class="logodevicewidth" width="84" height="100" />
+</td>
+<td bgcolor="#ffffff" height="100" width="615" style="font-family:Arial; font-size:11px; color:#ffffff; line-height:15px; text-align:right;" align="right">
+
+<table cellpadding="0" cellspacing="0" border="0" align="left" width="626" bgcolor="#383838" class="devicewidth">
+<tr>
+<td height="50" align="center"><font class="headingsize" style="font-family:calibri; font-size:28px; color:#ffffff; font-weight:bold;">We Thought You Might Be Interested...</font></td>
+</tr>
+</table>
+
+</td>
+<td class="hide" bgcolor="#666666" height="30" width="40" style="font-family:Arial; font-size:11px; color:#ffffff; line-height:15px; text-align:right;" align="right">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<table cellpadding="0" cellspacing="0" border="0" align="center" width="670" class="devicewidth" bgcolor="#ffffff" style="background-color:#ffffff;">
+
+<tr>
+<td height="50" align="center"><font class="headingsize2" style="font-family:'Arial'; font-size:30px; color:#333333; font-weight:normal;">Laptops &amp; Accessories</font></td>
+</tr>
+
+	<tr><td height="30" bgcolor="#ffffff"></td></tr>
+    <tr>
+    	<td>
+        	<table cellpadding="0" cellspacing="0" border="0" align="left">
+            	<tr>
+                	<td align="center" width="180" height="40" bgcolor="#d2232a"><font style="font-family:Arial; font-size:24px; color:#ffffff; font-weight:bold;" class="headingsize">For Work</font></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr><td height="10" bgcolor="#ffffff"></td></tr>
+	<tr>
+    	<td>
+        
+        <table class="devicewidth" width="670" cellpadding="0" cellspacing="0" style="max-width: 670px; background-color:#ffffff;" bgcolor="#ffffff" align="center">
+
+
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0; border:1px solid #cccccc; padding-top:10px; padding-bottom:10px;" align="center" bgcolor="#E7E7E7">
+<!--[if (gte mso 9)|(IE)]>
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<![endif]-->
+<div style="width: 300px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#E7E7E7">
+<tr>
+<td bgcolor="#E7E7E7" width="10"></td>
+<td style="font-size: 14px;" align="center" bgcolor="#E7E7E7" width="300">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" class="devicewidth-border" style="border:1px solid #cccccc;">
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td align="center">
+<a href="http://mailing.enews.pcmag.com/t/1186465/42804873/5945439/159/" target="_blank">
+<img src="http://static.ziffdavis.com/cimages/techdeals/deal-images/270x180-Lenovo-Thinkpad-W541.jpg" alt="Lenovo ThinkPad W541 Mobile Workstation" width="270" height="180" class="imgdevicewidth" style="border:none;">
+</a>
+</td>
+</tr>
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td height="50" align="left" class="mobileHeading" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; color:#333333; line-height:16px; text-align:left; padding-left:5px; padding-right:5px; background-color:#f1f1f1;"><span class="fontsize"><font style="color: #d2232a"></font>Lenovo ThinkPad W541 Mobile Workstation</span>
+</td>
+</tr>
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td style="text-align:center; vertical-align:top; font-size:0; padding-left:5px; padding-right:5px;">
+<!--[if (gte mso 9)|(IE)]>
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<![endif]-->
+<div style="width: 190px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" class="cost">
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; font-size: 18px; font-weight:bold; line-height:18px; color:#333333" align="left" width="190" class="costTxt">
+<font style ="color:#d2232a;">
+$1,170.49
+</font>
+<font style ="font-size:10px; text-transform:uppercase;" class="fontsize14">
++ free shipping
+</font>
+</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#ffffff" class="center">
+<font style ="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; font-weight:bold; text-decoration:line-through">$1,369.00</font>
+<font style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:12px; color:#000000;">
+&nbsp;Save: <strong>$198.51 (15%)</strong></font>
+</td>
+</tr>
+<tr>
+<td align="left" class="costTxt"><span style ="font-family:Arial, Helvetica, sans-serif; line-height:18px; font-size:12px; color:#000000;" class="fontsize">Coupon:&nbsp;<strong>SAV5THINKPAD</strong></span></td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+<td>
+<![endif]-->
+<div style="width: 70px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="10" bgcolor="#ffffff" class="hide"></td></tr>
+<tr>
+<td class="button-resize" style="font-family:Arial, Helvetica, sans-serif; font-size: 12px; color:#ffffff; text-align:center; text-decoration:none; border-radius:4px 4px 4px 4px; display:inline-block;border:1px solid #000000;" align="center" width="70" height="30" bgcolor="#d2232a">
+<a target="_blank" href="http://mailing.enews.pcmag.com/t/1186465/42804873/5945439/159/" style="background-color:#d2232a; border-radius:4px 4px 4px 4px; display:inline-block; text-decoration:none; text-transform:none; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:30px; font-weight:bold; color:#ffffff; text-align:center; width:70px; height:30px; -webkit-text-size-adjust:none;">
+<font style="text-decoration:none; color:#ffffff">
+<span class="fontsize">
+Get Deal
+</span>
+<span class="hide">
+&#9658;
+</span>
+</font>
+</a>
+</td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr><td height="5" bgcolor="#ffffff"></td></tr>
+</table>
+</td>
+<td bgcolor="#E7E7E7" width="10"></td>
+</tr>
+
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+<td>
+<![endif]-->
+<div style="width: 300px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#E7E7E7">
+<tr>
+<td bgcolor="#E7E7E7" width="10"></td>
+<td style="font-size: 14px;" align="center" bgcolor="#E7E7E7" width="300">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" class="devicewidth-border" style="border:1px solid #cccccc;">
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td align="center">
+<a href="http://mailing.enews.pcmag.com/t/1186465/42804873/5945440/159/" target="_blank">
+<img src="http://static.ziffdavis.com/cimages/techdeals/deal-images/270x180-Lenovo-Thinkpad-X1-Carbon.jpg" alt="Thinkpad X1 Carbon Intel i5 2.7Ghz 1080p 14in Ultrabook with 128GB Solid State Drive" width="270" height="180" class="imgdevicewidth" style="border:none;">
+</a>
+</td>
+</tr>
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td height="50" align="left" class="mobileHeading" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; color:#333333; line-height:16px; text-align:left; padding-left:5px; padding-right:5px; background-color:#f1f1f1;"><span class="fontsize"><font style="color: #d2232a"></font>Thinkpad X1 Carbon Intel i5 2.7Ghz 1080p 14" Ultrabook with 128GB Solid State Drive</span>
+</td>
+</tr>
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td style="text-align:center; vertical-align:top; font-size:0; padding-left:5px; padding-right:5px;">
+<!--[if (gte mso 9)|(IE)]>
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<![endif]-->
+<div style="width: 190px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" class="cost">
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; font-size: 18px; font-weight:bold; line-height:18px; color:#333333" align="left" width="190" class="costTxt">
+<font style ="color:#d2232a;">
+$1,025.14
+</font>
+<font style ="font-size:10px; text-transform:uppercase;" class="fontsize14">
++ free shipping
+</font>
+</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#ffffff" class="center">
+<font style ="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; font-weight:bold; text-decoration:line-through">$1,199.00</font>
+<font style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:12px; color:#000000;">
+&nbsp;Save: <strong>$173.86 (15%)</strong></font>
+</td>
+</tr>
+<tr>
+<td align="left" class="costTxt"><span style ="font-family:Arial, Helvetica, sans-serif; line-height:18px; font-size:12px; color:#000000;" class="fontsize">Coupon:&nbsp;<strong>SAV5THINKPAD</strong></span></td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+<td>
+<![endif]-->
+<div style="width: 70px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="10" bgcolor="#ffffff" class="hide"></td></tr>
+<tr>
+<td class="button-resize" style="font-family:Arial, Helvetica, sans-serif; font-size: 12px; color:#ffffff; text-align:center; text-decoration:none; border-radius:4px 4px 4px 4px; display:inline-block;border:1px solid #000000;" align="center" width="70" height="30" bgcolor="#d2232a">
+<a target="_blank" href="http://mailing.enews.pcmag.com/t/1186465/42804873/5945440/159/" style="background-color:#d2232a; border-radius:4px 4px 4px 4px; display:inline-block; text-decoration:none; text-transform:none; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:30px; font-weight:bold; color:#ffffff; text-align:center; width:70px; height:30px; -webkit-text-size-adjust:none;">
+<font style="text-decoration:none; color:#ffffff">
+<span class="fontsize">
+Get Deal
+</span>
+<span class="hide">
+&#9658;
+</span>
+</font>
+</a>
+</td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr><td height="5" bgcolor="#ffffff"></td></tr>
+</table>
+</td>
+<td bgcolor="#E7E7E7" width="10"></td>
+</tr>
+
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+    <tr>
+    	<td>
+        	<table cellpadding="0" cellspacing="0" border="0" align="left">
+            	<tr>
+                	<td align="center" width="180" height="40" bgcolor="#d2232a"><font style="font-family:Arial; font-size:24px; color:#ffffff; font-weight:bold;" class="headingsize">For Play</font></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr><td height="10" bgcolor="#ffffff"></td></tr>
+    <tr>
+<td style="text-align: center; vertical-align: top; font-size: 0; border:1px solid #cccccc; padding-top:10px; padding-bottom:10px;" align="center" bgcolor="#E7E7E7">
+<!--[if (gte mso 9)|(IE)]>
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<![endif]-->
+<div style="width: 300px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#E7E7E7">
+<tr>
+<td bgcolor="#E7E7E7" width="10"></td>
+<td style="font-size: 14px;" align="center" bgcolor="#E7E7E7" width="300">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" class="devicewidth-border" style="border:1px solid #cccccc;">
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td align="center">
+<a href="http://mailing.enews.pcmag.com/t/1186465/42804873/5945515/159/" target="_blank">
+<img src="http://static.ziffdavis.com/cimages/techdeals/deal-images/270x180-HP-Omen-Gaming-Laptop-BlueBG.jpg" alt="HP Omen 15-5010nr Gaming Notebook with Beats Audio" width="270" height="180" class="imgdevicewidth" style="border:none;">
+</a>
+</td>
+</tr>
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td height="50" align="left" class="mobileHeading" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; color:#333333; line-height:16px; text-align:left; padding-left:5px; padding-right:5px; background-color:#f1f1f1;"><span class="fontsize"><font style="color: #d2232a"></font>HP Omen 15XT Intel i7 Quad-Core 15.6" Gaming Laptop with 256GB SSD and Nvidia 860m 4GB Video Card</span>
+</td>
+</tr>
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td style="text-align:center; vertical-align:top; font-size:0; padding-left:5px; padding-right:5px;">
+<!--[if (gte mso 9)|(IE)]>
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<![endif]-->
+<div style="width: 190px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" class="cost">
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; font-size: 18px; font-weight:bold; line-height:18px; color:#333333" align="left" width="190" class="costTxt">
+<font style ="color:#d2232a;">
+$1,189.99
+</font>
+<font style ="font-size:10px; text-transform:uppercase;" class="fontsize14">
++ free shipping
+</font>
+</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#ffffff" class="center">
+<font style ="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; font-weight:bold; text-decoration:line-through">$1,699.99</font>
+<font style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:12px; color:#000000;">
+&nbsp;Save: <strong>$510.00 (30%)</strong></font>
+</td>
+</tr>
+<tr>
+<td align="left" class="costTxt"><span style ="font-family:Arial, Helvetica, sans-serif; line-height:18px; font-size:12px; color:#000000;" class="fontsize">Coupon:&nbsp;<strong>CPC30</strong></span></td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+<td>
+<![endif]-->
+<div style="width: 70px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="10" bgcolor="#ffffff" class="hide"></td></tr>
+<tr>
+<td class="button-resize" style="font-family:Arial, Helvetica, sans-serif; font-size: 12px; color:#ffffff; text-align:center; text-decoration:none; border-radius:4px 4px 4px 4px; display:inline-block;border:1px solid #000000;" align="center" width="70" height="30" bgcolor="#d2232a">
+<a target="_blank" href="http://mailing.enews.pcmag.com/t/1186465/42804873/5945515/159/" style="background-color:#d2232a; border-radius:4px 4px 4px 4px; display:inline-block; text-decoration:none; text-transform:none; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:30px; font-weight:bold; color:#ffffff; text-align:center; width:70px; height:30px; -webkit-text-size-adjust:none;">
+<font style="text-decoration:none; color:#ffffff">
+<span class="fontsize">
+Get Deal
+</span>
+<span class="hide">
+&#9658;
+</span>
+</font>
+</a>
+</td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr><td height="5" bgcolor="#ffffff"></td></tr>
+</table>
+</td>
+<td bgcolor="#E7E7E7" width="10"></td>
+</tr>
+
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+<td>
+<![endif]-->
+<div style="width: 300px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#E7E7E7">
+<tr>
+<td bgcolor="#E7E7E7" width="10"></td>
+<td style="font-size: 14px;" align="center" bgcolor="#E7E7E7" width="300">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" class="devicewidth-border" style="border:1px solid #cccccc;">
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td align="center">
+<a href="http://mailing.enews.pcmag.com/t/1186465/42804873/5945445/159/" target="_blank">
+<img src="http://static.ziffdavis.com/cimages/techdeals/deal-images/270x180-Alienware-15-blackbg.jpg" alt="Alienware 15 Core i5 1080p Gaming Laptop w/ 16GB RAM, 128GB SSD & 3GB GeForce GTX 970M Graphics" width="270" height="180" class="imgdevicewidth" style="border:none;">
+</a>
+</td>
+</tr>
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td height="50" align="left" class="mobileHeading" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; color:#333333; line-height:16px; text-align:left; padding-left:5px; padding-right:5px; background-color:#f1f1f1;"><span class="fontsize"><font style="color: #d2232a"></font>Alienware 15 Core i5 1080p Gaming Laptop w/ 16GB RAM, 128GB SSD &amp; 3GB GeForce GTX 970M Graphics</span>
+</td>
+</tr>
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td style="text-align:center; vertical-align:top; font-size:0; padding-left:5px; padding-right:5px;">
+<!--[if (gte mso 9)|(IE)]>
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<![endif]-->
+<div style="width: 190px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" class="cost">
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; font-size: 18px; font-weight:bold; line-height:18px; color:#333333" align="left" width="190" class="costTxt">
+<font style ="color:#d2232a;">
+$1,449.99
+</font>
+<font style ="font-size:10px; text-transform:uppercase;" class="fontsize14">
++ free shipping
+</font>
+</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#ffffff" class="center">
+<font style ="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; font-weight:bold; text-decoration:line-through">$1,649.99</font>
+<font style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:12px; color:#000000;">
+&nbsp;Save: <strong>$200.00 (12%)</strong></font>
+</td>
+</tr>
+<tr>
+<td align="left" class="costTxt"><span style ="font-family:Arial, Helvetica, sans-serif; line-height:18px; font-size:12px; color:#000000;" class="fontsize">Coupon:&nbsp;<strong>G6C110T4?KJRVK</strong></span></td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+<td>
+<![endif]-->
+<div style="width: 70px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="10" bgcolor="#ffffff" class="hide"></td></tr>
+<tr>
+<td class="button-resize" style="font-family:Arial, Helvetica, sans-serif; font-size: 12px; color:#ffffff; text-align:center; text-decoration:none; border-radius:4px 4px 4px 4px; display:inline-block;border:1px solid #000000;" align="center" width="70" height="30" bgcolor="#d2232a">
+<a target="_blank" href="http://mailing.enews.pcmag.com/t/1186465/42804873/5945445/159/" style="background-color:#d2232a; border-radius:4px 4px 4px 4px; display:inline-block; text-decoration:none; text-transform:none; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:30px; font-weight:bold; color:#ffffff; text-align:center; width:70px; height:30px; -webkit-text-size-adjust:none;">
+<font style="text-decoration:none; color:#ffffff">
+<span class="fontsize">
+Get Deal
+</span>
+<span class="hide">
+&#9658;
+</span>
+</font>
+</a>
+</td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr><td height="5" bgcolor="#ffffff"></td></tr>
+</table>
+</td>
+<td bgcolor="#E7E7E7" width="10"></td>
+</tr>
+
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+    <tr>
+    	<td>
+        	<table cellpadding="0" cellspacing="0" border="0" align="left">
+            	<tr>
+                	<td align="center" width="180" height="40" bgcolor="#d2232a"><font style="font-family:Arial; font-size:24px; color:#ffffff; font-weight:bold;" class="headingsize">For The Road</font></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0; border:1px solid #cccccc; padding-top:10px; padding-bottom:10px;" align="center" bgcolor="#E7E7E7">
+<!--[if (gte mso 9)|(IE)]>
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<![endif]-->
+<div style="width: 300px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#E7E7E7">
+<tr>
+<td bgcolor="#E7E7E7" width="10"></td>
+<td style="font-size: 14px;" align="center" bgcolor="#E7E7E7" width="300">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" class="devicewidth-border" style="border:1px solid #cccccc;">
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td align="center">
+<a href="http://mailing.enews.pcmag.com/t/1186465/42804873/5945449/159/" target="_blank">
+<img src="http://static.ziffdavis.com/cimages/techdeals/deal-images/270x180-Lenovo-Yoga-3-pro-v2.jpg" alt="Lenovo Yoga 3 Pro 13.3in 3200x1800 "Broadwell" 2-in-1 Touch Laptop w/ 256GB SSD" width="270" height="180" class="imgdevicewidth" style="border:none;">
+</a>
+</td>
+</tr>
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td height="50" align="left" class="mobileHeading" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; color:#333333; line-height:16px; text-align:left; padding-left:5px; padding-right:5px; background-color:#f1f1f1;"><span class="fontsize"><font style="color: #d2232a">3 Color Options! </font>Lenovo Yoga 3 Pro 13.3" 3200x1800 "Broadwell" 2-in-1 Touch Laptop w/ 256GB SSD</span>
+</td>
+</tr>
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td style="text-align:center; vertical-align:top; font-size:0; padding-left:5px; padding-right:5px;">
+<!--[if (gte mso 9)|(IE)]>
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<![endif]-->
+<div style="width: 190px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" class="cost">
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; font-size: 18px; font-weight:bold; line-height:18px; color:#333333" align="left" width="190" class="costTxt">
+<font style ="color:#d2232a;">
+$1,149.00
+</font>
+<font style ="font-size:10px; text-transform:uppercase;" class="fontsize14">
++ free shipping
+</font>
+</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#ffffff" class="center">
+<font style ="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; font-weight:bold; text-decoration:line-through">$1,499.99</font>
+<font style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:12px; color:#000000;">
+&nbsp;Save: <strong>$350.99 (23%)</strong></font>
+</td>
+</tr>
+<tr>
+<td align="left" class="costTxt"><span style ="font-family:Arial, Helvetica, sans-serif; line-height:18px; font-size:12px; color:#000000;" class="fontsize">Coupon:&nbsp;<strong>YGA3PRO150OFF</strong></span></td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+<td>
+<![endif]-->
+<div style="width: 70px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="10" bgcolor="#ffffff" class="hide"></td></tr>
+<tr>
+<td class="button-resize" style="font-family:Arial, Helvetica, sans-serif; font-size: 12px; color:#ffffff; text-align:center; text-decoration:none; border-radius:4px 4px 4px 4px; display:inline-block;border:1px solid #000000;" align="center" width="70" height="30" bgcolor="#d2232a">
+<a target="_blank" href="http://mailing.enews.pcmag.com/t/1186465/42804873/5945449/159/" style="background-color:#d2232a; border-radius:4px 4px 4px 4px; display:inline-block; text-decoration:none; text-transform:none; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:30px; font-weight:bold; color:#ffffff; text-align:center; width:70px; height:30px; -webkit-text-size-adjust:none;">
+<font style="text-decoration:none; color:#ffffff">
+<span class="fontsize">
+Get Deal
+</span>
+<span class="hide">
+&#9658;
+</span>
+</font>
+</a>
+</td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr><td height="5" bgcolor="#ffffff"></td></tr>
+</table>
+</td>
+<td bgcolor="#E7E7E7" width="10"></td>
+</tr>
+
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+<td>
+<![endif]-->
+<div style="width: 300px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#E7E7E7">
+<tr>
+<td bgcolor="#E7E7E7" width="10"></td>
+<td style="font-size: 14px;" align="center" bgcolor="#E7E7E7" width="300">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" class="devicewidth-border" style="border:1px solid #cccccc;">
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td align="center">
+<a href="http://mailing.enews.pcmag.com/t/1186465/42804873/5945516/159/" target="_blank">
+<img src="http://static.ziffdavis.com/cimages/techdeals/deal-images/270x180-Dell-Chromebook-11-new-release.jpg" alt="Dell Chromebook 11 Non-Touch (Blue)" width="270" height="180" class="imgdevicewidth" style="border:none;">
+</a>
+</td>
+</tr>
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td height="50" align="left" class="mobileHeading" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; color:#333333; line-height:16px; text-align:left; padding-left:5px; padding-right:5px; background-color:#f1f1f1;"><span class="fontsize"><font style="color: #d2232a"></font>Dell Chromebook 11 Non-Touch (Blue)</span>
+</td>
+</tr>
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td style="text-align:center; vertical-align:top; font-size:0; padding-left:5px; padding-right:5px;">
+<!--[if (gte mso 9)|(IE)]>
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<![endif]-->
+<div style="width: 190px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" class="cost">
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; font-size: 18px; font-weight:bold; line-height:18px; color:#333333" align="left" width="190" class="costTxt">
+<font style ="color:#d2232a;">
+$259.00
+</font>
+<font style ="font-size:10px; text-transform:uppercase;" class="fontsize14">
++ free shipping
+</font>
+</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#ffffff" class="center">
+<font style ="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; font-weight:bold; text-decoration:line-through">$370.00</font>
+<font style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:12px; color:#000000;">
+&nbsp;Save: <strong>$111.00 (30%)</strong></font>
+</td>
+</tr>
+<tr>
+<td align="left" class="costTxt"><span style ="font-family:Arial, Helvetica, sans-serif; line-height:18px; font-size:12px; color:#000000;" class="fontsize">&nbsp;</span></td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+<td>
+<![endif]-->
+<div style="width: 70px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="10" bgcolor="#ffffff" class="hide"></td></tr>
+<tr>
+<td class="button-resize" style="font-family:Arial, Helvetica, sans-serif; font-size: 12px; color:#ffffff; text-align:center; text-decoration:none; border-radius:4px 4px 4px 4px; display:inline-block;border:1px solid #000000;" align="center" width="70" height="30" bgcolor="#d2232a">
+<a target="_blank" href="http://mailing.enews.pcmag.com/t/1186465/42804873/5945516/159/" style="background-color:#d2232a; border-radius:4px 4px 4px 4px; display:inline-block; text-decoration:none; text-transform:none; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:30px; font-weight:bold; color:#ffffff; text-align:center; width:70px; height:30px; -webkit-text-size-adjust:none;">
+<font style="text-decoration:none; color:#ffffff">
+<span class="fontsize">
+Get Deal
+</span>
+<span class="hide">
+&#9658;
+</span>
+</font>
+</a>
+</td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr><td height="5" bgcolor="#ffffff"></td></tr>
+</table>
+</td>
+<td bgcolor="#E7E7E7" width="10"></td>
+</tr>
+
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr>
+    	<td>
+        	<table cellpadding="0" cellspacing="0" border="0" align="left">
+            	<tr>
+                	<td width="20"></td>
+                	<td height="50" align="center"><font class="headingsize" style="font-family:'Arial'; font-size:24px; color:#333333; font-weight:normal; font-style:italic;">Don't Forget These Must-Have Accessories</font></td>
+                    <td width="20" class="hide"></td>
+                    <td class="hide" width="100"><hr width="100" size="1" style="border-top-style:dotted; border-top-color:#3B9F7F; border-top-width:5px; color:#ffffff; font-weight:bold;" /></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0; border:1px solid #cccccc; padding-top:10px; padding-bottom:10px;" align="center" bgcolor="#E7E7E7">
+<!--[if (gte mso 9)|(IE)]>
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<![endif]-->
+<div style="width: 220px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#E7E7E7">
+<tr>
+<td bgcolor="#E7E7E7" width="2"></td>
+<td style="font-size: 14px;" align="center" bgcolor="#E7E7E7" width="200">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" class="devicewidth-border" style="border:1px solid #cccccc;">
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td align="center">
+<a href="http://mailing.enews.pcmag.com/t/1186465/42804873/5945441/579/" target="_blank">
+<img src="http://static.ziffdavis.com/cimages/techdeals/deal-images/200x200-Epson-Expressions-XP410-Home.jpg" alt="Epson Expression Home XP-410 Small-in-One All-in-One Wireless Inkjet Printer" width="200" height="200" class="imgdevicewidth2" style="border:none;">
+</a>
+</td>
+</tr>
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td height="50" align="left" class="mobileHeading" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; color:#333333; line-height:16px; text-align:left; padding-left:5px; padding-right:5px; background-color:#f1f1f1;"><span class="fontsize"><font style="color: #d2232a"></font>Epson Expression Home XP-410 All-in-One Wireless Inkjet Printer</span>
+</td>
+</tr>
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td style="text-align:center; vertical-align:top; font-size:0; padding-left:5px; padding-right:5px;">
+<!--[if (gte mso 9)|(IE)]>
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<![endif]-->
+<div style="width: 180px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" class="cost">
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; font-size: 18px; font-weight:bold; line-height:18px; color:#333333" align="left" width="180" class="costTxt">
+<font style ="color:#d2232a;">
+$59.99
+</font>
+<font style ="font-size:10px; text-transform:uppercase;" class="fontsize14">
++ free shipping
+</font>
+</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#ffffff" class="center">
+<font style ="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; font-weight:bold; text-decoration:line-through">$99.99</font>
+<font style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:12px; color:#000000;">
+&nbsp;Save: <strong>$40.00 (40%)</strong></font>
+</td>
+</tr>
+<tr>
+<td align="center">
+<table width="70" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" class="devicewidth">
+<tr><td height="10" bgcolor="#ffffff" class="hide"></td></tr>
+<tr>
+<td class="button-resize" style="font-family:Arial, Helvetica, sans-serif; font-size: 12px; color:#ffffff; text-align:center; text-decoration:none; border-radius:4px 4px 4px 4px; display:inline-block;border:1px solid #000000;" align="center" width="70" height="30" bgcolor="#d2232a">
+<a target="_blank" href="http://mailing.enews.pcmag.com/t/1186465/42804873/5945441/579/" style="background-color:#d2232a; border-radius:4px 4px 4px 4px; display:inline-block; text-decoration:none; text-transform:none; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:30px; font-weight:bold; color:#ffffff; text-align:center; width:70px; height:30px; -webkit-text-size-adjust:none;">
+<font style="text-decoration:none; color:#ffffff">
+<span class="fontsize">
+Get Deal
+</span>
+<span class="hide">
+&#9658;
+</span>
+</font>
+</a>
+</td>
+</tr>
+</table>
+        
+</td>
+</tr>
+</table>
+</div>
+
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr><td height="5" bgcolor="#ffffff"></td></tr>
+</table>
+</td>
+<td bgcolor="#E7E7E7" width="2"></td>
+</tr>
+
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+<td>
+<![endif]-->
+<div style="width: 220px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#E7E7E7">
+<tr>
+<td bgcolor="#E7E7E7" width="2"></td>
+<td style="font-size: 14px;" align="center" bgcolor="#E7E7E7" width="200">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" class="devicewidth-border" style="border:1px solid #cccccc;">
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td align="center">
+<a href="http://mailing.enews.pcmag.com/t/1186465/42804873/5945442/579/" target="_blank">
+<img src="http://static.ziffdavis.com/cimages/techdeals/deal-images/200x200-McKlein-Hazel-Crest-Laptop-Case-Black.jpg" alt="McKlein S Series Hazel Crest Double Leather Compartment Laptop Case" width="200" height="200" class="imgdevicewidth2" style="border:none;">
+</a>
+</td>
+</tr>
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td height="50" align="left" class="mobileHeading" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; color:#333333; line-height:16px; text-align:left; padding-left:5px; padding-right:5px; background-color:#f1f1f1;"><span class="fontsize"><font style="color: #d2232a"></font>McKlein S Series Hazel Crest Double Leather Compartment Laptop Case</span>
+</td>
+</tr>
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td style="text-align:center; vertical-align:top; font-size:0; padding-left:5px; padding-right:5px;">
+<!--[if (gte mso 9)|(IE)]>
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<![endif]-->
+<div style="width: 180px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" class="cost">
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; font-size: 18px; font-weight:bold; line-height:18px; color:#333333" align="left" width="180" class="costTxt">
+<font style ="color:#d2232a;">
+$139.99
+</font>
+<font style ="font-size:10px; text-transform:uppercase;" class="fontsize14">
++ free shipping
+</font>
+</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#ffffff" class="center">
+<font style ="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; font-weight:bold; text-decoration:line-through">$353.00</font>
+<font style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:12px; color:#000000;">
+&nbsp;Save: <strong>$213.01 (60%)</strong></font>
+</td>
+</tr>
+<tr>
+<td align="center">
+<table width="70" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" class="devicewidth">
+<tr><td height="10" bgcolor="#ffffff" class="hide"></td></tr>
+<tr>
+<td class="button-resize" style="font-family:Arial, Helvetica, sans-serif; font-size: 12px; color:#ffffff; text-align:center; text-decoration:none; border-radius:4px 4px 4px 4px; display:inline-block;border:1px solid #000000;" align="center" width="70" height="30" bgcolor="#d2232a">
+<a target="_blank" href="http://mailing.enews.pcmag.com/t/1186465/42804873/5945442/579/" style="background-color:#d2232a; border-radius:4px 4px 4px 4px; display:inline-block; text-decoration:none; text-transform:none; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:30px; font-weight:bold; color:#ffffff; text-align:center; width:70px; height:30px; -webkit-text-size-adjust:none;">
+<font style="text-decoration:none; color:#ffffff">
+<span class="fontsize">
+Get Deal
+</span>
+<span class="hide">
+&#9658;
+</span>
+</font>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr><td height="5" bgcolor="#ffffff"></td></tr>
+</table>
+</td>
+<td bgcolor="#E7E7E7" width="2"></td>
+</tr>
+
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+<td>
+<![endif]-->
+
+<div style="width: 220px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#E7E7E7">
+<tr>
+<td bgcolor="#E7E7E7" width="2"></td>
+<td style="font-size: 14px;" align="center" bgcolor="#E7E7E7" width="200">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" class="devicewidth-border" style="border:1px solid #cccccc;">
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td align="center">
+<a href="http://mailing.enews.pcmag.com/t/1186465/42804873/5945443/579/" target="_blank">
+<img src="http://static.ziffdavis.com/cimages/techdeals/deal-images/200x200-Range-Extender.jpg" alt="Linksys RE2000 N600 Dual-Band WiFi Range Extender" width="200" height="200" class="imgdevicewidth2" style="border:none;">
+</a>
+</td>
+</tr>
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td height="50" align="left" class="mobileHeading" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; color:#333333; line-height:16px; text-align:left; padding-left:5px; padding-right:5px; background-color:#f1f1f1;"><span class="fontsize"><font style="color: #d2232a"></font>Linksys RE2000 N600 Dual-Band WiFi Range Extender</span>
+</td>
+</tr>
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td style="text-align:center; vertical-align:top; font-size:0; padding-left:5px; padding-right:5px;">
+<!--[if (gte mso 9)|(IE)]>
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<![endif]-->
+<div style="width: 180px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" class="cost">
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; font-size: 18px; font-weight:bold; line-height:18px; color:#333333" align="left" width="180" class="costTxt">
+<font style ="color:#d2232a;">
+$49.99
+</font>
+<font style ="font-size:10px; text-transform:uppercase;" class="fontsize14">
++ free shipping
+</font>
+</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#ffffff" class="center">
+<font style ="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; font-weight:bold; text-decoration:line-through">$80.99</font>
+<font style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:12px; color:#000000;">
+&nbsp;Save: <strong>$31.00 (38%)</strong></font>
+</td>
+</tr>
+<tr>
+<td align="center">
+<table width="70" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" class="devicewidth">
+<tr><td height="10" bgcolor="#ffffff" class="hide"></td></tr>
+<tr>
+<td class="button-resize" style="font-family:Arial, Helvetica, sans-serif; font-size: 12px; color:#ffffff; text-align:center; text-decoration:none; border-radius:4px 4px 4px 4px; display:inline-block;border:1px solid #000000;" align="center" width="70" height="30" bgcolor="#d2232a">
+<a target="_blank" href="http://mailing.enews.pcmag.com/t/1186465/42804873/5945443/579/" style="background-color:#d2232a; border-radius:4px 4px 4px 4px; display:inline-block; text-decoration:none; text-transform:none; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:30px; font-weight:bold; color:#ffffff; text-align:center; width:70px; height:30px; -webkit-text-size-adjust:none;">
+<font style="text-decoration:none; color:#ffffff">
+<span class="fontsize">
+Get Deal
+</span>
+<span class="hide">
+&#9658;
+</span>
+</font>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr><td height="5" bgcolor="#ffffff"></td></tr>
+</table>
+</td>
+<td bgcolor="#E7E7E7" width="2"></td>
+</tr>
+
+</table>
+</div>
+
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+
+
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0; border:1px solid #cccccc; padding-top:10px; padding-bottom:10px;" align="center" bgcolor="#E7E7E7">
+<!--[if (gte mso 9)|(IE)]>
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<![endif]-->
+<div style="width: 220px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#E7E7E7">
+<tr>
+<td bgcolor="#E7E7E7" width="2"></td>
+<td style="font-size: 14px;" align="center" bgcolor="#E7E7E7" width="200">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" class="devicewidth-border" style="border:1px solid #cccccc;">
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td align="center">
+<a href="http://mailing.enews.pcmag.com/t/1186465/42804873/5945446/579/" target="_blank">
+<img src="http://static.ziffdavis.com/cimages/techdeals/deal-images/200x200-Dell-ROCCAT-Gaming-Mouse-Black.jpg" alt="ROCCAT Tyon All Action Multi-Button Gaming Mouse" width="200" height="200" class="imgdevicewidth2" style="border:none;">
+</a>
+</td>
+</tr>
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td height="50" align="left" class="mobileHeading" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; color:#333333; line-height:16px; text-align:left; padding-left:5px; padding-right:5px; background-color:#f1f1f1;"><span class="fontsize"><font style="color: #d2232a"></font>ROCCAT Tyon All Action Multi-Button Gaming Mouse</span>
+</td>
+</tr>
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td style="text-align:center; vertical-align:top; font-size:0; padding-left:5px; padding-right:5px;">
+<!--[if (gte mso 9)|(IE)]>
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<![endif]-->
+<div style="width: 180px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" class="cost">
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; font-size: 18px; font-weight:bold; line-height:18px; color:#333333" align="left" width="180" class="costTxt">
+<font style ="color:#d2232a;">
+$99.99
+</font>
+<font style ="font-size:10px; text-transform:uppercase;" class="fontsize14">
++ free shipping
+</font>
+</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#ffffff" class="center">
+<font style ="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; font-weight:bold; text-decoration:line-through"></font>
+<font style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:12px; color:#000000;">&nbsp;</font>
+</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#ffffff" class="center">
+<font style ="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; font-weight:bold; text-decoration:line-through"></font>
+<font style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:12px; color:#000000;">&nbsp;</font>
+</td>
+</tr>
+<tr>
+<td align="center">
+<table width="70" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" class="devicewidth">
+<tr><td height="10" bgcolor="#ffffff" class="hide"></td></tr>
+<tr>
+<td class="button-resize" style="font-family:Arial, Helvetica, sans-serif; font-size: 12px; color:#ffffff; text-align:center; text-decoration:none; border-radius:4px 4px 4px 4px; display:inline-block;border:1px solid #000000;" align="center" width="70" height="30" bgcolor="#d2232a">
+<a target="_blank" href="http://mailing.enews.pcmag.com/t/1186465/42804873/5945446/579/" style="background-color:#d2232a; border-radius:4px 4px 4px 4px; display:inline-block; text-decoration:none; text-transform:none; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:30px; font-weight:bold; color:#ffffff; text-align:center; width:70px; height:30px; -webkit-text-size-adjust:none;">
+<font style="text-decoration:none; color:#ffffff">
+<span class="fontsize">
+Get Deal
+</span>
+<span class="hide">
+&#9658;
+</span>
+</font>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr><td height="5" bgcolor="#ffffff"></td></tr>
+</table>
+</td>
+<td bgcolor="#E7E7E7" width="2"></td>
+</tr>
+
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+<td>
+<![endif]-->
+<div style="width: 220px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#E7E7E7">
+<tr>
+<td bgcolor="#E7E7E7" width="2"></td>
+<td style="font-size: 14px;" align="center" bgcolor="#E7E7E7" width="200">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" class="devicewidth-border" style="border:1px solid #cccccc;">
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td align="center">
+<a href="http://mailing.enews.pcmag.com/t/1186465/42804873/5945447/579/" target="_blank">
+<img src="http://static.ziffdavis.com/cimages/techdeals/deal-images/200x200-Turtle-Beach-Stealth-400-Box.jpg" alt="Turtle Beach Ear Force Stealth 400 Wireless Headset" width="200" height="200" class="imgdevicewidth2" style="border:none;">
+</a>
+</td>
+</tr>
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td height="50" align="left" class="mobileHeading" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; color:#333333; line-height:16px; text-align:left; padding-left:5px; padding-right:5px; background-color:#f1f1f1;"><span class="fontsize"><font style="color: #d2232a"></font>Turtle Beach Ear Force Stealth 400 Wireless Headset</span>
+</td>
+</tr>
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td style="text-align:center; vertical-align:top; font-size:0; padding-left:5px; padding-right:5px;">
+<!--[if (gte mso 9)|(IE)]>
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<![endif]-->
+<div style="width: 180px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" class="cost">
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; font-size: 18px; font-weight:bold; line-height:18px; color:#333333" align="left" width="180" class="costTxt">
+<font style ="color:#d2232a;">
+$99.99
+</font>
+<font style ="font-size:10px; text-transform:uppercase;" class="fontsize14">
++ free shipping
+</font>
+</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#ffffff" class="center">
+<font style ="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; font-weight:bold; text-decoration:line-through"></font>
+<font style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:12px; color:#000000;">&nbsp;</font>
+</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#ffffff" class="center">
+<font style ="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; font-weight:bold; text-decoration:line-through"></font>
+<font style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:12px; color:#000000;">&nbsp;</font>
+</td>
+</tr>
+<tr>
+<td align="center">
+<table width="70" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" class="devicewidth">
+<tr><td height="10" bgcolor="#ffffff" class="hide"></td></tr>
+<tr>
+<td class="button-resize" style="font-family:Arial, Helvetica, sans-serif; font-size: 12px; color:#ffffff; text-align:center; text-decoration:none; border-radius:4px 4px 4px 4px; display:inline-block;border:1px solid #000000;" align="center" width="70" height="30" bgcolor="#d2232a">
+<a target="_blank" href="http://mailing.enews.pcmag.com/t/1186465/42804873/5945447/579/" style="background-color:#d2232a; border-radius:4px 4px 4px 4px; display:inline-block; text-decoration:none; text-transform:none; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:30px; font-weight:bold; color:#ffffff; text-align:center; width:70px; height:30px; -webkit-text-size-adjust:none;">
+<font style="text-decoration:none; color:#ffffff">
+<span class="fontsize">
+Get Deal
+</span>
+<span class="hide">
+&#9658;
+</span>
+</font>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr><td height="5" bgcolor="#ffffff"></td></tr>
+</table>
+</td>
+<td bgcolor="#E7E7E7" width="2"></td>
+</tr>
+
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+<td>
+<![endif]-->
+
+<div style="width: 220px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#E7E7E7">
+<tr>
+<td bgcolor="#E7E7E7" width="2"></td>
+<td style="font-size: 14px;" align="center" bgcolor="#E7E7E7" width="200">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" class="devicewidth-border" style="border:1px solid #cccccc;">
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td align="center">
+<a href="http://mailing.enews.pcmag.com/t/1186465/42804873/5945448/579/" target="_blank">
+<img src="http://static.ziffdavis.com/cimages/techdeals/deal-images/200x200-Buffalo-Technology-Media-Station.jpg" alt="Buffalo Technology Media Station BDXL Portable Blu-Ray Writer" width="200" height="200" class="imgdevicewidth2" style="border:none;">
+</a>
+</td>
+</tr>
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td height="50" align="left" class="mobileHeading" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; color:#333333; line-height:16px; text-align:left; padding-left:5px; padding-right:5px; background-color:#f1f1f1;"><span class="fontsize"><font style="color: #d2232a"></font>Buffalo Technology Media Station BDXL Portable Blu-Ray Writer</span>
+</td>
+</tr>
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td style="text-align:center; vertical-align:top; font-size:0; padding-left:5px; padding-right:5px;">
+<!--[if (gte mso 9)|(IE)]>
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<![endif]-->
+<div style="width: 180px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" class="cost">
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; font-size: 18px; font-weight:bold; line-height:18px; color:#333333" align="left" width="180" class="costTxt">
+<font style ="color:#d2232a;">
+$84.99
+</font>
+<font style ="font-size:10px; text-transform:uppercase;" class="fontsize14">
++ free shipping
+</font>
+</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#ffffff" class="center">
+<font style ="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; font-weight:bold; text-decoration:line-through">$99.99</font>
+<font style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:12px; color:#000000;">
+&nbsp;Save: <strong>$15.00 (15%)</strong></font>
+</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#ffffff" class="center">
+<font style ="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; font-weight:bold; text-decoration:line-through"></font>
+<font style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:12px; color:#000000;">Coupon:&nbsp;<strong>7HSVG1KQWWWSLK</strong></font>
+</td>
+</tr>
+<tr>
+<td align="center">
+<table width="70" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" class="devicewidth">
+<tr><td height="10" bgcolor="#ffffff" class="hide"></td></tr>
+<tr>
+<td class="button-resize" style="font-family:Arial, Helvetica, sans-serif; font-size: 12px; color:#ffffff; text-align:center; text-decoration:none; border-radius:4px 4px 4px 4px; display:inline-block;border:1px solid #000000;" align="center" width="70" height="30" bgcolor="#d2232a">
+<a target="_blank" href="http://mailing.enews.pcmag.com/t/1186465/42804873/5945448/579/" style="background-color:#d2232a; border-radius:4px 4px 4px 4px; display:inline-block; text-decoration:none; text-transform:none; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:30px; font-weight:bold; color:#ffffff; text-align:center; width:70px; height:30px; -webkit-text-size-adjust:none;">
+<font style="text-decoration:none; color:#ffffff">
+<span class="fontsize">
+Get Deal
+</span>
+<span class="hide">
+&#9658;
+</span>
+</font>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr><td height="5" bgcolor="#ffffff"></td></tr>
+</table>
+</td>
+<td bgcolor="#E7E7E7" width="2"></td>
+</tr>
+
+</table>
+</div>
+
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+
+
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0; border:1px solid #cccccc; padding-top:10px; padding-bottom:10px;" align="center" bgcolor="#E7E7E7">
+<!--[if (gte mso 9)|(IE)]>
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<![endif]-->
+<div style="width: 220px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#E7E7E7">
+<tr>
+<td bgcolor="#E7E7E7" width="2"></td>
+<td style="font-size: 14px;" align="center" bgcolor="#E7E7E7" width="200">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" class="devicewidth-border" style="border:1px solid #cccccc;">
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td align="center">
+<a href="http://mailing.enews.pcmag.com/t/1186465/42804873/5945451/579/" target="_blank">
+<img src="http://static.ziffdavis.com/cimages/techdeals/deal-images/200x200-Dlink-AC750-v2.jpg" alt="D-Link Systems WiFi AC750 Portable Router and Charger" width="200" height="200" class="imgdevicewidth2" style="border:none;">
+</a>
+</td>
+</tr>
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td height="50" align="left" class="mobileHeading" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; color:#333333; line-height:16px; text-align:left; padding-left:5px; padding-right:5px; background-color:#f1f1f1;"><span class="fontsize"><font style="color: #d2232a"></font>D-Link Systems WiFi AC750 Portable Router and Charger</span>
+</td>
+</tr>
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td style="text-align:center; vertical-align:top; font-size:0; padding-left:5px; padding-right:5px;">
+<!--[if (gte mso 9)|(IE)]>
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<![endif]-->
+<div style="width: 180px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" class="cost">
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; font-size: 18px; font-weight:bold; line-height:18px; color:#333333" align="left" width="180" class="costTxt">
+<font style ="color:#d2232a;">
+$99.99
+</font>
+<font style ="font-size:10px; text-transform:uppercase;" class="fontsize14">
++ free shipping
+</font>
+</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#ffffff" class="center">
+<font style ="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; font-weight:bold; text-decoration:line-through">$119.99</font>
+<font style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:12px; color:#000000;">
+&nbsp;Save: <strong>$20.00 (17%)</strong></font>
+</td>
+</tr>
+<tr>
+<td align="center">
+<table width="70" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" class="devicewidth">
+<tr><td height="10" bgcolor="#ffffff" class="hide"></td></tr>
+<tr>
+<td class="button-resize" style="font-family:Arial, Helvetica, sans-serif; font-size: 12px; color:#ffffff; text-align:center; text-decoration:none; border-radius:4px 4px 4px 4px; display:inline-block;border:1px solid #000000;" align="center" width="70" height="30" bgcolor="#d2232a">
+<a target="_blank" href="http://mailing.enews.pcmag.com/t/1186465/42804873/5945451/579/" style="background-color:#d2232a; border-radius:4px 4px 4px 4px; display:inline-block; text-decoration:none; text-transform:none; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:30px; font-weight:bold; color:#ffffff; text-align:center; width:70px; height:30px; -webkit-text-size-adjust:none;">
+<font style="text-decoration:none; color:#ffffff">
+<span class="fontsize">
+Get Deal
+</span>
+<span class="hide">
+&#9658;
+</span>
+</font>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr><td height="5" bgcolor="#ffffff"></td></tr>
+</table>
+</td>
+<td bgcolor="#E7E7E7" width="2"></td>
+</tr>
+
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+<td>
+<![endif]-->
+<div style="width: 220px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#E7E7E7">
+<tr>
+<td bgcolor="#E7E7E7" width="2"></td>
+<td style="font-size: 14px;" align="center" bgcolor="#E7E7E7" width="200">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" class="devicewidth-border" style="border:1px solid #cccccc;">
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td align="center">
+<a href="http://mailing.enews.pcmag.com/t/1186465/42804873/5945452/579/" target="_blank">
+<img src="http://static.ziffdavis.com/cimages/techdeals/deal-images/200x200-Anker-Astro-Pro2-Charger.jpg" alt="Anker Astro Pro2 20000mAh Multi-Voltage Portable Charger" width="200" height="200" class="imgdevicewidth2" style="border:none;">
+</a>
+</td>
+</tr>
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td height="50" align="left" class="mobileHeading" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; color:#333333; line-height:16px; text-align:left; padding-left:5px; padding-right:5px; background-color:#f1f1f1;"><span class="fontsize"><font style="color: #d2232a"></font>Anker Astro Pro2 20000mAh Multi-Voltage Portable Charger</span>
+</td>
+</tr>
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td style="text-align:center; vertical-align:top; font-size:0; padding-left:5px; padding-right:5px;">
+<!--[if (gte mso 9)|(IE)]>
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<![endif]-->
+<div style="width: 180px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" class="cost">
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; font-size: 18px; font-weight:bold; line-height:18px; color:#333333" align="left" width="180" class="costTxt">
+<font style ="color:#d2232a;">
+$99.99
+</font>
+<font style ="font-size:10px; text-transform:uppercase;" class="fontsize14">
++ free shipping
+</font>
+</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#ffffff" class="center">
+<font style ="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; font-weight:bold; text-decoration:line-through">$199.99</font>
+<font style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:12px; color:#000000;">
+&nbsp;Save: <strong>$100.00 (50%)</strong></font>
+</td>
+</tr>
+<tr>
+<td align="center">
+<table width="70" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" class="devicewidth">
+<tr><td height="10" bgcolor="#ffffff" class="hide"></td></tr>
+<tr>
+<td class="button-resize" style="font-family:Arial, Helvetica, sans-serif; font-size: 12px; color:#ffffff; text-align:center; text-decoration:none; border-radius:4px 4px 4px 4px; display:inline-block;border:1px solid #000000;" align="center" width="70" height="30" bgcolor="#d2232a">
+<a target="_blank" href="http://mailing.enews.pcmag.com/t/1186465/42804873/5945452/579/" style="background-color:#d2232a; border-radius:4px 4px 4px 4px; display:inline-block; text-decoration:none; text-transform:none; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:30px; font-weight:bold; color:#ffffff; text-align:center; width:70px; height:30px; -webkit-text-size-adjust:none;">
+<font style="text-decoration:none; color:#ffffff">
+<span class="fontsize">
+Get Deal
+</span>
+<span class="hide">
+&#9658;
+</span>
+</font>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr><td height="5" bgcolor="#ffffff"></td></tr>
+</table>
+</td>
+<td bgcolor="#E7E7E7" width="2"></td>
+</tr>
+
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+<td>
+<![endif]-->
+
+<div style="width: 220px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#E7E7E7">
+<tr>
+<td bgcolor="#E7E7E7" width="2"></td>
+<td style="font-size: 14px;" align="center" bgcolor="#E7E7E7" width="200">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" class="devicewidth-border" style="border:1px solid #cccccc;">
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td align="center">
+<a href="http://mailing.enews.pcmag.com/t/1186465/42804873/5945453/579/" target="_blank">
+<img src="http://static.ziffdavis.com/cimages/techdeals/deal-images/200x200-Laptop-Buddy-Tray-Blue-1.jpg" alt="Laptop Buddy Laptop Desk and Cup Holder (Blue)" width="200" height="200" class="imgdevicewidth2" style="border:none;">
+</a>
+</td>
+</tr>
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td height="50" align="left" class="mobileHeading" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; color:#333333; line-height:16px; text-align:left; padding-left:5px; padding-right:5px; background-color:#f1f1f1;"><span class="fontsize"><font style="color: #d2232a"></font>Laptop Buddy Laptop Desk and Cup Holder (Blue)</span>
+</td>
+</tr>
+<tr><td height="10" bgcolor="#f1f1f1"></td></tr>
+<tr>
+<td style="text-align:center; vertical-align:top; font-size:0; padding-left:5px; padding-right:5px;">
+<!--[if (gte mso 9)|(IE)]>
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<![endif]-->
+<div style="width: 180px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" class="cost">
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; font-size: 18px; font-weight:bold; line-height:18px; color:#333333" align="left" width="180" class="costTxt">
+<font style ="color:#d2232a;">
+$12.83
+</font>
+<font style ="font-size:10px; text-transform:uppercase;" class="fontsize14">
+</font>
+</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#ffffff" class="center">
+<font style ="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; font-weight:bold; text-decoration:line-through">$40.99</font>
+<font style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:12px; color:#000000;">
+&nbsp;Save: <strong>$28.16 (69%)</strong></font>
+</td>
+</tr>
+<tr>
+<td align="center">
+<table width="70" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" class="devicewidth">
+<tr><td height="10" bgcolor="#ffffff" class="hide"></td></tr>
+<tr>
+<td class="button-resize" style="font-family:Arial, Helvetica, sans-serif; font-size: 12px; color:#ffffff; text-align:center; text-decoration:none; border-radius:4px 4px 4px 4px; display:inline-block;border:1px solid #000000;" align="center" width="70" height="30" bgcolor="#d2232a">
+<a target="_blank" href="http://mailing.enews.pcmag.com/t/1186465/42804873/5945453/579/" style="background-color:#d2232a; border-radius:4px 4px 4px 4px; display:inline-block; text-decoration:none; text-transform:none; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:30px; font-weight:bold; color:#ffffff; text-align:center; width:70px; height:30px; -webkit-text-size-adjust:none;">
+<font style="text-decoration:none; color:#ffffff">
+<span class="fontsize">
+Get Deal
+</span>
+<span class="hide">
+&#9658;
+</span>
+</font>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr><td height="5" bgcolor="#ffffff"></td></tr>
+</table>
+</td>
+<td bgcolor="#E7E7E7" width="2"></td>
+</tr>
+
+</table>
+</div>
+
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+
+
+
+
+</table>
+
+
+
+<table cellpadding="0" cellspacing="0" border="0" class="devicewidth" align="center">
+  	<tr>
+    	<td>
+        	<table class="devicewidth" width="620" cellpadding="0" cellspacing="0" style="max-width: 620px; background-color:#ffffff;" bgcolor="#ffffff" align="center" dir="rtl">
+<tr><td height="10" bgcolor="#ffffff"></td></tr>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0;" align="center" bgcolor="#ffffff">
+<!--[if (gte mso 9)|(IE)]>
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<![endif]-->
+<div style="width: 300px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#931505" dir="ltr" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td bgcolor="#ffffff" width="10"></td>
+<td style="font-size: 14px;" align="center" bgcolor="#931505" width="290">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" class="devicewidth">
+<tr><td height="20"></td></tr>
+<tr>
+<td dir="ltr" align="center" class="full">
+<p style="mso-table-lspace:0;mso-table-rspace:0; padding:0; margin:0;">
+
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+	<td colspan="2">
+		<a style="display: block; width: 300px; height: 250px;" href="http://mailing.enews.pcmag.com/t/1186465/42804873/5711149/6/?3e076d18=MUBvc2Nhci1vZS5ncg%3d%3d&e5e2987d=MTE4NjQ2NQ%3d%3d&x=2819c7fd" rel="nofollow"><img src="http://li.ziffdavis.com/imp?s=78247&sz=300x250&li=pcmag_email&e=1@oscar-oe.gr&p=1186465" border="0" width="300" height="250"/></a>
+	</td>
+</tr>
+<tr style="display:block; height:1px; line-height:1px;">
+	<td>
+		<img src="http://li.ziffdavis.com/imp?s=78420&sz=1x1&li=pcmag_email&e=1@oscar-oe.gr&p=1186465" height="1" width="10"/>
+	</td>
+	<td>
+		<img src="http://li.ziffdavis.com/imp?s=78421&sz=1x1&li=pcmag_email&e=1@oscar-oe.gr&p=1186465" height="1" width="10"/>
+	</td>
+</tr>
+<tr>
+	<td align="left">
+		<a href="http://mailing.enews.pcmag.com/t/1186465/42804873/5711150/7/?3e076d18=MUBvc2Nhci1vZS5ncg%3d%3d&e5e2987d=MTE4NjQ2NQ%3d%3d&x=69ffe0bd" rel="nofollow"><img src="http://li.ziffdavis.com/imp?s=78239&sz=116x15&li=pcmag_email&e=1@oscar-oe.gr&p=1186465" border="0"/></a>
+	</td>
+	<td align="right">
+		<a href="http://mailing.enews.pcmag.com/t/1186465/42804873/5711151/8/?3e076d18=MUBvc2Nhci1vZS5ncg%3d%3d&e5e2987d=MTE4NjQ2NQ%3d%3d&x=c8224646" rel="nofollow"><img src="http://li.ziffdavis.com/imp?s=96008&sz=69x15&li=pcmag_email&e=1@oscar-oe.gr&p=1186465" border="0"/></a>
+	</td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0" width="40" height="6">
+<tbody>
+<tr>
+	<td>
+		<img src="http://li.ziffdavis.com/imp?s=78444&sz=2x1&li=pcmag_email&e=1@oscar-oe.gr&p=1186465" width="2" height="6" border="0"/>
+	</td>
+	<td>
+		<img src="http://li.ziffdavis.com/imp?s=78445&sz=2x1&li=pcmag_email&e=1@oscar-oe.gr&p=1186465" width="2" height="6" border="0"/>
+	</td>
+	<td>
+		<img src="http://li.ziffdavis.com/imp?s=78446&sz=2x1&li=pcmag_email&e=1@oscar-oe.gr&p=1186465" width="2" height="6" border="0"/>
+	</td>
+	<td>
+		<img src="http://li.ziffdavis.com/imp?s=78447&sz=2x1&li=pcmag_email&e=1@oscar-oe.gr&p=1186465" width="2" height="6" border="0"/>
+	</td>
+	<td>
+		<img src="http://li.ziffdavis.com/imp?s=78448&sz=2x1&li=pcmag_email&e=1@oscar-oe.gr&p=1186465" width="2" height="6" border="0"/>
+	</td>
+	<td>
+		<img src="http://li.ziffdavis.com/imp?s=78449&sz=2x1&li=pcmag_email&e=1@oscar-oe.gr&p=1186465" width="2" height="6" border="0"/>
+	</td>
+	<td>
+		<img src="http://li.ziffdavis.com/imp?s=78450&sz=2x1&li=pcmag_email&e=1@oscar-oe.gr&p=1186465" width="2" height="6" border="0"/>
+	</td>
+	<td>
+		<img src="http://li.ziffdavis.com/imp?s=78451&sz=2x1&li=pcmag_email&e=1@oscar-oe.gr&p=1186465" width="2" height="6" border="0"/>
+	</td>
+	<td>
+		<img src="http://li.ziffdavis.com/imp?s=78452&sz=2x1&li=pcmag_email&e=1@oscar-oe.gr&p=1186465" width="2" height="6" border="0"/>
+	</td>
+	<td>
+		<img src="http://li.ziffdavis.com/imp?s=78453&sz=2x1&li=pcmag_email&e=1@oscar-oe.gr&p=1186465" width="2" height="6" border="0"/>
+	</td>
+	<td>
+		<img src="http://li.ziffdavis.com/imp?s=78454&sz=2x1&li=pcmag_email&e=1@oscar-oe.gr&p=1186465" width="2" height="6" border="0"/>
+	</td>
+	<td>
+		<img src="http://li.ziffdavis.com/imp?s=78455&sz=2x1&li=pcmag_email&e=1@oscar-oe.gr&p=1186465" width="2" height="6" border="0"/>
+	</td>
+	<td>
+		<img src="http://li.ziffdavis.com/imp?s=123441912&sz=2x1&li=pcmag_email&e=1@oscar-oe.gr&p=1186465" width="2" height="6" border="0"/>
+	</td>
+	<td>
+		<img src="http://li.ziffdavis.com/imp?s=123441913&sz=2x1&li=pcmag_email&e=1@oscar-oe.gr&p=1186465" width="2" height="6" border="0"/>
+	</td>
+	<td>
+		<img src="http://li.ziffdavis.com/imp?s=123441914&sz=2x1&li=pcmag_email&e=1@oscar-oe.gr&p=1186465" width="2" height="6" border="0"/>
+	</td>
+	<td>
+		<img src="http://li.ziffdavis.com/imp?s=123441915&sz=2x1&li=pcmag_email&e=1@oscar-oe.gr&p=1186465" width="2" height="6" border="0"/>
+	</td>
+	<td>
+		<img src="http://li.ziffdavis.com/imp?s=123441916&sz=2x1&li=pcmag_email&e=1@oscar-oe.gr&p=1186465" width="2" height="6" border="0"/>
+	</td>
+	<td>
+		<img src="http://li.ziffdavis.com/imp?s=123441917&sz=2x1&li=pcmag_email&e=1@oscar-oe.gr&p=1186465" width="2" height="6" border="0"/>
+	</td>
+	<td>
+		<img src="http://li.ziffdavis.com/imp?s=123441918&sz=2x1&li=pcmag_email&e=1@oscar-oe.gr&p=1186465" width="2" height="6" border="0"/>
+	</td>
+	<td>
+		<img src="http://li.ziffdavis.com/imp?s=123441919&sz=2x1&li=pcmag_email&e=1@oscar-oe.gr&p=1186465" width="2" height="6" border="0"/>
+	</td>
+</tr>
+</tbody>
+</table>
+
+
+</p>                  
+</td>
+</tr>
+</table>
+</td>
+<td bgcolor="#ffffff" width="10"></td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+<td>
+<![endif]-->
+<div style="width: 300px; display: inline-block; vertical-align: top;" class="devicewidth">
+<table width="100%" bgcolor="#ffffff" dir="ltr" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td bgcolor="#ffffff" width="10"></td>
+<td style="font-size: 14px;" align="center" bgcolor="#ffffff" width="290">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" class="devicewidth">
+<tr><td height="20"></td></tr>
+<tr>
+<td width=310 valign="top" style="border:1px solid #999999;">
+
+<table bgcolor="383838" cellpadding="0" cellspacing="7" align="center" style="margin-top:0px; background-color:#383838;" width="100%">
+	<tr>
+		<td align="center" height="150" style="background-color:#383838;">
+			<span style="font-family:Arial, Helvetica, sans-serif; font-size:11px; font-weight:bold; color:#ffffff; line-height:19px;">
+Ack! Did that deal expire? <a href="http://mailing.enews.pcmag.com/t/1186465/42804873/188/9/" target="_blank" style="color:#ffffff; text-decoration:underline;">Contact Us</a>. <br />
+			We'll recommend a similar product<br />
+at a great low price. <br />
+</span></td>
+  </tr>                                
+  <tr>
+    <td align="center" height="12" valign="bottom"><span style="font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; color:#ffffff; line-height:19px;">Follow Us: </span><a href="http://mailing.enews.pcmag.com/t/1186465/42804873/8133/10/" target="_blank"><img src="http://static.ziffdavis.com/cimages/techdeals/social/default_face.png" border="0" alt="LogicBuy on Facebook"></a>&nbsp;
+            <a href="http://mailing.enews.pcmag.com/t/1186465/42804873/8134/11/" target="_blank"><img src="http://static.ziffdavis.com/cimages/techdeals/social/default_twit.png" border="0" alt="LogicBuy on Twitter"></a>&nbsp;
+            <a href="http://mailing.enews.pcmag.com/t/1186465/42804873/2565/12/" target="_blank"><img src="http://static.ziffdavis.com/cimages/techdeals/social/default_pin.png" border="0" alt="LogicBuy on Pinterest"></a>&nbsp;
+            <a href="http://mailing.enews.pcmag.com/t/1186465/42804873/2566/13/" target="_blank"><img src="http://static.ziffdavis.com/cimages/techdeals/social/default_goog.png" border="0" alt="LogicBuy on Google+"></a></td></tr></table>
+            
+<table cellpadding="0" cellspacing="1" align="center" width="100%">
+	<tr>
+		<td align="left" style="line-height:14px;">
+			<span style="font-family:Arial, Helvetica, sans-serif; font-size:10px; font-weight:bold; color:#000000;">Ziff Davis, 28 East 28th Street, 11th Fl., NY, NY, 10016</span><br>											
+
+		<span style="font-family:Arial, Helvetica, sans-serif; font-size:9px; color:#999999;"><a href="http://mailing.enews.pcmag.com/t/1186465/42804873/6657/14/" target="_blank" style="color:#999999; text-decoration:none">Terms of Service</a>  |  <a href="http://mailing.enews.pcmag.com/t/1186465/42804873/6658/15/" target="_blank" style="color:#999999; text-decoration:none">Privacy Policy</a></span></td></tr><tr><td height="4"></td></tr>
+
+<!-- ###################### SUBSCRIPTION INFO ########################-->
+<tr>
+	<td align="left" style="line-height:14px;">
+		<span style="font-family:Arial, Helvetica, sans-serif; font-size:10px; font-weight:bold; color:#000000;">You are subscribed to   PCMag with the e-mail<br />
+<span style="color:#d2232a; text-decoration:none;">1@oscar-oe.gr.</span></span><br>
+<span style="font-family:Arial, Helvetica, sans-serif; font-size:9px; color:#999999;"><a href="http://mailing.enews.pcmag.com/t/1186465/42804873/188/16/" target="_blank" style="color:#999999; font-family:Arial, Helvetica, sans-serif; font-size:10px; text-decoration:none;">Best Deals Questions</a>  |  <a href="http://mailing.enews.pcmag.com/t/1186465/42804873/5945517/17/?f566cc7b=NDI4MDQ4NzMuMjQ4MGM0NTI0YjZmN2ViMzQ0ZWZiYzhhNGRkYTIzMzA%3d&e5e2987d=MTE4NjQ2NQ%3d%3d&3e076d18=MUBvc2Nhci1vZS5ncg%3d%3d&x=e225896d" target="_blank" style="color:#999999; font-family:Arial, Helvetica, sans-serif; font-size:10px; text-decoration:none;">Unsubscribe</a></span>
+</td></tr>
+</table>
+
+</td>
+</tr>
+</table>
+</td>
+<td bgcolor="#ffffff" width="10"></td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</table>
+        </td>
+    </tr>
+  </table>
+        
+        </td>
+    </tr>
+</table>
+
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</center>
+</tr>
+</table>
+<![endif]-->
+<IMG ALT="" SRC="http://mailing.enews.pcmag.com/db/1186465/42804873/1.gif" WIDTH=1 HEIGHT=1></body>
+</html>
+

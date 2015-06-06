@@ -1,0 +1,44 @@
+--- 
+__version: '2.1'
+de.oscar-oe.gr: 
+  account_count: 0
+  accounts: {}
+
+en.oscar-oe.gr: 
+  account_count: 0
+  accounts: {}
+
+oscar-oe.gr: 
+  account_count: 7
+  accounts: 
+    1: 
+      disk_mtime: '1428342402'
+      diskquota: 262144000
+      diskused: 18508222
+    ekthesi: 
+      disk_mtime: '1428342402'
+      diskquota: 262144000
+      diskused: 25356701
+    info: 
+      disk_mtime: '1428342402'
+      diskquota: 262144000
+      diskused: 23514551
+    l.koulika: 
+      disk_mtime: '1428342402'
+      diskquota: 262144000
+      diskused: 0
+    lasaros: 
+      disk_mtime: '1428342402'
+      diskquota: 262144000
+      diskused: 93072924
+    litsa: 
+      disk_mtime: '1428342402'
+      diskquota: 262144000
+      diskused: 142569163
+    oscar: 
+      disk_mtime: '1428342402'
+      diskquota: 262144000
+      diskused: 91828
+  disk_mtime: '1428342402'
+  passwd_mtime: '1428342402'
+  quota_mtime: '1428342402'

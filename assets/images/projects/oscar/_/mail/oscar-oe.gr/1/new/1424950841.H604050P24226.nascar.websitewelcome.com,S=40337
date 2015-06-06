@@ -1,0 +1,502 @@
+Return-path: <bounce-1178609-849243@enews.pcmag.com>
+Envelope-to: 1@oscar-oe.gr
+Delivery-date: Thu, 26 Feb 2015 05:40:41 -0600
+Received: from hdmail05-3.toolbox.com ([208.99.185.108]:52425)
+	by nascar.websitewelcome.com with esmtp (Exim 4.82)
+	(envelope-from <bounce-1178609-849243@enews.pcmag.com>)
+	id 1YQwo5-0006IT-9p
+	for 1@oscar-oe.gr; Thu, 26 Feb 2015 05:40:41 -0600
+Received: from enews.pcmag.com (unknown [10.1.1.45])
+	by hdmail05-3.toolbox.com (Postfix) with SMTP id 55E0E1A0008
+	for <1@oscar-oe.gr>; Thu, 26 Feb 2015 04:40:39 -0700 (MST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; q=dns/txt; l=31611;
+ d=enews.pcmag.com;s=lyrisv2;
+ h=from : message-id;
+ bh=AT79LaxCD1o28RV8EfdUYGwEULKXcIPC0MT5FV0zpUQ=;
+ b=E/0zr1pxUB+08hWOLBceKDmBx/eah6COa8Zo69m0JM0V9LDyD5DRPdfbW3ccfoksHkJBYXnU
+ 8NaCLbcm8FT1lpogbWDb0AkN8Aop2Zkr9Al1AtVH27GQFpFedsDpWc+h16Jp+Ez/g/4hwzEV
+ 5cHNM3E7q8dixUY7iYmjLi5Mxf8=;
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=lyrisv2; d=enews.pcmag.com;
+ h=from:message-id;
+ b=TVGyoGnUfADKIUFLuz9/5VznhV2//CtkxZNELbGWBMv07t18+JlQArIVs8eUe9siiUeqm7zI O/dd0W5So+/Ooo2JOUg4eqs3bAUWf2L/eZC4PongJptk7Mk+aRmaMT4vAWwFxZ1Ii5fFDehN
+ xKw5PQYfyf8aeSCGHij8wBf7jRc=
+From: "PCMag Buying Guide" <BuyingGuide@enews.pcmag.com>
+To: 1@oscar-oe.gr
+Subject: Your Guide to Choosing and Buying Your Perfect LCD Monitor
+Date: Thu, 26 Feb 2015 04:40:00 -0700
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="MIMEBoundary20fb1e0a133610eb530931c5a869f560"
+Reply-To: BuyingGuide@enews.pcmag.com
+Message-ID: <LYRIS-849243-1178609-2015.02.26-04.40.15--1#oscar-oe.gr@enews.pcmag.com>
+x-lyrmembers: 849243
+List-Unsubscribe: <mailto:leave-1178609-849243.71f967f5513566f309da415e09bbad6f@enews.pcmag.com>, <http://mailing.enews.pcmag.com/u?id=849243.71f967f5513566f309da415e09bbad6f&n=T&l=buyingguide&o=1178609>
+Feedback-ID: 849243:1178609:buyingguide:ZiffDavisESP_AZ
+
+This is a multi-part message in MIME format.
+
+--MIMEBoundary20fb1e0a133610eb530931c5a869f560
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+============================================================
+--------           PC Mag Buying Guide              --------
+--------           for February 26, 2015             --------
+============================================================
+How to Buy an LCD Monitor; The 10 Best Computer Monitors; Top Picks: Business Displays; 
+============================================================
+************************************************************
+
+Sponsored by PC Magazine
+
+
+
+http://mailing.enews.pcmag.com/t/1178609/849243/5934052/4/?e5e2987d=MTE3ODYwOQ%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=89875654
+
+************************************************************
+============================================================
+
+IN THIS ISSUE:
+
+* How to Buy an LCD Monitor
+
+* The 10 Best Computer Monitors
+
+* Top Picks: Business Displays
+
+* These Monitors Got Game
+
+* The 5 Best Displays for Photography
+
+* How to Choose the Right Monitor for Graphic Design
+
+* How to Choose the Right Display for Photo Editing
+
+
+============================================================
+
+How to Buy an LCD Monitor
+
+Whether you're looking for an inexpensive upgrade for an older PC or a high-end 4K display, we walk you through what you need to look for in your next monitor.
+
+http://mailing.enews.pcmag.com/t/1178609/849243/5943724/4/?e5e2987d=MTE3ODYwOQ%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=922415a4
+
+============================================================
+
+The 10 Best Computer Monitors
+
+You spend most of your day staring at your display. Why not get the best view? Take a look at the 10 top-rated monitors we've tested.
+
+http://mailing.enews.pcmag.com/t/1178609/849243/5943725/4/?e5e2987d=MTE3ODYwOQ%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=ec5df67f
+
+============================================================
+
+Top Picks: Business Displays
+
+Companies big and small will do well to pick the business monitor that best fits the work it will be used for. Here are 10 displays that should get the job done.
+
+http://mailing.enews.pcmag.com/t/1178609/849243/5943726/4/?e5e2987d=MTE3ODYwOQ%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=d5c472a1
+
+============================================================
+
+These Monitors Got Game
+
+A monitor is a monitor, right? Not when you're talking about gaming. To get ahead of the competition, check out our 10 top-rated gaming displays.
+
+http://mailing.enews.pcmag.com/t/1178609/849243/5943573/4/?e5e2987d=MTE3ODYwOQ%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=c67ec3a0
+
+============================================================
+
+The 5 Best Displays for Photography
+
+The darkroom is long gone; today's photographers need a display that's picture perfect. We've got the best monitors for photography, whether you're a professional or just a dedicated hobbyist.
+
+http://mailing.enews.pcmag.com/t/1178609/849243/5943727/4/?e5e2987d=MTE3ODYwOQ%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=95489373
+
+============================================================
+
+How to Choose the Right Monitor for Graphic Design
+
+If you're a graphic designer, you need an LCD with high resolution, extreme performance, and cutting-edge connectivity. Here's how to pick the right display for design.
+
+http://mailing.enews.pcmag.com/t/1178609/849243/5943305/4/?e5e2987d=MTE3ODYwOQ%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=5f3132cd
+
+============================================================
+
+How to Choose the Right Display for Photo Editing
+
+If you're a photographer or a photo editor, finding the right LCD for image manipulation is important. Here's what to look for in a display.
+
+http://mailing.enews.pcmag.com/t/1178609/849243/5943728/4/?e5e2987d=MTE3ODYwOQ%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=fca158ac
+
+
+============================================================
+
+For more reviews, news, guides, expert advice, and alerts,
+visit our Product Guide.
+
+============================================================
+eNewsletter Information
+============================================================
+You are subscribed to PCMag Buyer's Guide with
+the e-mail: 1@oscar-oe.gr
+
+To unsubscribe to this newsletter, click below:
+http://mailing.enews.pcmag.com/t/1178609/849243/5715829/4/?3e076d18=MUBvc2Nhci1vZS5ncg%3d%3d&e5e2987d=MTE3ODYwOQ%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3ODYwOQ%3d%3d&x=8966b00c
+
+To change your e-mail address, change your text/HTML
+preferences, or to subscribe to other FREE PC Magazine Online
+e-mail newsletters, visit:
+http://mailing.enews.pcmag.com/t/1178609/849243/5715043/4/?e5e2987d=MTE3ODYwOQ%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3ODYwOQ%3d%3d&x=75fb0f4c
+
+============================================================ 
+
+Copyright (C)2015 Ziff Davis, LLC. All Rights Reserved.
+Ziff Davis, LLC., 28 East 28th Street, 11th Floor,
+New York, NY 10016
+
+--MIMEBoundary20fb1e0a133610eb530931c5a869f560
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Buying Guide</title>
+</head>
+<body spellcheck="false">
+<table cellspacing="0" cellpadding="2" border="0" align="left" width="760">
+<tbody>
+    <tr>
+        <td>
+            <table cellspacing="0" cellpadding="0" border="0" bgcolor="#000000" width="760">
+            <tbody>
+                <tr>
+                    <td bgcolor="#ffffff" colspan="2"></td>
+                </tr>
+                <tr>
+                    <td bgcolor="#ffffff" width="145">
+                        <a href="https://zdbb.net/r/?http%3a%2f%2fwww.pcmag.com%2f&mailing_id=1178609&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter">
+                            <img height="92" width="143" src="http://static.ziffdavis.com/images/logo.gif" alt="PC Magazine" border=0 />
+                        </a>
+                    </td>
+                    <td bgcolor="#ffffff" width="654"><br />
+                        <table cellspacing="0" cellpadding="0" border="0" width="654">
+                        <tbody>
+                            <tr>
+                                <td colspan="2"></td>
+                            </tr>
+                            <tr>
+                                <td height="39" bgcolor="#000000" width="11" style="font-size: 30px; color: rgb(255, 255, 255);">&nbsp;</td>
+                                <td bgcolor="#000000" width="609" style="font-size: 30px; color: rgb(255, 255, 255); font-family: Arial,Helvetica,sans-serif;"><strong>Buying Guide </strong><font color="#cccccc" size="+1">February 26, 2015</font></td>
+                            </tr>
+                            <tr>
+                                <td>&nbsp;</td>
+                                <td style="font-size: 12px; color: rgb(102, 102, 102); font-family: Arial,Helvetica,sans-serif;">
+                                    <table cellspacing="2" cellpadding="0" border="0">
+                                    <tbody>
+                                        <tr>
+                                            <td>
+                                                <a href="http://mailing.enews.pcmag.com/t/1178609/849243/6/4/?6299e5a7=aHR0cDovL21haWxpbmcuZW5ld3MucGNtYWcuY29tL3JlYWQvYXJjaGl2ZT9pZD0zNjk2NiZtaWQ9ODQ5MjQzJmU9MSU0MG9zY2FyJTJkb2UlMmVnciZ4PTFmNjA0MWI2&x=0e590656" style="font-size: 12px; color: rgb(102, 102, 102); font-family: Arial,Helvetica,sans-serif;">View Online</a> | 
+                                                <a href="http://mailing.enews.pcmag.com/t/1178609/849243/5715830/4/?e5e2987d=MTE3ODYwOQ%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3ODYwOQ%3d%3d&x=a717f5bc" style="font-size: 12px; color: rgb(102, 102, 102); font-family: Arial,Helvetica,sans-serif;">Manage Subscription</a> | 
+                                                <font style="font-size: 12px; color: rgb(102, 102, 102); font-family: Arial,Helvetica,sans-serif;">Follow Us</font> 
+                                                <a href="http://mailing.enews.pcmag.com/t/1178609/849243/5722690/4/?e5e2987d=MTE3ODYwOQ%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3ODYwOQ%3d%3d&x=b28a8134"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/facebook.png" alt="Follow us on Facebook" /></a>&nbsp;
+                                                <a href="http://mailing.enews.pcmag.com/t/1178609/849243/5715832/4/?e5e2987d=MTE3ODYwOQ%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3ODYwOQ%3d%3d&x=c9c92cef"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/twitter.png" alt="Follow us on Twitter" /></a>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td bgcolor="#ffffff" colspan="2"><hr color="#cccccc" width="760" />
+                        <table cellspacing="0" cellpadding="0" border="0">
+                        <tbody>
+                            <tr>
+                                <td width="369" valign="top" style="padding-right: 14px; padding-left: 25px; font-size: 20px; font-family: Arial,Helvetica,sans-serif;">
+                                              
+                                        <div style="width: 368px; overflow: hidden;">                             
+                                            <font size="-1">Welcome to the PCMag Buying Guide newsletter. This week: Everything you need to know about <b>LCD Monitors</b>.</font>    
+                                            <br />
+                                        </div>
+                                    
+                                    
+                                    
+                                    <!-- Articles -->
+                                    
+                                    <strong><br />TOP</strong> STORIES 
+                                    <hr color="#999999" width="369" size="4" />
+                                    
+                                    <a href="http://mailing.enews.pcmag.com/t/1178609/849243/5943859/4/?e5e2987d=MTE3ODYwOQ%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3ODYwOQ%3d%3d&x=c599f53b" style="font-size: 16px; color: rgb(0, 100, 160); font-family: Arial,Helvetica,sans-serif;"><strong>How to Buy an LCD Monitor</strong></a>
+                                    <font style="font-size: 11px; font-family: Verdana;"><br />Whether you're looking for an inexpensive upgrade for an older PC or a high-end 4K display, we walk you through what you need to look for in your next monitor.<br /></font>                                    
+                                    <font style="font-size: 11px; color: rgb(202, 135, 0); font-family: verdana;">Share This:</font> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2fwww.facebook.com%2fshare.php%3fu%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2362046%2c00.asp&mailing_id=1178609&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/facebook.png" alt="Facebook" /></a> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2ftwitter.com%2fhome%3fstatus%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2362046%2c00.asp&mailing_id=1178609&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/twitter.png" alt="Twitter" /></a> 
+                                    <br />
+                                    <hr color="#999999" width="369" size="1" />
+                                    
+                                    <a href="http://mailing.enews.pcmag.com/t/1178609/849243/5943860/4/?e5e2987d=MTE3ODYwOQ%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3ODYwOQ%3d%3d&x=38ec6fb2" style="font-size: 16px; color: rgb(0, 100, 160); font-family: Arial,Helvetica,sans-serif;"><strong>The 10 Best Computer Monitors</strong></a>
+                                    <font style="font-size: 11px; font-family: Verdana;"><br />You spend most of your day staring at your display. Why not get the best view? Take a look at the 10 top-rated monitors we've tested.<br /></font>                                    
+                                    <font style="font-size: 11px; color: rgb(202, 135, 0); font-family: verdana;">Share This:</font> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2fwww.facebook.com%2fshare.php%3fu%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2402101%2c00.asp&mailing_id=1178609&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/facebook.png" alt="Facebook" /></a> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2ftwitter.com%2fhome%3fstatus%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2402101%2c00.asp&mailing_id=1178609&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/twitter.png" alt="Twitter" /></a> 
+                                    <br />
+                                    <hr color="#999999" width="369" size="1" />
+                                    
+                                    <a href="http://mailing.enews.pcmag.com/t/1178609/849243/5943861/4/?e5e2987d=MTE3ODYwOQ%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3ODYwOQ%3d%3d&x=f16d5f92" style="font-size: 16px; color: rgb(0, 100, 160); font-family: Arial,Helvetica,sans-serif;"><strong>Top Picks: Business Displays</strong></a>
+                                    <font style="font-size: 11px; font-family: Verdana;"><br />Companies big and small will do well to pick the business monitor that best fits the work it will be used for. Here are 10 displays that should get the job done.<br /></font>                                    
+                                    <font style="font-size: 11px; color: rgb(202, 135, 0); font-family: verdana;">Share This:</font> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2fwww.facebook.com%2fshare.php%3fu%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2460309%2c00.asp&mailing_id=1178609&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/facebook.png" alt="Facebook" /></a> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2ftwitter.com%2fhome%3fstatus%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2460309%2c00.asp&mailing_id=1178609&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/twitter.png" alt="Twitter" /></a> 
+                                    <br />
+                                    <hr color="#999999" width="369" size="1" />
+                                    
+                                    <a href="http://mailing.enews.pcmag.com/t/1178609/849243/5943862/4/?e5e2987d=MTE3ODYwOQ%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3ODYwOQ%3d%3d&x=69062612" style="font-size: 16px; color: rgb(0, 100, 160); font-family: Arial,Helvetica,sans-serif;"><strong>These Monitors Got Game</strong></a>
+                                    <font style="font-size: 11px; font-family: Verdana;"><br />A monitor is a monitor, right? Not when you're talking about gaming. To get ahead of the competition, check out our 10 top-rated gaming displays.<br /></font>                                    
+                                    <font style="font-size: 11px; color: rgb(202, 135, 0); font-family: verdana;">Share This:</font> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2fwww.facebook.com%2fshare.php%3fu%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2402169%2c00.asp&mailing_id=1178609&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/facebook.png" alt="Facebook" /></a> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2ftwitter.com%2fhome%3fstatus%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2402169%2c00.asp&mailing_id=1178609&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/twitter.png" alt="Twitter" /></a> 
+                                    <br />
+                                    <hr color="#999999" width="369" size="1" />
+                                    
+                                    <a href="http://mailing.enews.pcmag.com/t/1178609/849243/5943863/4/?e5e2987d=MTE3ODYwOQ%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3ODYwOQ%3d%3d&x=afff51a9" style="font-size: 16px; color: rgb(0, 100, 160); font-family: Arial,Helvetica,sans-serif;"><strong>The 5 Best Displays for Photography</strong></a>
+                                    <font style="font-size: 11px; font-family: Verdana;"><br />The darkroom is long gone; today's photographers need a display that's picture perfect. We've got the best monitors for photography, whether you're a professional or just a dedicated hobbyist.<br /></font>                                    
+                                    <font style="font-size: 11px; color: rgb(202, 135, 0); font-family: verdana;">Share This:</font> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2fwww.facebook.com%2fshare.php%3fu%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2402114%2c00.asp&mailing_id=1178609&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/facebook.png" alt="Facebook" /></a> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2ftwitter.com%2fhome%3fstatus%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2402114%2c00.asp&mailing_id=1178609&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/twitter.png" alt="Twitter" /></a> 
+                                    <br />
+                                    <hr color="#999999" width="369" size="1" />
+                                    
+                                    <a href="http://mailing.enews.pcmag.com/t/1178609/849243/5943864/4/?e5e2987d=MTE3ODYwOQ%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3ODYwOQ%3d%3d&x=6ec6dc3b" style="font-size: 16px; color: rgb(0, 100, 160); font-family: Arial,Helvetica,sans-serif;"><strong>How to Choose the Right Monitor for Graphic Design</strong></a>
+                                    <font style="font-size: 11px; font-family: Verdana;"><br />If you're a graphic designer, you need an LCD with high resolution, extreme performance, and cutting-edge connectivity. Here's how to pick the right display for design.<br /></font>                                    
+                                    <font style="font-size: 11px; color: rgb(202, 135, 0); font-family: verdana;">Share This:</font> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2fwww.facebook.com%2fshare.php%3fu%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2456236%2c00.asp&mailing_id=1178609&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/facebook.png" alt="Facebook" /></a> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2ftwitter.com%2fhome%3fstatus%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2456236%2c00.asp&mailing_id=1178609&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/twitter.png" alt="Twitter" /></a> 
+                                    <br />
+                                    <hr color="#999999" width="369" size="1" />
+                                    
+                                    <a href="http://mailing.enews.pcmag.com/t/1178609/849243/5943865/4/?e5e2987d=MTE3ODYwOQ%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3ODYwOQ%3d%3d&x=602355a0" style="font-size: 16px; color: rgb(0, 100, 160); font-family: Arial,Helvetica,sans-serif;"><strong>How to Choose the Right Display for Photo Editing</strong></a>
+                                    <font style="font-size: 11px; font-family: Verdana;"><br />If you're a photographer or a photo editor, finding the right LCD for image manipulation is important. Here's what to look for in a display.<br /></font>                                    
+                                    <font style="font-size: 11px; color: rgb(202, 135, 0); font-family: verdana;">Share This:</font> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2fwww.facebook.com%2fshare.php%3fu%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2455858%2c00.asp&mailing_id=1178609&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/facebook.png" alt="Facebook" /></a> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2ftwitter.com%2fhome%3fstatus%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2455858%2c00.asp&mailing_id=1178609&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/twitter.png" alt="Twitter" /></a> 
+                                    <br />
+                                    <hr color="#999999" width="369" size="1" />
+                                    
+                                    <!-- Article 1 ends -->
+                                                                        
+                                              
+                                        <div style="width: 368px; overflow: hidden;">                             
+                                            <font size="-1">For more reviews, news, guides, expert advice, and alerts, visit our <a href="https://zdbb.net/r/?http%3a%2f%2fwww.pcmag.com%2fcategory2%2f0%2c2806%2c2355089%2c00.asp&mailing_id=1178609&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter">LCD Monitor Product Guide</a>.</font>    
+                                            <br />
+                                        </div>
+                                    
+                                        <!-- B2B Ad Unit -->                                        
+                                            <hr noshade="noshade" color="#d8d8d8" size="1" />
+                                            <!-- -->    
+                                            <br clear="all">                                            
+                                        <!-- End B2B Ad Unit -->
+                                        
+
+                                     <!-- Removed Featured Offer -->
+                                                                        
+                                </td>
+                                <td width="391" valign="top" style="padding-right: 30px; padding-left: 25px;"><br />
+                                    <!-- ADVERTISEMENT -->
+                                    <a href="https://zdbb.net/r/?https%3a%2f%2fwww.zdmcirc.com%2fzdmcirc%2fdefault.asp%3fLK%3dfebDA5%26I%3dibmp&mailing_id=1178609&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img src="http://www2.pcmag.com/media/images/381795-pcmde-feb.jpg" border="0"></a><br>
+                                    <br />
+
+                                    <!-- Start PCmag Review Items --> 
+                                    
+<!-- Start PCmag Review Items --> 
+
+<!-- End PCmag Review Items -->
+                                    <!-- Start PCmag Commerce Items --> 
+                                    
+<!-- Start PCmag Review Items --> 
+
+    <table border="0" width="300" cellpadding="0" cellspacing="0">
+	    <tr>
+            <td valign="top" width="100">
+			    <img src="http://images.ittoolbox.com/ads/pcmag/editorschoice.png" alt="PCMag Editor's Choice" vspace="4">
+		    </td>
+		    <td>
+			    <font face="arial" size="3" color="black" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px;">
+				    <b>AWARD-WINNING TECH</b><br>
+				    now on sale!
+			    </font>
+		    </td>
+	    </tr>
+        <tr>
+            <td colspan="2"><hr size="4px" color="#999999" width="100%" /></td>
+        </tr>
+    </table>
+       
+        <table border="0" width="300" cellpadding="0" cellspacing="0">
+	        <tr>
+		        <td valign="top" width="40">
+			        <a href="http://mailing.enews.pcmag.com/t/1178609/849243/5943866/4/?e5e2987d=MTE3ODYwOQ%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3ODYwOQ%3d%3d&x=a171536a" ><img src="http://images.enews.pcmag.com/enews/58480582-8de2-4841-b912-45ab046bf332.jpg" width="40" height="40" border="0" ></a>
+		        </td>
+		        <td width="4"></td>
+		        <td valign="top" style="font-family: Arial; color: #999999; font-size: 12px; margin-bottom: 7px;">
+			        <a href="http://mailing.enews.pcmag.com/t/1178609/849243/5943866/4/?e5e2987d=MTE3ODYwOQ%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3ODYwOQ%3d%3d&x=a171536a" style="font-weight:bold; color: #0064A0;"><font face="arial" size="2" color="#006399"><b>Canary All-in One Home Security Pre-order</b></font></a>
+                    &nbsp;<font color="black"><b>|</b></font>&nbsp;
+			        <font face="arial" size="2" color="#666666" style="font-family: Arial; color: #999999; font-size: 12px; margin-bottom: 7px;">Security Device</font>
+			        <br>
+			        <font face="arial" size="1" color="#666666" style="font-family: Arial; color: #999999; font-size: 11px; margin-bottom: 7px;">
+				        <s>MSRP: $249.99</s>&nbsp;|&nbsp;
+                    </font>
+                    <font color="#000000">
+                    <font size="2" style="font-family: Arial; color: #000000; font-size: 12px; margin-bottom: 7px;"><b>$249.99</b></font>
+				    
+			        </font>
+			        <a href="http://mailing.enews.pcmag.com/t/1178609/849243/5943866/4/?e5e2987d=MTE3ODYwOQ%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3ODYwOQ%3d%3d&x=a171536a"><img src="http://images.ittoolbox.com/ads/pcmag/see_it.png" border="0" style="margin-bottom:-4px"></a>
+
+		        </td>
+	        </tr>
+	        <tr><td colspan="3"><hr size="1" color="lightgray"><td></tr>
+        </table>
+       
+        <table border="0" width="300" cellpadding="0" cellspacing="0">
+	        <tr>
+		        <td valign="top" width="40">
+			        <a href="http://mailing.enews.pcmag.com/t/1178609/849243/5943867/4/?e5e2987d=MTE3ODYwOQ%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3ODYwOQ%3d%3d&x=676dc7be" ><img src="http://images.enews.pcmag.com/enews/c1ca5aa0-f24a-4591-86a6-e139bce8dd40.jpg" width="40" height="40" border="0" ></a>
+		        </td>
+		        <td width="4"></td>
+		        <td valign="top" style="font-family: Arial; color: #999999; font-size: 12px; margin-bottom: 7px;">
+			        <a href="http://mailing.enews.pcmag.com/t/1178609/849243/5943867/4/?e5e2987d=MTE3ODYwOQ%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3ODYwOQ%3d%3d&x=676dc7be" style="font-weight:bold; color: #0064A0;"><font face="arial" size="2" color="#006399"><b>Dell Inspiron 15 7000 i7 1080p Touch Laptop</b></font></a>
+                    &nbsp;<font color="black"><b>|</b></font>&nbsp;
+			        <font face="arial" size="2" color="#666666" style="font-family: Arial; color: #999999; font-size: 12px; margin-bottom: 7px;">Laptop</font>
+			        <br>
+			        <font face="arial" size="1" color="#666666" style="font-family: Arial; color: #999999; font-size: 11px; margin-bottom: 7px;">
+				        <s>MSRP: $1199</s>&nbsp;|&nbsp;
+                    </font>
+                    <font color="#000000">
+                    <font size="2" style="font-family: Arial; color: #000000; font-size: 12px; margin-bottom: 7px;"><b>$799</b></font>
+				    
+			        </font>
+			        <a href="http://mailing.enews.pcmag.com/t/1178609/849243/5943867/4/?e5e2987d=MTE3ODYwOQ%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3ODYwOQ%3d%3d&x=676dc7be"><img src="http://images.ittoolbox.com/ads/pcmag/see_it.png" border="0" style="margin-bottom:-4px"></a>
+
+		        </td>
+	        </tr>
+	        <tr><td colspan="3"><hr size="1" color="lightgray"><td></tr>
+        </table>
+       
+        <table border="0" width="300" cellpadding="0" cellspacing="0">
+	        <tr>
+		        <td valign="top" width="40">
+			        <a href="http://mailing.enews.pcmag.com/t/1178609/849243/5943868/4/?e5e2987d=MTE3ODYwOQ%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3ODYwOQ%3d%3d&x=9750d9fe" ><img src="http://images.enews.pcmag.com/enews/f44e3be3-5a91-4a51-9334-512beb96e1f8.jpg" width="40" height="40" border="0" ></a>
+		        </td>
+		        <td width="4"></td>
+		        <td valign="top" style="font-family: Arial; color: #999999; font-size: 12px; margin-bottom: 7px;">
+			        <a href="http://mailing.enews.pcmag.com/t/1178609/849243/5943868/4/?e5e2987d=MTE3ODYwOQ%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3ODYwOQ%3d%3d&x=9750d9fe" style="font-weight:bold; color: #0064A0;"><font face="arial" size="2" color="#006399"><b>Amazon Fire TV</b></font></a>
+                    &nbsp;<font color="black"><b>|</b></font>&nbsp;
+			        <font face="arial" size="2" color="#666666" style="font-family: Arial; color: #999999; font-size: 12px; margin-bottom: 7px;">Media Hub</font>
+			        <br>
+			        <font face="arial" size="1" color="#666666" style="font-family: Arial; color: #999999; font-size: 11px; margin-bottom: 7px;">
+				        <s>MSRP: $99</s>&nbsp;|&nbsp;
+                    </font>
+                    <font color="#000000">
+                    <font size="2" style="font-family: Arial; color: #000000; font-size: 12px; margin-bottom: 7px;"><b>$84</b></font>
+				    
+			        </font>
+			        <a href="http://mailing.enews.pcmag.com/t/1178609/849243/5943868/4/?e5e2987d=MTE3ODYwOQ%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3ODYwOQ%3d%3d&x=9750d9fe"><img src="http://images.ittoolbox.com/ads/pcmag/see_it.png" border="0" style="margin-bottom:-4px"></a>
+
+		        </td>
+	        </tr>
+	        <tr><td colspan="3"><hr size="1" color="lightgray"><td></tr>
+        </table>
+       
+        <table border="0" width="300" cellpadding="0" cellspacing="0">
+	        <tr>
+		        <td valign="top" width="40">
+			        <a href="http://mailing.enews.pcmag.com/t/1178609/849243/5943869/4/?e5e2987d=MTE3ODYwOQ%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3ODYwOQ%3d%3d&x=0d52fa12" ><img src="http://images.enews.pcmag.com/enews/a04dbed7-a649-44dc-8db3-a66b233039fe.jpg" width="40" height="40" border="0" ></a>
+		        </td>
+		        <td width="4"></td>
+		        <td valign="top" style="font-family: Arial; color: #999999; font-size: 12px; margin-bottom: 7px;">
+			        <a href="http://mailing.enews.pcmag.com/t/1178609/849243/5943869/4/?e5e2987d=MTE3ODYwOQ%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3ODYwOQ%3d%3d&x=0d52fa12" style="font-weight:bold; color: #0064A0;"><font face="arial" size="2" color="#006399"><b>Dell XPS 11 1440p Touch Ultrabook</b></font></a>
+                    &nbsp;<font color="black"><b>|</b></font>&nbsp;
+			        <font face="arial" size="2" color="#666666" style="font-family: Arial; color: #999999; font-size: 12px; margin-bottom: 7px;">Ultrabook</font>
+			        <br>
+			        <font face="arial" size="1" color="#666666" style="font-family: Arial; color: #999999; font-size: 11px; margin-bottom: 7px;">
+				        <s>MSRP: $1199</s>&nbsp;|&nbsp;
+                    </font>
+                    <font color="#000000">
+                    <font size="2" style="font-family: Arial; color: #000000; font-size: 12px; margin-bottom: 7px;"><b>$599</b></font>
+				    
+			        </font>
+			        <a href="http://mailing.enews.pcmag.com/t/1178609/849243/5943869/4/?e5e2987d=MTE3ODYwOQ%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3ODYwOQ%3d%3d&x=0d52fa12"><img src="http://images.ittoolbox.com/ads/pcmag/see_it.png" border="0" style="margin-bottom:-4px"></a>
+
+		        </td>
+	        </tr>
+	        <tr><td colspan="3"><hr size="1" color="lightgray"><td></tr>
+        </table>
+       
+        <table border="0" width="300" cellpadding="0" cellspacing="0">
+	        <tr>
+		        <td valign="top" width="40">
+			        <a href="http://mailing.enews.pcmag.com/t/1178609/849243/5943870/4/?e5e2987d=MTE3ODYwOQ%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3ODYwOQ%3d%3d&x=881ba7e3" ><img src="http://images.enews.pcmag.com/enews/3d7daf10-8ece-4daa-a94d-f9579e716d78.jpg" width="40" height="40" border="0" ></a>
+		        </td>
+		        <td width="4"></td>
+		        <td valign="top" style="font-family: Arial; color: #999999; font-size: 12px; margin-bottom: 7px;">
+			        <a href="http://mailing.enews.pcmag.com/t/1178609/849243/5943870/4/?e5e2987d=MTE3ODYwOQ%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3ODYwOQ%3d%3d&x=881ba7e3" style="font-weight:bold; color: #0064A0;"><font face="arial" size="2" color="#006399"><b>Canon MF216n Printer, Scanner & Fax</b></font></a>
+                    &nbsp;<font color="black"><b>|</b></font>&nbsp;
+			        <font face="arial" size="2" color="#666666" style="font-family: Arial; color: #999999; font-size: 12px; margin-bottom: 7px;">All-In-One Printers</font>
+			        <br>
+			        <font face="arial" size="1" color="#666666" style="font-family: Arial; color: #999999; font-size: 11px; margin-bottom: 7px;">
+				        <s>MSRP: $399</s>&nbsp;|&nbsp;
+                    </font>
+                    <font color="#000000">
+                    <font size="2" style="font-family: Arial; color: #000000; font-size: 12px; margin-bottom: 7px;"><b>$99</b></font>
+				    
+			        </font>
+			        <a href="http://mailing.enews.pcmag.com/t/1178609/849243/5943870/4/?e5e2987d=MTE3ODYwOQ%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3ODYwOQ%3d%3d&x=881ba7e3"><img src="http://images.ittoolbox.com/ads/pcmag/see_it.png" border="0" style="margin-bottom:-4px"></a>
+
+		        </td>
+	        </tr>
+	        <tr><td colspan="3"><hr size="1" color="lightgray"><td></tr>
+        </table>
+
+
+<!-- End PCmag Review Items -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" style="padding-right: 14px; padding-left: 25px; font-size: 12px; font-family: Verdana;"><hr color="#cccccc" width="760" />
+                                    <p><strong>eNewsletter Information</strong><br />
+                                    <img height="5" border="0" width="1" src="http://enewsletters.ziffdavisinternet.com/ewk/spacer.gif" alt="" />You are subscribed to PCMag.com's Buying Guide with the email address 1@oscar-oe.gr. <br />
+                                    Click <a href="http://mailing.enews.pcmag.com/t/1178609/849243/5715850/4/?3e076d18=MUBvc2Nhci1vZS5ncg%3d%3d&e5e2987d=MTE3ODYwOQ%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3ODYwOQ%3d%3d&x=ac33c204" target="_new"><strong>here</strong></a> to unsubscribe from this newsletter. <br />
+                                    <br />
+                                    To subscribe to other e-mail newsletters from Ziff Davis, change your delivery format from HTML to text, or change your email address, click <a href="http://mailing.enews.pcmag.com/t/1178609/849243/5715851/4/?e5e2987d=MTE3ODYwOQ%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3ODYwOQ%3d%3d&x=0dc6cdcb" target="_new"><strong>here</strong></a>.</p>
+                                    <hr noshade="noshade" color="#d8d8d8" size="1" />
+                                    <br />
+                                    Copyright &copy;2015 <a href="https://zdbb.net/r/?http%3a%2f%2fwww.ziffdavis.com&mailing_id=1178609&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter">Ziff Davis, LLC.</a>&nbsp; All Rights Reserved.<br />
+                                    Ziff Davis, LLC., 28 East 28th Street, 11th Floor, New York, NY 10016
+                                </td>
+                            </tr>
+                        </tbody>
+                        </table>
+                    </td>
+                </tr>
+            </tbody>
+            </table>
+        </td>
+    </tr>
+</tbody>
+</table>
+<blockquote><img height="1" border="0" width="1" src="http://link.p0.com/1x1.dyn" alt="" /></blockquote>
+<img src='https://zdbb.net/l/vUl_mG-rEeK8mRIxOxAUTQ?member_id=849243&list=buyingguide&mailing_id=1178609&mailing=BuyingGuide&engine_id=1' />
+<IMG ALT="" SRC="http://mailing.enews.pcmag.com/do/1178609/849243/1.gif" WIDTH=1 HEIGHT=1><IMG ALT="" SRC="http://mailing.enews.pcmag.com/dh/1178609/849243/1.gif" WIDTH=1 HEIGHT=1><BR>
+<img src="https://bounceexchange.com/tag/em/1166.gif" width="1" height="1" border="0" />
+</BODY>
+</html>
+
+
+
+--MIMEBoundary20fb1e0a133610eb530931c5a869f560--
+

@@ -1,0 +1,1033 @@
+Return-path: <bounce-1204451-93006@eletters.whatsnewnow.com>
+Envelope-to: 1@oscar-oe.gr
+Delivery-date: Thu, 26 Mar 2015 07:18:56 -0500
+Received: from hdmail07-1.toolbox.com ([208.99.185.112]:33030)
+	by nascar.websitewelcome.com with esmtp (Exim 4.82)
+	(envelope-from <bounce-1204451-93006@eletters.whatsnewnow.com>)
+	id 1Yb6kS-0003vF-KT
+	for 1@oscar-oe.gr; Thu, 26 Mar 2015 07:18:56 -0500
+Received: from eletters.whatsnewnow.com (ip-10-1-1-45.us-west-1.compute.internal [10.1.1.45])
+	by hdmail07-1.toolbox.com (Postfix) with SMTP id 5548B2A2BF6
+	for <1@oscar-oe.gr>; Thu, 26 Mar 2015 05:18:54 -0700 (MST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; q=dns/txt; l=42293;
+ d=eletters.whatsnewnow.com;s=lyrisv2;
+ h=from;
+ bh=e5hIqBWW6Fjen5YaBTU5RWrnnzb1U7zYDsHongYYJ58=;
+ b=Q2TfVg5V16QGAjrdKRPJvPnWHOPE8GCOdAOYsgq65mp/ciWSnphv1WdmnpAGCo/IlW/cEZpg
+ +KEi2xEtlhXtdw/eHyH/pJ9xv2s9GlnjUAdgFvVXxgMPV5lsfzUE2BRFsCGWWlY5iSRwF9x1
+ qquhAFXcK6YNPWaUAFIwZpC7exA=;
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=lyrisv2; d=eletters.whatsnewnow.com;
+ h=from;
+ b=O78dZ8xK9iv5XnUriZOzZmrbArTkto2XAVY5Qp2pIofMZ9nipS8DQW8s3EBSR+dORv808Afm IQdBpDRm/Y1sXOusmy5BpzcyyBNG2trV0oNH/Dd36GcJmu7p8CH67t0u6nRn2dXBuz4MCG4B
+ NlTLJVqqaYbT71BTwORJz+TCJeg=
+From: "What's New Now" <WhatsNewNow@eletters.whatsnewnow.com>
+To: 1@oscar-oe.gr
+Subject: Hands On With the Samsung Galaxy S 6: The 10 Best Ultrabooks; 'The X-Files' Returning for 6-Episode Run; and More
+Date: Thu, 26 Mar 2015 05:00:00 -0700
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="whatsnewnow-mime-boundary-20152603050000"
+Reply-To: WhatsNewNow@eletters.whatsnewnow.com
+Message-ID: <LYRIS-93006-1204451-2015.03.26-05.18.07--1#oscar-oe.gr@eletters.whatsnewnow.com>
+x-lyrmembers: 93006
+List-Unsubscribe: <mailto:leave-1204451-93006.532489d0e5e521abaa5d121964d83c4b@eletters.whatsnewnow.com>, <http://mailing.eletters.whatsnewnow.com/u?id=93006.532489d0e5e521abaa5d121964d83c4b&n=T&l=whatsnewnow&o=1204451>
+Feedback-ID: 93006:1204451:whatsnewnow:ZiffDavisESP_AZ
+
+This is a multi-part message in MIME format.
+
+--whatsnewnow-mime-boundary-20152603050000
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+
+=========================================================
+          -------- WHAT'S NEW NOW --------
+  Important Stories, Commentary & More from Ziff Davis
+                    By 
+=========================================================
+March 26, 2015
+=========================================================
+
+Sponsored by PC Magazine
+
+
+
+http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5944529/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&c73c8e04=d2hhdHNuZXdub3c%3d&4f415564=OTMwMDY%3d&x=92ec87a0
+
+=========================================================
+
+
+Hands On With the Samsung Galaxy S 6
+
+The Samsung Galaxy S6 is the phone the Galaxy S5 should have been. We go hands on, and we're impressed.
+
+http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5944173/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&c73c8e04=d2hhdHNuZXdub3c%3d&4f415564=OTMwMDY%3d&x=58a677fb
+
+
+
+BitWhisper: Stealing Data From Non-Networked Computers Using Heat
+
+Researchers have demonstrated a technique dubbed BitWhisper that can steal data even from computers with no network connection.
+
+http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948764/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&c73c8e04=d2hhdHNuZXdub3c%3d&4f415564=OTMwMDY%3d&x=730f6210
+
+
+
+'The X-Files' Returning for 6-Episode Run
+
+David Duchovny and Gillian Anderson are back as Mulder and Scully; filming begins this summer.
+
+http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948765/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&c73c8e04=d2hhdHNuZXdub3c%3d&4f415564=OTMwMDY%3d&x=0a3bd6df
+
+
+
+Playing Bloodborne on a PS4 Using an SSD Could Save Hours of Loading
+
+Bloodborne is a graphically intensive game, and that's by no means a negative. But that high level of detail comes at a price: load times.
+
+http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948766/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&c73c8e04=d2hhdHNuZXdub3c%3d&4f415564=OTMwMDY%3d&x=0baa3f88
+
+
+
+The 10 Best Ultrabooks
+
+They're light, battery-efficient, and incredibly thin. What's not to love about ultrabooks? We give you our top picks.
+
+http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5721439/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&c73c8e04=d2hhdHNuZXdub3c%3d&4f415564=OTMwMDY%3d&x=6906ed74
+
+
+
+OCZ Reboots Its Flagship SSD: The New Vector 180 Tested
+
+OCZ, now a part of Toshiba, is seeing a storage renaissance, rolling out a new solid-state drive with a snazzy new software front end, speedy performance, and enterprise-style security. Can it compete in a tough field, with Samsung and Micron/Crucial at its heels? Computer Shopper digs in.
+
+http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948767/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&c73c8e04=d2hhdHNuZXdub3c%3d&4f415564=OTMwMDY%3d&x=ffaf6018
+
+
+
+More Stories
+
+&bull; <a href="https://zdbb.net/r/?http%3a%2f%2fwww.pcmag.com%2fslideshow%2fstory%2f327063%2f14-hidden-firefox-functions-for-browsing-like-a-boss&mailing_id=1204451&list=whatsnewnow&member_id=93006&engine_id=1&mailing=ZiffDavisNewsletter">14 Hidden Firefox Functions for Browsing Like a Boss</a><br>
+
+&bull; <a href="https://zdbb.net/r/?http%3a%2f%2fwww.extremetech.com%2fcomputing%2f201844-now-you-can-create-windows-10-apps-for-pcs-smartphones-and-the-xbox-one&mailing_id=1204451&list=whatsnewnow&member_id=93006&engine_id=1&mailing=ZiffDavisNewsletter">Create Windows 10 Apps for PCs, Phones, and the Xbox One</a><br>
+
+&bull; <a href="https://zdbb.net/r/?http%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2478629%2c00.asp&mailing_id=1204451&list=whatsnewnow&member_id=93006&engine_id=1&mailing=ZiffDavisNewsletter">Review: Acer Aspire Switch 11 (SW5-171-325N)</a><br>
+
+&bull; <a href="https://zdbb.net/r/?http%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2478681%2c00.asp&mailing_id=1204451&list=whatsnewnow&member_id=93006&engine_id=1&mailing=ZiffDavisNewsletter">Best iPhone 6 Battery Cases</a><br>
+ 
+&bull; <a href="https://zdbb.net/r/?http%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2478514%2c00.asp&mailing_id=1204451&list=whatsnewnow&member_id=93006&engine_id=1&mailing=ZiffDavisNewsletter">We Look at the 2015 Ford Edge</a>
+
+http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5715105/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&c73c8e04=d2hhdHNuZXdub3c%3d&4f415564=OTMwMDY%3d&x=9087b7ac
+
+
+
+
+
+<I>Sean Carroll<br>
+Managing Editor, Hardware, PCMag.com<br>
+@scarrolltech
+</I>
+
+TCL MERGE ERROR ( 03/26/2015 05:18:59 ): "wrong # args: should be "get_tracked_url The url argument cannot be empty.""
+OutmailID: 1204451, List: 'whatsnewnow', MemberID: 93006
+SCRIPT: "track {} -name {Story} -group {whatsnewnow}"
+
+
+
+
+
+
+
+=========================================================
+eNewsletter Information
+=========================================================
+You are subscribed to WHAT'S NEW NOW with the
+e-mail address 1@oscar-oe.gr. 
+
+To change your HTML/text preferences, change your e-mail
+address or subscribe to other eNewsletters from Ziff Davis,
+LLC., click here:
+http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5715106/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=7653b0fd
+
+To unsubscribe, click here:
+http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5715107/2/?3e076d18=MUBvc2Nhci1vZS5ncg%3d%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=4454055c
+
+NOTE: Make sure the above URL, which includes your email
+address, displays completely in your browser. 
+
+Copyright (C)2015 Ziff Davis, LLC. All Rights Reserved.
+Ziff Davis, LLC., 28 E. 28th St., 11th Floor,
+New York, NY 10016
+
+
+--whatsnewnow-mime-boundary-20152603050000
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <link href='http://fonts.googleapis.com/css?family=Fjalla+One&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	<style>
+	    body {font-family:arial;  background-color:#cccccc}
+	    
+		A:link.title
+		{font:bold 25px arial; text-decoration:none; color:#040400}
+
+		A:visited.title
+		{font:bold 25px arial; text-decoration:none; color:#040400}
+
+        A:link.med
+        {font:18px arial ; text-decoration:none; color:#040400}
+
+        A:visited.med
+        {font:18px arial ; text-decoration:none; color:#040400}
+        
+        A:link.footer
+        {font:11px arial ; color:white}
+
+        A:visited.footer
+        {font:11px arial ; color:white}        
+		
+		A.button
+		{text-decoration:none; text-transform:uppercase; border-top:1px solid #f8c0c1; border-bottom:1px solid #e73136; display:block; padding:5px 40px 5px 40px; background:#e20309 url(http://cdn.toolbox.com/build_2956/rds/PCMag/Button.png) right no-repeat; color:white; font:bold 18px arial }
+		
+        .text
+        {font:17px arial; line-height:20px}
+
+        .titlebox
+        {font:bold arial 25px; margin-bottom:5px}
+
+        .datetime
+        {font-family: 'Fjalla One', sans-serif; font-size:33px}
+        
+        .footerbox > A
+        {color:white; background-color:#040400}
+
+	</style>
+</head>
+<body bgcolor="#cccccc" style="font:14px arial; background-color:#cccccc">
+    <img src="http://link.p0.com/1x1.dyn" width="1" height="1" border="0">
+	<table bgcolor=white cellpadding=0 cellspacing=0 border=0 width=650 align=center height=30>
+		<tr>
+			<td align=right valign=middle width=600>
+				Trouble viewing this email? <a href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/6/2/?6299e5a7=aHR0cDovL21haWxpbmcuZWxldHRlcnMud2hhdHNuZXdub3cuY29tL3JlYWQvYXJjaGl2ZT9pZD0zNzg4NiZtaWQ9OTMwMDYmZT0xJTQwb3NjYXIlMmRvZSUyZWdyJng9ZTA4ZjNkMGI%3d&x=4ace86db" style="color:#040400"><b>View in Browser</b></a>
+			</td>
+			<td width=12><img src="http://images.toolbox.com/vt/spacer.gif" height="30" width="20"/></td>
+		</tr>
+	</table>
+	<table bgcolor=white cellpadding=0 cellspacing=0 border=0 width=650 align=center>
+		<tr>
+            <td width=20>&nbsp;</td>
+			<td>
+				<table cellpadding=0 cellspacing=0 border=0 align=center>
+					<tr>
+						<td align=right>
+							<a href="https://zdbb.net/r/?http%3a%2f%2fwww.pcmag.com%2f&mailing_id=1204451&list=whatsnewnow&member_id=93006&engine_id=1&mailing=ZiffDavisNewsletter"><img src="http://cdn.toolbox.com/build_2956/rds/PCMag/Logo.png" border=0 height=137 width=113></a>
+						</td>
+                        <td width=20></td>
+						<td>
+							<img src="http://cdn.toolbox.com/build_2956/rds/PCMag/Banner.png" width=478 height=137>
+						</td>
+					</tr>
+				</table>
+				<table cellpadding=0 cellspacing=0 border=0 width=100% align=center>
+					<tr height=18>
+						<td colspan=3></td>
+					</tr>
+					<tr>
+						<td width=128>&nbsp;</td>
+						<td nowrap width=145>
+                            <table cellpadding=3 cellspacing=0 border=0>
+                                <tr>
+                                    <td><a href="https://zdbb.net/r/?https%3a%2f%2fwww.facebook.com%2fPCMag&mailing_id=1204451&list=whatsnewnow&member_id=93006&engine_id=1&mailing=ZiffDavisNewsletter"><img src="http://cdn.toolbox.com/build_2956/rds/PCMag/facebook_BUTTON.png" border=0 width=35 height=35></a></td>
+                                    <td><a href="https://zdbb.net/r/?http%3a%2f%2fwww.twitter.com%2fpcmag&mailing_id=1204451&list=whatsnewnow&member_id=93006&engine_id=1&mailing=ZiffDavisNewsletter"><img src="http://cdn.toolbox.com/build_2956/rds/PCMag/Twitter_BUTTON.png" border=0 width=35 height=35></a></td>
+                                    <td><a href="https://zdbb.net/r/?http%3a%2f%2fpinterest.com%2fpcmag%2f&mailing_id=1204451&list=whatsnewnow&member_id=93006&engine_id=1&mailing=ZiffDavisNewsletter"><img src="http://cdn.toolbox.com/build_2956/rds/PCMag/pinterest_BUTTON.png" border=0 width=35 height=35></a></td>
+                                </tr>
+                            </table>
+						</td>
+						<td>
+							<div style="font:bold 30px arial">March 26, 2015</div>
+						</td>
+					</tr>
+					<tr height=20 >
+						<td colspan=3></td>
+					</tr>					
+				</table>
+                	
+			</td>
+            <td width=20>&nbsp;</td>	
+		</tr>
+	</table>
+    <table bgcolor=white cellpadding=0 cellspacing=0 border=0 width=650 align=center>
+		<tr>
+			<td width=20>&nbsp;</td>
+			<td>
+				<img src="http://cdn.toolbox.com/build_2956/rds/PCMag/topstories_BANNER.png" width=272 height=63>
+			</td>
+		</tr>	
+	</table>
+    <!-- article 1 -->
+	<table bgcolor=white cellpadding=0 cellspacing=0 border=0 width=650 align=center>	
+		<tr>
+			<td colspan=4 height=20></td>
+		</tr>
+		<tr>
+			<td width=37></td>
+			<td id="articleimg1" valign="top" width="160">
+                <table cellpadding=0 cellspacing=0>
+                    <tr>
+                        <td>
+				            <a href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948768/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=0bdf6f1a">
+                               <img src="http://common.ziffdavisinternet.com/util_get_image/45/0,,i=458541,00.jpg" width=130 height=130 vspace=5 border=0 />
+                            </a>                        
+                        </td>
+                        <td width=30></td>
+                    </tr>
+                </table>
+			</td>
+
+			<td valign=top>
+                <table cellpadding=0 cellspacing=0>
+                    <tr>
+                        <td>
+				            <div class="titlebox">
+                                <a class=title style="font:bold 25px arial; text-decoration:none; color:#040400" href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948768/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=0bdf6f1a">Hands On With the Samsung Galaxy S 6</a>
+                            </div>
+				            <div class="text" style="font:17px arial; line-height:20px">
+					            The Samsung Galaxy S6 is the phone the Galaxy S5 should have been. We go hands on, and we're impressed.
+				            </div>                            
+                        </td>
+                    </tr>
+                </table>
+			</td>
+            <td width=37></td>
+		</tr>	
+	</table>
+    <!-- /article 1 -->
+
+    <!-- article 2 -->
+	<table bgcolor=white cellpadding=0 cellspacing=0 border=0 width=650 align=center>	
+		<tr>
+			<td colspan=4 height=20></td>
+		</tr>
+		<tr>
+			<td width=37></td>
+			<td id="articleimg2" valign="top" width="160">
+                <table cellpadding=0 cellspacing=0 border=0>
+                    <tr>
+                        <td>
+                            <a href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948769/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=c1a4f38a">
+				                <img src="http://common.ziffdavisinternet.com/util_get_image/46/0,,i=461074,00.jpg" width=130 height=130 vspace=5 border=0 />
+                            </a>
+                        </td>
+                        <td width=30></td>
+                    </tr>
+                </table>
+			</td>
+
+			<td valign=top>
+                <table cellpadding=0 cellspacing=0>
+                    <tr>
+                        <td>
+				            <div class="titlebox">
+                                <a class=title style="font:bold 25px arial; text-decoration:none; color:#040400" href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948769/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=c1a4f38a">BitWhisper: Stealing Data From Non-Networked Computers Using Heat</a>
+                            </div>
+				            <div class="text" style="font:17px arial; line-height:20px">
+					            Researchers have demonstrated a technique dubbed BitWhisper that can steal data even from computers with no network connection.
+				            </div>
+                        </td>
+                    </tr>
+                </table>
+			</td>
+            <td width=37></td>
+		</tr>	
+	</table>
+    <!-- /article 2 -->
+
+	<table bgcolor=white cellpadding=0 cellspacing=0 border=0 width=650 align=center>
+		<tr>
+			<td width=37></td>
+			<td height=20></td>
+			<td width=37></td>
+		</tr>	
+		<tr>
+			<td width=37></td>
+			<td bgcolor="#cccccc" height=3></td>
+			<td width=37></td>
+		</tr>
+		<tr>
+			<td width=37></td>
+			<td height=20></td>
+			<td width=37></td>
+		</tr>
+		<tr>
+			<td width=37></td>
+			<td valign=top align=center>
+				<div style="font:arial 10px; color:#a09b9b; margin-bottom:4px"><font size=2>ADVERTISEMENT</font></div>
+                         
+                    <div style="width: 570px; overflow: hidden;">                              
+                    <table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td colspan="2">
+      <a style="display: block; width: 300px; height: 250px;" href="https://zdbb.net/r/?http%3a%2f%2fli.ziffdavis.com%2fclick%3fs%3d121040%26sz%3d300x250%26li%3dwhatsnewnow_pcmag%26e%3d93006%26p%3d1204451&mailing_id=1204451&list=whatsnewnow&member_id=93006&engine_id=1&mailing=ZiffDavisNewsletter" rel="nofollow">
+        <img src="http://li.ziffdavis.com/imp?s=121040&sz=300x250&li=whatsnewnow_pcmag&e=93006&p=1204451" border="0" width="300" height="250"/>
+      </a>
+   </td>
+  </tr>
+  <tr style="display:block; height:1px; line-height:1px;">
+    <td>
+      <img src="http://li.ziffdavis.com/imp?s=121041&sz=1x1&li=whatsnewnow_pcmag&e=93006&p=1204451" height="1" width="10"/>
+    </td>
+    <td>
+      <img src="http://li.ziffdavis.com/imp?s=121042&sz=1x1&li=whatsnewnow_pcmag&e=93006&p=1204451" height="1" width="10"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <a href="https://zdbb.net/r/?http%3a%2f%2fli.ziffdavis.com%2fclick%3fs%3d119013%26sz%3d116x15%26li%3dwhatsnewnow_pcmag%26e%3d93006%26p%3d1204451&mailing_id=1204451&list=whatsnewnow&member_id=93006&engine_id=1&mailing=ZiffDavisNewsletter" rel="nofollow">
+        <img src="http://li.ziffdavis.com/imp?s=119013&sz=116x15&li=whatsnewnow_pcmag&e=93006&p=1204451" border="0"/>
+      </a>
+    </td>
+    <td align="right">
+      <a href="https://zdbb.net/r/?http%3a%2f%2fli.ziffdavis.com%2fclick%3fs%3d119014%26sz%3d69x15%26li%3dwhatsnewnow_pcmag%26e%3d93006%26p%3d1204451&mailing_id=1204451&list=whatsnewnow&member_id=93006&engine_id=1&mailing=ZiffDavisNewsletter" rel="nofollow">
+        <img src="http://li.ziffdavis.com/imp?s=119014&sz=69x15&li=whatsnewnow_pcmag&e=93006&p=1204451" border="0"/>
+      </a>
+    </td>
+  </tr>
+</table>  
+                    </div>
+                
+			</td>
+			<td width=37></td>
+		</tr>
+		<tr>
+			<td width=37></td>
+			<td height=24></td>
+			<td width=37></td>
+		</tr>
+		<tr>
+			<td width=37></td>
+			<td bgcolor="#cccccc" height=3></td>
+			<td width=37></td>
+		</tr>
+		<tr>
+			<td width=37></td>
+			<td height=20></td>
+			<td width=37></td>
+		</tr>			
+	</table>
+
+    <!-- article 2-N -->
+    
+           <a name="3"></a>
+	        <table bgcolor=white cellpadding=0 cellspacing=0 border=0 width=650 align=center>	
+		        <tr>
+			        <td colspan=4 height=20></td>
+		        </tr>
+		        <tr>
+			        <td width=37></td>
+			        <td id="rptStories_ctl00_articleimgN" valign="top" width="160">
+                        <table cellpadding=0 cellspacing=0 border=0>
+                            <tr>
+                                <td>
+                                    <a href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948770/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=14cfc919">
+				                        <img src="http://common.ziffdavisinternet.com/util_get_image/46/0,,i=461080,00.jpg" width=130 height=130 vspace=5 border=0>
+                                    </a>
+                                </td>
+                                <td width=30></td>
+                            </tr>
+                        </table>
+			        </td>
+
+			        <td valign=top>
+				        <div class="titlebox">
+                            <a class=title style="font:bold 25px arial; text-decoration:none; color:#040400" href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948770/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=14cfc919" class="sub_link">'The X-Files' Returning for 6-Episode Run</a>
+                        </div>
+				        <div class="text" style="font:17px arial; line-height:20px">
+					        David Duchovny and Gillian Anderson are back as Mulder and Scully; filming begins this summer.
+				        </div>
+			        </td>
+                    <td width=37></td>
+		        </tr>	
+	        </table>
+        
+           <a name="4"></a>
+	        <table bgcolor=white cellpadding=0 cellspacing=0 border=0 width=650 align=center>	
+		        <tr>
+			        <td colspan=4 height=20></td>
+		        </tr>
+		        <tr>
+			        <td width=37></td>
+			        <td id="rptStories_ctl01_articleimgN" valign="top" width="160">
+                        <table cellpadding=0 cellspacing=0 border=0>
+                            <tr>
+                                <td>
+                                    <a href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948771/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=b7427bdf">
+				                        <img src="http://common.ziffdavisinternet.com/util_get_image/46/0,,i=461081,00.jpg" width=130 height=130 vspace=5 border=0>
+                                    </a>
+                                </td>
+                                <td width=30></td>
+                            </tr>
+                        </table>
+			        </td>
+
+			        <td valign=top>
+				        <div class="titlebox">
+                            <a class=title style="font:bold 25px arial; text-decoration:none; color:#040400" href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948771/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=b7427bdf" class="sub_link">Playing Bloodborne on a PS4 Using an SSD Could Save Hours of Loading</a>
+                        </div>
+				        <div class="text" style="font:17px arial; line-height:20px">
+					        Bloodborne is a graphically intensive game, and that's by no means a negative. But that high level of detail comes at a price: load times.
+				        </div>
+			        </td>
+                    <td width=37></td>
+		        </tr>	
+	        </table>
+        
+           <a name="5"></a>
+	        <table bgcolor=white cellpadding=0 cellspacing=0 border=0 width=650 align=center>	
+		        <tr>
+			        <td colspan=4 height=20></td>
+		        </tr>
+		        <tr>
+			        <td width=37></td>
+			        <td id="rptStories_ctl02_articleimgN" valign="top" width="160">
+                        <table cellpadding=0 cellspacing=0 border=0>
+                            <tr>
+                                <td>
+                                    <a href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948772/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=29cbd025">
+				                        <img src="http://common.ziffdavisinternet.com/util_get_image/42/0,,i=426056,00.jpg" width=130 height=130 vspace=5 border=0>
+                                    </a>
+                                </td>
+                                <td width=30></td>
+                            </tr>
+                        </table>
+			        </td>
+
+			        <td valign=top>
+				        <div class="titlebox">
+                            <a class=title style="font:bold 25px arial; text-decoration:none; color:#040400" href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948772/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=29cbd025" class="sub_link">The 10 Best Ultrabooks</a>
+                        </div>
+				        <div class="text" style="font:17px arial; line-height:20px">
+					        They're light, battery-efficient, and incredibly thin. What's not to love about ultrabooks? We give you our top picks.
+				        </div>
+			        </td>
+                    <td width=37></td>
+		        </tr>	
+	        </table>
+        
+           <a name="6"></a>
+	        <table bgcolor=white cellpadding=0 cellspacing=0 border=0 width=650 align=center>	
+		        <tr>
+			        <td colspan=4 height=20></td>
+		        </tr>
+		        <tr>
+			        <td width=37></td>
+			        <td id="rptStories_ctl03_articleimgN" valign="top" width="160">
+                        <table cellpadding=0 cellspacing=0 border=0>
+                            <tr>
+                                <td>
+                                    <a href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948773/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=ac9a5c96">
+				                        <img src="http://www.computershopper.com/var/ezwebin_site/storage/images/storage/product-profile/ocz-vector-180-480gb/1192425-2-eng-US/ocz-vector-180-480gb_product_review_thumb.jpg" width=130 height=130 vspace=5 border=0>
+                                    </a>
+                                </td>
+                                <td width=30></td>
+                            </tr>
+                        </table>
+			        </td>
+
+			        <td valign=top>
+				        <div class="titlebox">
+                            <a class=title style="font:bold 25px arial; text-decoration:none; color:#040400" href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948773/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=ac9a5c96" class="sub_link">OCZ Reboots Its Flagship SSD: The New Vector 180 Tested</a>
+                        </div>
+				        <div class="text" style="font:17px arial; line-height:20px">
+					        OCZ, now a part of Toshiba, is seeing a storage renaissance, rolling out a new solid-state drive with a snazzy new software front end, speedy performance, and enterprise-style security. Can it compete in a tough field, with Samsung and Micron/Crucial at its heels? Computer Shopper digs in.
+				        </div>
+			        </td>
+                    <td width=37></td>
+		        </tr>	
+	        </table>
+        
+           <a name="7"></a>
+	        <table bgcolor=white cellpadding=0 cellspacing=0 border=0 width=650 align=center>	
+		        <tr>
+			        <td colspan=4 height=20></td>
+		        </tr>
+		        <tr>
+			        <td width=37></td>
+			        <td id="rptStories_ctl04_articleimgN" valign="top" width="160">
+                        <table cellpadding=0 cellspacing=0 border=0>
+                            <tr>
+                                <td>
+                                    <a href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948774/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=7908e8fc">
+				                        <img src="http://common.ziffdavisinternet.com/util_get_image/44/0,,i=448518,00.jpg" width=130 height=130 vspace=5 border=0>
+                                    </a>
+                                </td>
+                                <td width=30></td>
+                            </tr>
+                        </table>
+			        </td>
+
+			        <td valign=top>
+				        <div class="titlebox">
+                            <a class=title style="font:bold 25px arial; text-decoration:none; color:#040400" href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948774/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=7908e8fc" class="sub_link">More Stories</a>
+                        </div>
+				        <div class="text" style="font:17px arial; line-height:20px">
+					        &bull; <a href="https://zdbb.net/r/?http%3a%2f%2fwww.pcmag.com%2fslideshow%2fstory%2f327063%2f14-hidden-firefox-functions-for-browsing-like-a-boss&mailing_id=1204451&list=whatsnewnow&member_id=93006&engine_id=1">14 Hidden Firefox Functions for Browsing Like a Boss</a><br>
+
+&bull; <a href="https://zdbb.net/r/?http%3a%2f%2fwww.extremetech.com%2fcomputing%2f201844-now-you-can-create-windows-10-apps-for-pcs-smartphones-and-the-xbox-one&mailing_id=1204451&list=whatsnewnow&member_id=93006&engine_id=1">Create Windows 10 Apps for PCs, Phones, and the Xbox One</a><br>
+
+&bull; <a href="https://zdbb.net/r/?http%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2478629%2c00.asp&mailing_id=1204451&list=whatsnewnow&member_id=93006&engine_id=1">Review: Acer Aspire Switch 11 (SW5-171-325N)</a><br>
+
+&bull; <a href="https://zdbb.net/r/?http%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2478681%2c00.asp&mailing_id=1204451&list=whatsnewnow&member_id=93006&engine_id=1">Best iPhone 6 Battery Cases</a><br>
+ 
+&bull; <a href="https://zdbb.net/r/?http%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2478514%2c00.asp&mailing_id=1204451&list=whatsnewnow&member_id=93006&engine_id=1">We Look at the 2015 Ford Edge</a>
+				        </div>
+			        </td>
+                    <td width=37></td>
+		        </tr>	
+	        </table>
+        
+           <a name="8"></a>
+	        <table bgcolor=white cellpadding=0 cellspacing=0 border=0 width=650 align=center>	
+		        <tr>
+			        <td colspan=4 height=20></td>
+		        </tr>
+		        <tr>
+			        <td width=37></td>
+			        
+			        <td valign=top>
+				        <div class="titlebox">
+                            <a class=title style="font:bold 25px arial; text-decoration:none; color:#040400" href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948775/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=6afdc0c1" class="sub_link"></a>
+                        </div>
+				        <div class="text" style="font:17px arial; line-height:20px">
+					        <I>Sean Carroll<br>
+Managing Editor, Hardware, PCMag.com<br>
+@scarrolltech
+</I>
+				        </div>
+			        </td>
+                    <td width=37></td>
+		        </tr>	
+	        </table>
+        
+    <!-- Article 2-N ends -->
+        <!-- BOX AD 2 -->
+    <div id="boxad2">
+	    <table bgcolor=white cellpadding=0 cellspacing=0 border=0 width=650 align=center>
+		    <tr>
+			    <td width=37></td>
+			    <td height=20></td>
+			    <td width=37></td>
+		    </tr>	
+		    <tr>
+			    <td width=37></td>
+			    <td bgcolor="#cccccc" height=3></td>
+			    <td width=37></td>
+		    </tr>
+		    <tr>
+			    <td width=37></td>
+			    <td height=20></td>
+			    <td width=37></td>
+		    </tr>
+		    <tr>
+			    <td width=37></td>
+			    <td valign=top align=center>
+                             
+                        <div style="width: 570px; overflow: hidden;">                              
+                        <div class="powerinbox">
+  <table width="576" border="0" cellpadding="0" cellspacing="0">
+    <tbody>
+      <tr>
+        <td align="left" valign="middle" style="color: #040400; font-family: Arial, sans-serif; font-size: 24px; font-weight: bold;">
+          You Might Like
+        </td>
+        <td align="right">
+          <a href="https://zdbb.net/r/?http%3a%2f%2fcontentstripe.powerinbox.com%2f%3futm_source%3dcontentstripe%26utm_medium%3dmemberid%26utm_campaign%3dziffdavis_pcmag%26utm_content%3danimatedlogo&mailing_id=1204451&list=whatsnewnow&member_id=93006&engine_id=1&mailing=ZiffDavisNewsletter" style="display: inline-block; border: 0; outline:none; text-decoration:none;" target="_blank">
+            <img height="40" border="0" src="http://az571945.vo.msecnd.net/static/contentstripe/cs-recommend-by-transparent.gif" style="width: 143px; height: 40px;" width="143">
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <table width="576" class="fallback" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="184" style="border-collapse:collapse; padding-right: 12px;">
+        <a href="https://zdbb.net/r/?http%3a%2f%2fcs.powerinbox.com%2fstripe%2fredirect%3fcs_email%3d93006%26cs_esp%3dlyrislm%26cs_offset%3d0%26cs_stripeid%3d2238&mailing_id=1204451&list=whatsnewnow&member_id=93006&engine_id=1&mailing=ZiffDavisNewsletter" style="border-style: none;outline: none;text-decoration: none;" target="_blank">
+          <img alt="" height="208" src="http://cs.powerinbox.com/stripe/image?cs_email=93006&cs_esp=lyrislm&cs_offset=0&cs_stripeid=2238" style="display: block;border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;" width="184">
+        </a>
+      </td>
+      <td width="184" style="border-collapse:collapse; padding-right: 12px;">
+        <a href="https://zdbb.net/r/?http%3a%2f%2fcs.powerinbox.com%2fstripe%2fredirect%3fcs_email%3d93006%26cs_esp%3dlyrislm%26cs_offset%3d1%26cs_stripeid%3d2238&mailing_id=1204451&list=whatsnewnow&member_id=93006&engine_id=1&mailing=ZiffDavisNewsletter" style="border-style: none;outline: none;text-decoration: none;" target="_blank">
+          <img alt="" height="208" src="http://cs.powerinbox.com/stripe/image?cs_email=93006&cs_esp=lyrislm&cs_offset=1&cs_stripeid=2238" style="display: block;border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;" width="184">
+        </a>
+      </td>
+      <td width="184" style="border-collapse:collapse;">
+        <a href="https://zdbb.net/r/?http%3a%2f%2fcs.powerinbox.com%2fstripe%2fredirect%3fcs_email%3d93006%26cs_esp%3dlyrislm%26cs_offset%3d2%26cs_stripeid%3d2238&mailing_id=1204451&list=whatsnewnow&member_id=93006&engine_id=1&mailing=ZiffDavisNewsletter" style="border-style: none;outline: none;text-decoration: none;" target="_blank">
+          <img alt="" height="208" src="http://cs.powerinbox.com/stripe/image?cs_email=93006&cs_esp=lyrislm&cs_offset=2&cs_stripeid=2238" style="display: block;border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;" width="184">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>  
+                        </div>
+                    
+			    </td>
+			    <td width=37></td>
+		    </tr>
+		    <tr>
+			    <td width=37></td>
+			    <td height=24></td>
+			    <td width=37 align=center>
+                </td>
+		    </tr>
+		    <tr>
+			    <td width=37></td>
+			    <td bgcolor="#cccccc" height=3></td>
+			    <td width=37></td>
+		    </tr>
+		    <tr>
+			    <td width=37></td>
+			    <td height=20></td>
+			    <td width=37></td>
+		    </tr>			
+	    </table>
+        <!--/ BOX AD 2 -->
+    </div>
+	<table bgcolor=white cellpadding=0 cellspacing=0 border=0 width=650 align=center>
+		<tr>
+			<td width=20></td>
+			<td height=20></td>
+		</tr>	
+		<tr>
+			<td width=20></td>
+			<td>
+				<img src="http://cdn.toolbox.com/build_2956/rds/PCMag/techdeals_BANNER.png" width=262 height=63>
+			</td>
+		</tr>
+	</table>
+	<table bgcolor=white cellpadding=0 cellspacing=0 border=0 width=650 align=center>	
+		<tr>
+			<td colspan=3 height=20></td>
+		</tr>
+		<tr>
+			<td width=10>&nbsp;</td>
+			<td width=200>
+                
+<!-- Start PCmag Review Items --> 
+
+       
+	    <table bgcolor=white cellpadding=0 cellspacing=0 border=0 width=630 align=center>	
+		    <tr>
+			    <td colspan=4 height=20></td>
+		    </tr>
+		    <tr>
+			    <td width=37>&nbsp;</td>
+			    <td valign=middle width=160>
+                    <a href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948776/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=fbda444d" ><img src="http://images.enews.pcmag.com/enews/0103f270-2df2-47e0-93ee-a09a6e6a2114.jpg" border="0"  width=130 height=130></a>
+			    </td>
+			    <td valign=top width=400>
+                    <a href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948776/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=fbda444d" style="font:bold 25px helvetica; color:Black; text-decoration:none">
+                       Iolo System Mechanic Pro
+                    </a>
+                    <div style="font:24px helvetica; margin-bottom:25px">
+                        <s>$69.95</s>&nbsp;&nbsp;
+                        <span style="font:bold 30px helvetica ; color:#e20309">$34.97</span>
+                        
+                    </div>
+                    <table cellspacing=0 cellpadding=0 border=0 style="border-top:1px solid #f8c0c1; border-bottom:1px solid #e73136; background-color:#e20309">
+                        <tr>
+                            <td style="padding:5px 10px 5px 20px" nowrap>
+                                <a href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948776/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=fbda444d" style="display:block; text-decoration:none; text-transform:uppercase; font:bold 18px helvetica; color:white;">Get Deal</a>                            
+                            </td>
+                            <td>
+                                <img src="http://cdn.toolbox.com/build_2956/rds/PCMag/Button.png" border=0 width=28 height=29 hspace=2/>
+                            </td>
+                        </tr>
+                    </table>
+                    
+			    </td>
+                <td width=37>&nbsp;</td>
+		    </tr>	
+		    <tr>
+			    <td width=37></td>
+			    <td height=20 colspan=2></td>
+			    <td width=37></td>
+		    </tr>
+            <tr>
+                <td colspan=4><img id="test_rptLatest_ctl00_imgTest" src="" style="height:1px;width:1px;border-width:0px;" /></td>
+            </tr>	            			
+	    </table> 
+           
+	    <table bgcolor=white cellpadding=0 cellspacing=0 border=0 width=630 align=center>	
+		    <tr>
+			    <td colspan=4 height=20></td>
+		    </tr>
+		    <tr>
+			    <td width=37>&nbsp;</td>
+			    <td valign=middle width=160>
+                    <a href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948777/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=e86e066b" ><img src="http://images.enews.pcmag.com/enews/93b03b4c-3ef6-4e93-bb9d-4d20f92437cc.jpg" border="0"  width=130 height=130></a>
+			    </td>
+			    <td valign=top width=400>
+                    <a href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948777/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=e86e066b" style="font:bold 25px helvetica; color:Black; text-decoration:none">
+                       Dell Inspiron 15 7000 i7 Laptop
+                    </a>
+                    <div style="font:24px helvetica; margin-bottom:25px">
+                        <s>$1,199.00</s>&nbsp;&nbsp;
+                        <span style="font:bold 30px helvetica ; color:#e20309">$799.99</span>
+                        <span id="test_rptLatest_ctl01_lblFreeShip"><span style="font-size:18px; white-space:nowrap">+ Free Shipping</span></span>
+                    </div>
+                    <table cellspacing=0 cellpadding=0 border=0 style="border-top:1px solid #f8c0c1; border-bottom:1px solid #e73136; background-color:#e20309">
+                        <tr>
+                            <td style="padding:5px 10px 5px 20px" nowrap>
+                                <a href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948777/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=e86e066b" style="display:block; text-decoration:none; text-transform:uppercase; font:bold 18px helvetica; color:white;">Get Deal</a>                            
+                            </td>
+                            <td>
+                                <img src="http://cdn.toolbox.com/build_2956/rds/PCMag/Button.png" border=0 width=28 height=29 hspace=2/>
+                            </td>
+                        </tr>
+                    </table>
+                    
+			    </td>
+                <td width=37>&nbsp;</td>
+		    </tr>	
+		    <tr>
+			    <td width=37></td>
+			    <td height=20 colspan=2></td>
+			    <td width=37></td>
+		    </tr>
+            <tr>
+                <td colspan=4><img id="test_rptLatest_ctl01_imgTest" src="" style="height:1px;width:1px;border-width:0px;" /></td>
+            </tr>	            			
+	    </table> 
+           
+	    <table bgcolor=white cellpadding=0 cellspacing=0 border=0 width=630 align=center>	
+		    <tr>
+			    <td colspan=4 height=20></td>
+		    </tr>
+		    <tr>
+			    <td width=37>&nbsp;</td>
+			    <td valign=middle width=160>
+                    <a href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948778/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=86ba5075" ><img src="http://images.enews.pcmag.com/enews/f9326f63-bb89-4ea4-add9-3574edd31aa5.jpg" border="0"  width=130 height=130></a>
+			    </td>
+			    <td valign=top width=400>
+                    <a href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948778/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=86ba5075" style="font:bold 25px helvetica; color:Black; text-decoration:none">
+                       2015 Macbook Pro Retina
+                    </a>
+                    <div style="font:24px helvetica; margin-bottom:25px">
+                        <s>$1,299.00</s>&nbsp;&nbsp;
+                        <span style="font:bold 30px helvetica ; color:#e20309">$1,289.99</span>
+                        <span id="test_rptLatest_ctl02_lblFreeShip"><span style="font-size:18px; white-space:nowrap">+ Free Shipping</span></span>
+                    </div>
+                    <table cellspacing=0 cellpadding=0 border=0 style="border-top:1px solid #f8c0c1; border-bottom:1px solid #e73136; background-color:#e20309">
+                        <tr>
+                            <td style="padding:5px 10px 5px 20px" nowrap>
+                                <a href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948778/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=86ba5075" style="display:block; text-decoration:none; text-transform:uppercase; font:bold 18px helvetica; color:white;">Get Deal</a>                            
+                            </td>
+                            <td>
+                                <img src="http://cdn.toolbox.com/build_2956/rds/PCMag/Button.png" border=0 width=28 height=29 hspace=2/>
+                            </td>
+                        </tr>
+                    </table>
+                    
+			    </td>
+                <td width=37>&nbsp;</td>
+		    </tr>	
+		    <tr>
+			    <td width=37></td>
+			    <td height=20 colspan=2></td>
+			    <td width=37></td>
+		    </tr>
+            <tr>
+                <td colspan=4><img id="test_rptLatest_ctl02_imgTest" src="" style="height:1px;width:1px;border-width:0px;" /></td>
+            </tr>	            			
+	    </table> 
+           
+	    <table bgcolor=white cellpadding=0 cellspacing=0 border=0 width=630 align=center>	
+		    <tr>
+			    <td colspan=4 height=20></td>
+		    </tr>
+		    <tr>
+			    <td width=37>&nbsp;</td>
+			    <td valign=middle width=160>
+                    <a href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948779/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=167a38df" ><img src="http://images.enews.pcmag.com/enews/8812a712-1a6d-411e-a8ae-40d3a247adba.jpg" border="0"  width=130 height=130></a>
+			    </td>
+			    <td valign=top width=400>
+                    <a href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948779/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=167a38df" style="font:bold 25px helvetica; color:Black; text-decoration:none">
+                       HP Officejet Pro 6230 ePrinter
+                    </a>
+                    <div style="font:24px helvetica; margin-bottom:25px">
+                        <s>$99.00</s>&nbsp;&nbsp;
+                        <span style="font:bold 30px helvetica ; color:#e20309">$69.99</span>
+                        <span id="test_rptLatest_ctl03_lblFreeShip"><span style="font-size:18px; white-space:nowrap">+ Free Shipping</span></span>
+                    </div>
+                    <table cellspacing=0 cellpadding=0 border=0 style="border-top:1px solid #f8c0c1; border-bottom:1px solid #e73136; background-color:#e20309">
+                        <tr>
+                            <td style="padding:5px 10px 5px 20px" nowrap>
+                                <a href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948779/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=167a38df" style="display:block; text-decoration:none; text-transform:uppercase; font:bold 18px helvetica; color:white;">Get Deal</a>                            
+                            </td>
+                            <td>
+                                <img src="http://cdn.toolbox.com/build_2956/rds/PCMag/Button.png" border=0 width=28 height=29 hspace=2/>
+                            </td>
+                        </tr>
+                    </table>
+                    
+			    </td>
+                <td width=37>&nbsp;</td>
+		    </tr>	
+		    <tr>
+			    <td width=37></td>
+			    <td height=20 colspan=2></td>
+			    <td width=37></td>
+		    </tr>
+            <tr>
+                <td colspan=4><img id="test_rptLatest_ctl03_imgTest" src="" style="height:1px;width:1px;border-width:0px;" /></td>
+            </tr>	            			
+	    </table> 
+           
+	    <table bgcolor=white cellpadding=0 cellspacing=0 border=0 width=630 align=center>	
+		    <tr>
+			    <td colspan=4 height=20></td>
+		    </tr>
+		    <tr>
+			    <td width=37>&nbsp;</td>
+			    <td valign=middle width=160>
+                    <a href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948780/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=9de86e28" ><img src="http://images.enews.pcmag.com/enews/9f1666cc-bcbf-4716-b040-4a648e9129e9.jpg" border="0"  width=130 height=130></a>
+			    </td>
+			    <td valign=top width=400>
+                    <a href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948780/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=9de86e28" style="font:bold 25px helvetica; color:Black; text-decoration:none">
+                       Dell Optiplex 9020 Micro i5 Desktop
+                    </a>
+                    <div style="font:24px helvetica; margin-bottom:25px">
+                        <s>$999.00</s>&nbsp;&nbsp;
+                        <span style="font:bold 30px helvetica ; color:#e20309">$699.00</span>
+                        <span id="test_rptLatest_ctl04_lblFreeShip"><span style="font-size:18px; white-space:nowrap">+ Free Shipping</span></span>
+                    </div>
+                    <table cellspacing=0 cellpadding=0 border=0 style="border-top:1px solid #f8c0c1; border-bottom:1px solid #e73136; background-color:#e20309">
+                        <tr>
+                            <td style="padding:5px 10px 5px 20px" nowrap>
+                                <a href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5948780/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=9de86e28" style="display:block; text-decoration:none; text-transform:uppercase; font:bold 18px helvetica; color:white;">Get Deal</a>                            
+                            </td>
+                            <td>
+                                <img src="http://cdn.toolbox.com/build_2956/rds/PCMag/Button.png" border=0 width=28 height=29 hspace=2/>
+                            </td>
+                        </tr>
+                    </table>
+                    
+			    </td>
+                <td width=37>&nbsp;</td>
+		    </tr>	
+		    <tr>
+			    <td width=37></td>
+			    <td height=20 colspan=2></td>
+			    <td width=37></td>
+		    </tr>
+            <tr>
+                <td colspan=4><img id="test_rptLatest_ctl04_imgTest" src="" style="height:1px;width:1px;border-width:0px;" /></td>
+            </tr>	            			
+	    </table> 
+    
+<!-- End PCmag Review Items -->
+
+   
+			</td>
+		</tr>	
+		<tr>
+			<td width=37></td>
+			<td height=20></td>
+			<td width=37></td>
+		</tr>			
+	</table>
+	<table bgcolor=white cellpadding=0 cellspacing=0 border=0 width=650 align=center>	
+		<tr>
+			<td colspan=3 height=20></td>
+		</tr>
+		<tr>
+			<td width=10>&nbsp;</td>
+			<td width=200>
+                
+<!-- Start PCmag Review Items --> 
+
+
+<!-- End PCmag Review Items -->
+   
+			</td>
+		</tr>	
+		<tr>
+			<td width=37></td>
+			<td height=20></td>
+			<td width=37></td>
+		</tr>			
+	</table>
+	<table bgcolor=white cellpadding=0 cellspacing=0 border=0 width=650 align=center>
+  <!-- Commented out this section too to get to the correct spacing, but this removes an add unit
+		<tr>
+			<td colspan=3 height=20></td>
+		</tr>
+  -->
+		<tr>
+			<td width=37></td>
+			<td height=20>
+                            
+            
+            </td>
+			<td width=37></td>
+		</tr>
+  <!--
+		<tr>
+			<td width=37></td>
+			<td height=20></td>
+			<td width=37></td>
+		</tr>
+  -->
+  <!-- This table had row that had a total height of 95 - commmenting out last row w/height of 35
+		<tr>
+			<td colspan=3 height=35></td>
+		</tr>
+  -->
+	</table>
+	<table bgcolor=white cellpadding=0 cellspacing=0 border=0 width=650 align=center>
+		<tr>
+            <td width=20>&nbsp;</td>
+			<td style="color:White !important; background-color:#040400; font-size:11px; padding: 30px 40px 30px 40px" class="footerbox">
+                <strong>eNewsletter Information</strong><br />     
+                <img height="5" border="0" width="1" src="http://enewsletters.ziffdavisinternet.com/channelzone/spacer.gif" alt="" />You are subscribed to What's New Now with the e-mail address 1@oscar-oe.gr. <br />
+                Click <a href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5715126/2/?3e076d18=MUBvc2Nhci1vZS5ncg%3d%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=6611cf1f" target="_new" class="footer" style="font:11px arial ; color:white"><strong>here</strong></a> to unsubscribe from this newsletter. <br />
+                <br />
+                To subscribe to other e-mail newsletters from Ziff Davis, change your delivery format from HTML to text, or change your email address, click </font>
+                <a href="http://mailing.eletters.whatsnewnow.com/t/1204451/93006/5715127/2/?e5e2987d=MTIwNDQ1MQ%3d%3d&4f415564=OTMwMDY%3d&c73c8e04=d2hhdHNuZXdub3c%3d&e5e2987d=MTIwNDQ1MQ%3d%3d&x=2a582086" target="_new" class="footer" style="font:11px arial ; color:white"><strong>here</strong></a>.
+            </td>
+            <td width=20>&nbsp;</td>
+          </tr>
+          <tr>
+             <td width=20>&nbsp;</td> 
+             <td bgcolor="#b2b2b2" style="color:#040400; font-size:11px; padding: 30px 40px 30px 40px"> 
+                <table>
+                    <tr>
+                        <td width=110><a href="https://zdbb.net/r/?http%3a%2f%2fwww.ziffdavis.com&mailing_id=1204451&list=whatsnewnow&member_id=93006&engine_id=1&mailing=ZiffDavisNewsletter"><img src="http://cdn.toolbox.com/build_2956/rds/PCMag/ZDLogo-newsletters.png" border=0/></a></td>
+                        <td valign=top>
+                            Copyright &copy; 2015 Ziff Davis, LLC. All Rights Reserved.<br />
+                            Ziff Davis, LLC., 28 East 28th Street, New York, NY 10016<br />                      
+                        </td>
+                    </tr>
+                </table>
+			</td>
+            <td width=20>&nbsp;</td>
+		</tr>
+        <tr>
+            <td colspan=3 height=20></td>
+        </tr>	
+	</table>
+    <img src='https://zdbb.net/l/vUl_mG-rEeK8mRIxOxAUTQ?member_id=93006&list=whatsnewnow&mailing_id=1204451&mailing=WhatsNewNow&engine_id=1' />
+    <IMG ALT="" SRC="http://mailing.eletters.whatsnewnow.com/do/1204451/93006/1.gif" WIDTH=1 HEIGHT=1><BR>
+<img src="https://bounceexchange.com/tag/em/1166.gif" width="1" height="1" border="0" />
+</BODY>
+</html>
+
+
+
+
+--whatsnewnow-mime-boundary-20152603050000--
+

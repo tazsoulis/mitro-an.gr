@@ -1,0 +1,486 @@
+Return-path: <bounce-1197922-849243@enews.pcmag.com>
+Envelope-to: 1@oscar-oe.gr
+Delivery-date: Thu, 19 Mar 2015 07:59:32 -0500
+Received: from hdmail07-1.toolbox.com ([208.99.185.112]:58509)
+	by nascar.websitewelcome.com with esmtp (Exim 4.82)
+	(envelope-from <bounce-1197922-849243@enews.pcmag.com>)
+	id 1YYa2u-00045W-5P
+	for 1@oscar-oe.gr; Thu, 19 Mar 2015 07:59:32 -0500
+Received: from enews.pcmag.com (ip-10-1-1-45.us-west-1.compute.internal [10.1.1.45])
+	by hdmail07-1.toolbox.com (Postfix) with SMTP id BAAE82AA87A
+	for <1@oscar-oe.gr>; Thu, 19 Mar 2015 05:59:30 -0700 (MST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; q=dns/txt; l=29739;
+ d=enews.pcmag.com;s=lyrisv2;
+ h=from : message-id;
+ bh=A05/LkTY06i2NtPlrY5JiQyHy35uUuOpBcmCR0B6ZqI=;
+ b=qTJqF4aJm2xr4D90isPmS9wLYbDH+aDPnDAAUPugkTBuEG2qs3BNjL/yEZd9ZkfCrkYZ8Qqs
+ H/bxarSYFjbVkmfnR4oPr7S6Gaa4D4RLZ6IenOvPDQ/cIdnI1GvQMtXf8uXECIcZRmwWxSXn
+ iWcPe0eU39BUeVUN/zWyC1/HLvA=;
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=lyrisv2; d=enews.pcmag.com;
+ h=from:message-id;
+ b=dZ0wrvHoX89qNER6Ogr1ZQciMJklWji5Ri63qK/7BGJP8WxGl0gZHFcbX1GqVzTobr80ix94 eY2XM9sbzWI8aIbHsihGDR2Miy6TvfblLzBN+G/JCdqbLwUjpCbeHwbFGj5KY13uNJ+Ve8vV
+ vinnr0RdPwiR5WXaJBAazP74cXs=
+From: "PCMag Buying Guide" <BuyingGuide@enews.pcmag.com>
+To: 1@oscar-oe.gr
+Subject: Your Ultimate Guide to Storage
+Date: Thu, 19 Mar 2015 05:30:00 -0700
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="buyingguide-mime-boundary-20151903053000"
+Reply-To: BuyingGuide@enews.pcmag.com
+Message-ID: <LYRIS-849243-1197922-2015.03.19-05.59.39--1#oscar-oe.gr@enews.pcmag.com>
+x-lyrmembers: 849243
+List-Unsubscribe: <mailto:leave-1197922-849243.71f967f5513566f309da415e09bbad6f@enews.pcmag.com>, <http://mailing.enews.pcmag.com/u?id=849243.71f967f5513566f309da415e09bbad6f&n=T&l=buyingguide&o=1197922>
+Feedback-ID: 849243:1197922:buyingguide:ZiffDavisESP_AZ
+
+This is a multi-part message in MIME format.
+
+--buyingguide-mime-boundary-20151903053000
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+
+============================================================
+--------           PC Mag Buying Guide              --------
+--------           for March 19, 2015             --------
+============================================================
+How to Buy an External Hard Drive; The 10 Best External Hard Drives; Top Picks: USB Flash Drives; 
+============================================================
+************************************************************
+
+Sponsored by PC Magazine
+
+
+
+http://mailing.enews.pcmag.com/t/1197922/849243/5944529/4/?e5e2987d=MTE5NzkyMg%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=82051c4d
+
+************************************************************
+============================================================
+
+IN THIS ISSUE:
+
+* How to Buy an External Hard Drive
+
+* The 10 Best External Hard Drives
+
+* Top Picks: USB Flash Drives
+
+* SSD vs HDD: What's the Difference?
+
+* The Top Mac-Friendly Hard Drives
+
+* 15 Wacky Flash Drives Every Geek Needs
+
+
+============================================================
+
+How to Buy an External Hard Drive
+
+Whether you're running out of drive space on your desktop or laptop, or you just need to back up your stuff, here's what to look for before you settle on the perfect external storage solution.
+
+http://mailing.enews.pcmag.com/t/1197922/849243/5947320/4/?e5e2987d=MTE5NzkyMg%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=29197e1d
+
+============================================================
+
+The 10 Best External Hard Drives
+
+With the need to back up an increasing amount of data, an external hard drive is a must-have. We take the angst out of your search with the 10 best external hard drives on the market today.
+
+http://mailing.enews.pcmag.com/t/1197922/849243/5947321/4/?e5e2987d=MTE5NzkyMg%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=c0f14f4a
+
+============================================================
+
+Top Picks: USB Flash Drives
+
+Need to shuttle files between computers but don't want to tote a full-size hard drive? How about storing gigs and gigs of media on a drive that's the size of your thumb? Here are the best USB flash drives we've tested.
+
+http://mailing.enews.pcmag.com/t/1197922/849243/5947322/4/?e5e2987d=MTE5NzkyMg%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=02547a66
+
+============================================================
+
+SSD vs HDD: What's the Difference?
+
+A hard drive is a hard drive, right? Not exactly. We lay out the differences between SSD and HDD storage to help you figure out which type is the best choice.
+
+http://mailing.enews.pcmag.com/t/1197922/849243/5942453/4/?e5e2987d=MTE5NzkyMg%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=937b1af2
+
+============================================================
+
+The Top Mac-Friendly Hard Drives
+
+Be smart and back up your Apple laptop or desktop with one of these 10 top-rated Mac-friendly drives.
+
+http://mailing.enews.pcmag.com/t/1197922/849243/5947323/4/?e5e2987d=MTE5NzkyMg%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=d78acddc
+
+============================================================
+
+15 Wacky Flash Drives Every Geek Needs
+
+Flash drives might be utilitarian but that doesn't mean they have to be boring. Here are 15 models that will definitely get attention.
+
+http://mailing.enews.pcmag.com/t/1197922/849243/5946712/4/?e5e2987d=MTE5NzkyMg%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=ffc3a62b
+
+
+============================================================
+
+For more reviews, news, guides, expert advice, and alerts,
+visit our Product Guide.
+
+============================================================
+eNewsletter Information
+============================================================
+You are subscribed to PCMag Buyer's Guide with
+the e-mail: 1@oscar-oe.gr
+
+To unsubscribe to this newsletter, click below:
+http://mailing.enews.pcmag.com/t/1197922/849243/5715829/4/?3e076d18=MUBvc2Nhci1vZS5ncg%3d%3d&e5e2987d=MTE5NzkyMg%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE5NzkyMg%3d%3d&x=42440795
+
+To change your e-mail address, change your text/HTML
+preferences, or to subscribe to other FREE PC Magazine Online
+e-mail newsletters, visit:
+http://mailing.enews.pcmag.com/t/1197922/849243/5715043/4/?e5e2987d=MTE5NzkyMg%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE5NzkyMg%3d%3d&x=a780e0d0
+
+============================================================ 
+
+Copyright (C)2015 Ziff Davis, LLC. All Rights Reserved.
+Ziff Davis, LLC., 28 East 28th Street, 11th Floor,
+New York, NY 10016
+
+--buyingguide-mime-boundary-20151903053000
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Buying Guide</title>
+</head>
+<body spellcheck="false">
+<table cellspacing="0" cellpadding="2" border="0" align="left" width="760">
+<tbody>
+    <tr>
+        <td>
+            <table cellspacing="0" cellpadding="0" border="0" bgcolor="#000000" width="760">
+            <tbody>
+                <tr>
+                    <td bgcolor="#ffffff" colspan="2"></td>
+                </tr>
+                <tr>
+                    <td bgcolor="#ffffff" width="145">
+                        <a href="https://zdbb.net/r/?http%3a%2f%2fwww.pcmag.com%2f&mailing_id=1197922&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter">
+                            <img height="92" width="143" src="http://static.ziffdavis.com/images/logo.gif" alt="PC Magazine" border=0 />
+                        </a>
+                    </td>
+                    <td bgcolor="#ffffff" width="654"><br />
+                        <table cellspacing="0" cellpadding="0" border="0" width="654">
+                        <tbody>
+                            <tr>
+                                <td colspan="2"></td>
+                            </tr>
+                            <tr>
+                                <td height="39" bgcolor="#000000" width="11" style="font-size: 30px; color: rgb(255, 255, 255);">&nbsp;</td>
+                                <td bgcolor="#000000" width="609" style="font-size: 30px; color: rgb(255, 255, 255); font-family: Arial,Helvetica,sans-serif;"><strong>Buying Guide </strong><font color="#cccccc" size="+1">March 19, 2015</font></td>
+                            </tr>
+                            <tr>
+                                <td>&nbsp;</td>
+                                <td style="font-size: 12px; color: rgb(102, 102, 102); font-family: Arial,Helvetica,sans-serif;">
+                                    <table cellspacing="2" cellpadding="0" border="0">
+                                    <tbody>
+                                        <tr>
+                                            <td>
+                                                <a href="http://mailing.enews.pcmag.com/t/1197922/849243/6/4/?6299e5a7=aHR0cDovL21haWxpbmcuZW5ld3MucGNtYWcuY29tL3JlYWQvYXJjaGl2ZT9pZD0zNzY2NSZtaWQ9ODQ5MjQzJmU9MSU0MG9zY2FyJTJkb2UlMmVnciZ4PWQ3OTIwMTNk&x=5da7995e" style="font-size: 12px; color: rgb(102, 102, 102); font-family: Arial,Helvetica,sans-serif;">View Online</a> | 
+                                                <a href="http://mailing.enews.pcmag.com/t/1197922/849243/5715830/4/?e5e2987d=MTE5NzkyMg%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE5NzkyMg%3d%3d&x=2ed0e132" style="font-size: 12px; color: rgb(102, 102, 102); font-family: Arial,Helvetica,sans-serif;">Manage Subscription</a> | 
+                                                <font style="font-size: 12px; color: rgb(102, 102, 102); font-family: Arial,Helvetica,sans-serif;">Follow Us</font> 
+                                                <a href="http://mailing.enews.pcmag.com/t/1197922/849243/5722690/4/?e5e2987d=MTE5NzkyMg%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE5NzkyMg%3d%3d&x=02fc0c46"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/facebook.png" alt="Follow us on Facebook" /></a>&nbsp;
+                                                <a href="http://mailing.enews.pcmag.com/t/1197922/849243/5715832/4/?e5e2987d=MTE5NzkyMg%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE5NzkyMg%3d%3d&x=a46b2670"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/twitter.png" alt="Follow us on Twitter" /></a>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td bgcolor="#ffffff" colspan="2"><hr color="#cccccc" width="760" />
+                        <table cellspacing="0" cellpadding="0" border="0">
+                        <tbody>
+                            <tr>
+                                <td width="369" valign="top" style="padding-right: 14px; padding-left: 25px; font-size: 20px; font-family: Arial,Helvetica,sans-serif;">
+                                              
+                                        <div style="width: 368px; overflow: hidden;">                             
+                                            <font size="-1">Welcome to the PCMag Buying Guide newsletter. This week: Everything you need to know about storage.</font>    
+                                            <br />
+                                        </div>
+                                    
+                                    
+                                    
+                                    <!-- Articles -->
+                                    
+                                    <strong><br />TOP</strong> STORIES 
+                                    <hr color="#999999" width="369" size="4" />
+                                    
+                                    <a href="http://mailing.enews.pcmag.com/t/1197922/849243/5947324/4/?e5e2987d=MTE5NzkyMg%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE5NzkyMg%3d%3d&x=30f6fac3" style="font-size: 16px; color: rgb(0, 100, 160); font-family: Arial,Helvetica,sans-serif;"><strong>How to Buy an External Hard Drive</strong></a>
+                                    <font style="font-size: 11px; font-family: Verdana;"><br />Whether you're running out of drive space on your desktop or laptop, or you just need to back up your stuff, here's what to look for before you settle on the perfect external storage solution.<br /></font>                                    
+                                    <font style="font-size: 11px; color: rgb(202, 135, 0); font-family: verdana;">Share This:</font> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2fwww.facebook.com%2fshare.php%3fu%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2358135%2c00.asp&mailing_id=1197922&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/facebook.png" alt="Facebook" /></a> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2ftwitter.com%2fhome%3fstatus%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2358135%2c00.asp&mailing_id=1197922&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/twitter.png" alt="Twitter" /></a> 
+                                    <br />
+                                    <hr color="#999999" width="369" size="1" />
+                                    
+                                    <a href="http://mailing.enews.pcmag.com/t/1197922/849243/5947325/4/?e5e2987d=MTE5NzkyMg%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE5NzkyMg%3d%3d&x=101ef084" style="font-size: 16px; color: rgb(0, 100, 160); font-family: Arial,Helvetica,sans-serif;"><strong>The 10 Best External Hard Drives</strong></a>
+                                    <font style="font-size: 11px; font-family: Verdana;"><br />With the need to back up an increasing amount of data, an external hard drive is a must-have. We take the angst out of your search with the 10 best external hard drives on the market today.<br /></font>                                    
+                                    <font style="font-size: 11px; color: rgb(202, 135, 0); font-family: verdana;">Share This:</font> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2fwww.facebook.com%2fshare.php%3fu%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2400958%2c00.asp&mailing_id=1197922&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/facebook.png" alt="Facebook" /></a> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2ftwitter.com%2fhome%3fstatus%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2400958%2c00.asp&mailing_id=1197922&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/twitter.png" alt="Twitter" /></a> 
+                                    <br />
+                                    <hr color="#999999" width="369" size="1" />
+                                    
+                                    <a href="http://mailing.enews.pcmag.com/t/1197922/849243/5947326/4/?e5e2987d=MTE5NzkyMg%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE5NzkyMg%3d%3d&x=7dc51dbd" style="font-size: 16px; color: rgb(0, 100, 160); font-family: Arial,Helvetica,sans-serif;"><strong>Top Picks: USB Flash Drives</strong></a>
+                                    <font style="font-size: 11px; font-family: Verdana;"><br />Need to shuttle files between computers but don't want to tote a full-size hard drive? How about storing gigs and gigs of media on a drive that's the size of your thumb? Here are the best USB flash drives we've tested.<br /></font>                                    
+                                    <font style="font-size: 11px; color: rgb(202, 135, 0); font-family: verdana;">Share This:</font> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2fwww.facebook.com%2fshare.php%3fu%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2405106%2c00.asp&mailing_id=1197922&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/facebook.png" alt="Facebook" /></a> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2ftwitter.com%2fhome%3fstatus%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2405106%2c00.asp&mailing_id=1197922&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/twitter.png" alt="Twitter" /></a> 
+                                    <br />
+                                    <hr color="#999999" width="369" size="1" />
+                                    
+                                    <a href="http://mailing.enews.pcmag.com/t/1197922/849243/5947327/4/?e5e2987d=MTE5NzkyMg%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE5NzkyMg%3d%3d&x=fad15920" style="font-size: 16px; color: rgb(0, 100, 160); font-family: Arial,Helvetica,sans-serif;"><strong>SSD vs HDD: What's the Difference?</strong></a>
+                                    <font style="font-size: 11px; font-family: Verdana;"><br />A hard drive is a hard drive, right? Not exactly. We lay out the differences between SSD and HDD storage to help you figure out which type is the best choice.<br /></font>                                    
+                                    <font style="font-size: 11px; color: rgb(202, 135, 0); font-family: verdana;">Share This:</font> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2fwww.facebook.com%2fshare.php%3fu%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2404258%2c00.asp&mailing_id=1197922&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/facebook.png" alt="Facebook" /></a> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2ftwitter.com%2fhome%3fstatus%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2404258%2c00.asp&mailing_id=1197922&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/twitter.png" alt="Twitter" /></a> 
+                                    <br />
+                                    <hr color="#999999" width="369" size="1" />
+                                    
+                                    <a href="http://mailing.enews.pcmag.com/t/1197922/849243/5947328/4/?e5e2987d=MTE5NzkyMg%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE5NzkyMg%3d%3d&x=e078a7ed" style="font-size: 16px; color: rgb(0, 100, 160); font-family: Arial,Helvetica,sans-serif;"><strong>The Top Mac-Friendly Hard Drives</strong></a>
+                                    <font style="font-size: 11px; font-family: Verdana;"><br />Be smart and back up your Apple laptop or desktop with one of these 10 top-rated Mac-friendly drives.<br /></font>                                    
+                                    <font style="font-size: 11px; color: rgb(202, 135, 0); font-family: verdana;">Share This:</font> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2fwww.facebook.com%2fshare.php%3fu%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2400314%2c00.asp&mailing_id=1197922&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/facebook.png" alt="Facebook" /></a> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2ftwitter.com%2fhome%3fstatus%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2400314%2c00.asp&mailing_id=1197922&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/twitter.png" alt="Twitter" /></a> 
+                                    <br />
+                                    <hr color="#999999" width="369" size="1" />
+                                    
+                                    <a href="http://mailing.enews.pcmag.com/t/1197922/849243/5947329/4/?e5e2987d=MTE5NzkyMg%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE5NzkyMg%3d%3d&x=a992ccb1" style="font-size: 16px; color: rgb(0, 100, 160); font-family: Arial,Helvetica,sans-serif;"><strong>15 Wacky Flash Drives Every Geek Needs</strong></a>
+                                    <font style="font-size: 11px; font-family: Verdana;"><br />Flash drives might be utilitarian but that doesn't mean they have to be boring. Here are 15 models that will definitely get attention.<br /></font>                                    
+                                    <font style="font-size: 11px; color: rgb(202, 135, 0); font-family: verdana;">Share This:</font> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2fwww.facebook.com%2fshare.php%3fu%3dhttp%3a%2f%2fwww.pcmag.com%2fslideshow%2fstory%2f332858%2f15-wacky-flash-drives-every-geek-needs&mailing_id=1197922&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/facebook.png" alt="Facebook" /></a> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2ftwitter.com%2fhome%3fstatus%3dhttp%3a%2f%2fwww.pcmag.com%2fslideshow%2fstory%2f332858%2f15-wacky-flash-drives-every-geek-needs&mailing_id=1197922&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/twitter.png" alt="Twitter" /></a> 
+                                    <br />
+                                    <hr color="#999999" width="369" size="1" />
+                                    
+                                    <!-- Article 1 ends -->
+                                                                        
+                                              
+                                        <div style="width: 368px; overflow: hidden;">                             
+                                            <font size="-1">For more reviews, news, guides, expert advice, and alerts, visit our <a href="https://zdbb.net/r/?http%3a%2f%2fwww.pcmag.com%2fcategory2%2f0%2c2806%2c2376%2c00.asp&mailing_id=1197922&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter ">Storage Product Guide</a>.</font>    
+                                            <br />
+                                        </div>
+                                    
+                                        <!-- B2B Ad Unit -->                                        
+                                            <hr noshade="noshade" color="#d8d8d8" size="1" />
+                                            <!-- -->    
+                                            <br clear="all">                                            
+                                        <!-- End B2B Ad Unit -->
+                                        
+
+                                     <!-- Removed Featured Offer -->
+                                                                        
+                                </td>
+                                <td width="391" valign="top" style="padding-right: 30px; padding-left: 25px;"><br />
+                                    <!-- ADVERTISEMENT -->
+                                    <a href="https://zdbb.net/r/?https%3a%2f%2fwww.zdmcirc.com%2fzdmcirc%2fdefault.asp%3fLK%3dmarFA5%26I%3dibmp&mailing_id=[outmail.messageid]&list=[list.name]&member_id=[memberid]&engine_id=1"><img src="http://www1.pcmag.com/media/images/383911-pcmde-march.jpg" border="0"></a><br>
+                                    <br />
+
+                                    <!-- Start PCmag Review Items --> 
+                                    
+<!-- Start PCmag Review Items --> 
+
+<!-- End PCmag Review Items -->
+                                    <!-- Start PCmag Commerce Items --> 
+                                    
+<!-- Start PCmag Review Items --> 
+
+    <table border="0" width="300" cellpadding="0" cellspacing="0">
+	    <tr>
+            <td valign="top" width="100">
+			    <img src="http://images.ittoolbox.com/ads/pcmag/editorschoice.png" alt="PCMag Editor's Choice" vspace="4">
+		    </td>
+		    <td>
+			    <font face="arial" size="3" color="black" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px;">
+				    <b>AWARD-WINNING TECH</b><br>
+				    now on sale!
+			    </font>
+		    </td>
+	    </tr>
+        <tr>
+            <td colspan="2"><hr size="4px" color="#999999" width="100%" /></td>
+        </tr>
+    </table>
+       
+        <table border="0" width="300" cellpadding="0" cellspacing="0">
+	        <tr>
+		        <td valign="top" width="40">
+			        <a href="http://mailing.enews.pcmag.com/t/1197922/849243/5947330/4/?e5e2987d=MTE5NzkyMg%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE5NzkyMg%3d%3d&x=38737fcf" ><img src="http://images.enews.pcmag.com/enews/0b93d5d3-1b3a-465a-a84e-6a22afccfb42.jpg" width="40" height="40" border="0" ></a>
+		        </td>
+		        <td width="4"></td>
+		        <td valign="top" style="font-family: Arial; color: #999999; font-size: 12px; margin-bottom: 7px;">
+			        <a href="http://mailing.enews.pcmag.com/t/1197922/849243/5947330/4/?e5e2987d=MTE5NzkyMg%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE5NzkyMg%3d%3d&x=38737fcf" style="font-weight:bold; color: #0064A0;"><font face="arial" size="2" color="#006399"><b>Xbox One Assassin's Creed Bundle + $50 GC</b></font></a>
+                    &nbsp;<font color="black"><b>|</b></font>&nbsp;
+			        <font face="arial" size="2" color="#666666" style="font-family: Arial; color: #999999; font-size: 12px; margin-bottom: 7px;">Game Console Bundle</font>
+			        <br>
+			        <font face="arial" size="1" color="#666666" style="font-family: Arial; color: #999999; font-size: 11px; margin-bottom: 7px;">
+				        <s>MSRP: $449</s>&nbsp;|&nbsp;
+                    </font>
+                    <font color="#000000">
+                    <font size="2" style="font-family: Arial; color: #000000; font-size: 12px; margin-bottom: 7px;"><b>$349</b></font>
+				    
+			        </font>
+			        <a href="http://mailing.enews.pcmag.com/t/1197922/849243/5947330/4/?e5e2987d=MTE5NzkyMg%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE5NzkyMg%3d%3d&x=38737fcf"><img src="http://images.ittoolbox.com/ads/pcmag/see_it.png" border="0" style="margin-bottom:-4px"></a>
+
+		        </td>
+	        </tr>
+	        <tr><td colspan="3"><hr size="1" color="lightgray"><td></tr>
+        </table>
+       
+        <table border="0" width="300" cellpadding="0" cellspacing="0">
+	        <tr>
+		        <td valign="top" width="40">
+			        <a href="http://mailing.enews.pcmag.com/t/1197922/849243/5947331/4/?e5e2987d=MTE5NzkyMg%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE5NzkyMg%3d%3d&x=1a3bdde8" ><img src="http://images.enews.pcmag.com/enews/3aaecfa9-577c-41a8-b191-ab422771c2f3.jpg" width="40" height="40" border="0" ></a>
+		        </td>
+		        <td width="4"></td>
+		        <td valign="top" style="font-family: Arial; color: #999999; font-size: 12px; margin-bottom: 7px;">
+			        <a href="http://mailing.enews.pcmag.com/t/1197922/849243/5947331/4/?e5e2987d=MTE5NzkyMg%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE5NzkyMg%3d%3d&x=1a3bdde8" style="font-weight:bold; color: #0064A0;"><font face="arial" size="2" color="#006399"><b>Dell Inspiron 15 7000 i7 Touch Laptop</b></font></a>
+                    &nbsp;<font color="black"><b>|</b></font>&nbsp;
+			        <font face="arial" size="2" color="#666666" style="font-family: Arial; color: #999999; font-size: 12px; margin-bottom: 7px;">Laptop</font>
+			        <br>
+			        <font face="arial" size="1" color="#666666" style="font-family: Arial; color: #999999; font-size: 11px; margin-bottom: 7px;">
+				        <s>MSRP: $1199</s>&nbsp;|&nbsp;
+                    </font>
+                    <font color="#000000">
+                    <font size="2" style="font-family: Arial; color: #000000; font-size: 12px; margin-bottom: 7px;"><b>$799</b></font>
+				    
+			        </font>
+			        <a href="http://mailing.enews.pcmag.com/t/1197922/849243/5947331/4/?e5e2987d=MTE5NzkyMg%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE5NzkyMg%3d%3d&x=1a3bdde8"><img src="http://images.ittoolbox.com/ads/pcmag/see_it.png" border="0" style="margin-bottom:-4px"></a>
+
+		        </td>
+	        </tr>
+	        <tr><td colspan="3"><hr size="1" color="lightgray"><td></tr>
+        </table>
+       
+        <table border="0" width="300" cellpadding="0" cellspacing="0">
+	        <tr>
+		        <td valign="top" width="40">
+			        <a href="http://mailing.enews.pcmag.com/t/1197922/849243/5947332/4/?e5e2987d=MTE5NzkyMg%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE5NzkyMg%3d%3d&x=a1285255" ><img src="http://images.enews.pcmag.com/enews/56531ea6-da10-44bd-9eb5-78e596b1ea6e.jpg" width="40" height="40" border="0" ></a>
+		        </td>
+		        <td width="4"></td>
+		        <td valign="top" style="font-family: Arial; color: #999999; font-size: 12px; margin-bottom: 7px;">
+			        <a href="http://mailing.enews.pcmag.com/t/1197922/849243/5947332/4/?e5e2987d=MTE5NzkyMg%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE5NzkyMg%3d%3d&x=a1285255" style="font-weight:bold; color: #0064A0;"><font face="arial" size="2" color="#006399"><b>AmazonBasics 3-ft Lightning Cable</b></font></a>
+                    &nbsp;<font color="black"><b>|</b></font>&nbsp;
+			        <font face="arial" size="2" color="#666666" style="font-family: Arial; color: #999999; font-size: 12px; margin-bottom: 7px;">Cables</font>
+			        <br>
+			        <font face="arial" size="1" color="#666666" style="font-family: Arial; color: #999999; font-size: 11px; margin-bottom: 7px;">
+				        <s>MSRP: $14</s>&nbsp;|&nbsp;
+                    </font>
+                    <font color="#000000">
+                    <font size="2" style="font-family: Arial; color: #000000; font-size: 12px; margin-bottom: 7px;"><b>$9.99</b></font>
+				    
+			        </font>
+			        <a href="http://mailing.enews.pcmag.com/t/1197922/849243/5947332/4/?e5e2987d=MTE5NzkyMg%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE5NzkyMg%3d%3d&x=a1285255"><img src="http://images.ittoolbox.com/ads/pcmag/see_it.png" border="0" style="margin-bottom:-4px"></a>
+
+		        </td>
+	        </tr>
+	        <tr><td colspan="3"><hr size="1" color="lightgray"><td></tr>
+        </table>
+       
+        <table border="0" width="300" cellpadding="0" cellspacing="0">
+	        <tr>
+		        <td valign="top" width="40">
+			        <a href="http://mailing.enews.pcmag.com/t/1197922/849243/5947333/4/?e5e2987d=MTE5NzkyMg%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE5NzkyMg%3d%3d&x=72cfbc84" ><img src="http://images.enews.pcmag.com/enews/ba76e3bd-5ae8-488c-85a9-c9110868070a.jpg" width="40" height="40" border="0" ></a>
+		        </td>
+		        <td width="4"></td>
+		        <td valign="top" style="font-family: Arial; color: #999999; font-size: 12px; margin-bottom: 7px;">
+			        <a href="http://mailing.enews.pcmag.com/t/1197922/849243/5947333/4/?e5e2987d=MTE5NzkyMg%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE5NzkyMg%3d%3d&x=72cfbc84" style="font-weight:bold; color: #0064A0;"><font face="arial" size="2" color="#006399"><b>Dell XPS 11 1440p Touch Ultrabook</b></font></a>
+                    &nbsp;<font color="black"><b>|</b></font>&nbsp;
+			        <font face="arial" size="2" color="#666666" style="font-family: Arial; color: #999999; font-size: 12px; margin-bottom: 7px;">Ultrabook</font>
+			        <br>
+			        <font face="arial" size="1" color="#666666" style="font-family: Arial; color: #999999; font-size: 11px; margin-bottom: 7px;">
+				        <s>MSRP: $1199</s>&nbsp;|&nbsp;
+                    </font>
+                    <font color="#000000">
+                    <font size="2" style="font-family: Arial; color: #000000; font-size: 12px; margin-bottom: 7px;"><b>$599</b></font>
+				    
+			        </font>
+			        <a href="http://mailing.enews.pcmag.com/t/1197922/849243/5947333/4/?e5e2987d=MTE5NzkyMg%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE5NzkyMg%3d%3d&x=72cfbc84"><img src="http://images.ittoolbox.com/ads/pcmag/see_it.png" border="0" style="margin-bottom:-4px"></a>
+
+		        </td>
+	        </tr>
+	        <tr><td colspan="3"><hr size="1" color="lightgray"><td></tr>
+        </table>
+       
+        <table border="0" width="300" cellpadding="0" cellspacing="0">
+	        <tr>
+		        <td valign="top" width="40">
+			        <a href="http://mailing.enews.pcmag.com/t/1197922/849243/5947334/4/?e5e2987d=MTE5NzkyMg%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE5NzkyMg%3d%3d&x=7e909b7d" ><img src="http://images.enews.pcmag.com/enews/56380a6c-4c99-4d31-a2a6-403d1b00bcbf.jpg" width="40" height="40" border="0" ></a>
+		        </td>
+		        <td width="4"></td>
+		        <td valign="top" style="font-family: Arial; color: #999999; font-size: 12px; margin-bottom: 7px;">
+			        <a href="http://mailing.enews.pcmag.com/t/1197922/849243/5947334/4/?e5e2987d=MTE5NzkyMg%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE5NzkyMg%3d%3d&x=7e909b7d" style="font-weight:bold; color: #0064A0;"><font face="arial" size="2" color="#006399"><b>LG 47LB5900 47" LED HDTV</b></font></a>
+                    &nbsp;<font color="black"><b>|</b></font>&nbsp;
+			        <font face="arial" size="2" color="#666666" style="font-family: Arial; color: #999999; font-size: 12px; margin-bottom: 7px;">HDTV</font>
+			        <br>
+			        <font face="arial" size="1" color="#666666" style="font-family: Arial; color: #999999; font-size: 11px; margin-bottom: 7px;">
+				        <s>MSRP: $599</s>&nbsp;|&nbsp;
+                    </font>
+                    <font color="#000000">
+                    <font size="2" style="font-family: Arial; color: #000000; font-size: 12px; margin-bottom: 7px;"><b>$449</b></font>
+				    
+			        </font>
+			        <a href="http://mailing.enews.pcmag.com/t/1197922/849243/5947334/4/?e5e2987d=MTE5NzkyMg%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE5NzkyMg%3d%3d&x=7e909b7d"><img src="http://images.ittoolbox.com/ads/pcmag/see_it.png" border="0" style="margin-bottom:-4px"></a>
+
+		        </td>
+	        </tr>
+	        <tr><td colspan="3"><hr size="1" color="lightgray"><td></tr>
+        </table>
+
+
+<!-- End PCmag Review Items -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" style="padding-right: 14px; padding-left: 25px; font-size: 12px; font-family: Verdana;"><hr color="#cccccc" width="760" />
+                                    <p><strong>eNewsletter Information</strong><br />
+                                    <img height="5" border="0" width="1" src="http://enewsletters.ziffdavisinternet.com/ewk/spacer.gif" alt="" />You are subscribed to PCMag.com's Buying Guide with the email address 1@oscar-oe.gr. <br />
+                                    Click <a href="http://mailing.enews.pcmag.com/t/1197922/849243/5715850/4/?3e076d18=MUBvc2Nhci1vZS5ncg%3d%3d&e5e2987d=MTE5NzkyMg%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE5NzkyMg%3d%3d&x=4165d5ff" target="_new"><strong>here</strong></a> to unsubscribe from this newsletter. <br />
+                                    <br />
+                                    To subscribe to other e-mail newsletters from Ziff Davis, change your delivery format from HTML to text, or change your email address, click <a href="http://mailing.enews.pcmag.com/t/1197922/849243/5715851/4/?e5e2987d=MTE5NzkyMg%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE5NzkyMg%3d%3d&x=ad68403e" target="_new"><strong>here</strong></a>.</p>
+                                    <hr noshade="noshade" color="#d8d8d8" size="1" />
+                                    <br />
+                                    Copyright &copy;2015 <a href="https://zdbb.net/r/?http%3a%2f%2fwww.ziffdavis.com&mailing_id=1197922&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter">Ziff Davis, LLC.</a>&nbsp; All Rights Reserved.<br />
+                                    Ziff Davis, LLC., 28 East 28th Street, 11th Floor, New York, NY 10016
+                                </td>
+                            </tr>
+                        </tbody>
+                        </table>
+                    </td>
+                </tr>
+            </tbody>
+            </table>
+        </td>
+    </tr>
+</tbody>
+</table>
+<blockquote><img height="1" border="0" width="1" src="http://link.p0.com/1x1.dyn" alt="" /></blockquote>
+<img src='https://zdbb.net/l/vUl_mG-rEeK8mRIxOxAUTQ?member_id=849243&list=buyingguide&mailing_id=1197922&mailing=BuyingGuide&engine_id=1' />
+<IMG ALT="" SRC="http://mailing.enews.pcmag.com/do/1197922/849243/1.gif" WIDTH=1 HEIGHT=1><BR>
+<img src="https://bounceexchange.com/tag/em/1166.gif" width="1" height="1" border="0" />
+</BODY>
+</html>
+
+
+
+--buyingguide-mime-boundary-20151903053000--
+

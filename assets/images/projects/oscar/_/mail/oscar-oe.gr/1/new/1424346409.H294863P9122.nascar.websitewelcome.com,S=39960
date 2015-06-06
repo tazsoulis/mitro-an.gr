@@ -1,0 +1,504 @@
+Return-path: <bounce-1172253-849243@enews.pcmag.com>
+Envelope-to: 1@oscar-oe.gr
+Delivery-date: Thu, 19 Feb 2015 05:46:49 -0600
+Received: from hdmail05.toolbox.com ([208.99.185.68]:13253)
+	by nascar.websitewelcome.com with esmtp (Exim 4.82)
+	(envelope-from <bounce-1172253-849243@enews.pcmag.com>)
+	id 1YOPZB-0002Mv-2Y
+	for 1@oscar-oe.gr; Thu, 19 Feb 2015 05:46:49 -0600
+Received: from enews.pcmag.com (unknown [10.1.1.45])
+	by hdmail05.toolbox.com (Postfix) with SMTP id 97772A0011
+	for <1@oscar-oe.gr>; Thu, 19 Feb 2015 04:46:47 -0700 (MST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; q=dns/txt; l=31282;
+ d=enews.pcmag.com;s=lyrisv2;
+ h=from : message-id;
+ bh=E3/RX1RV3roiNxvbbaAPk9iPRuvafZdkHqjEy6dmu44=;
+ b=dXk9/IQro6i61NzPm4Hbrvqua8VwBS9nRaWnj6MKCi/bThUBdL4QSZQRcj6O76wM+NnRf7IE
+ 31z8Fiq5NaA2G0ZRIbunpTEzm79P0tXKTIaZLOkVzPflW/zeuZxLSbW/RLJt1CGMI0Q1p4tz
+ 3GsBB5Fjo/kEZbeSTapCXztbp9A=;
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=lyrisv2; d=enews.pcmag.com;
+ h=from:message-id;
+ b=dL0FGwedS02paHzqSOEm3uLCKQ1U5yPAKLbOWVIKJCf+J6W/PUFqD5qNR0OyfDd3nA5QA+yR YXeLOdxYlyPcOy2qn4jP7u0mF3DKfxNRGh2q3/+XYLTgM0Y5ncABid+gx7sUVkGaXVL3cDbC
+ 3NbC6nAX3QyepCBC3QTXTf36vXQ=
+From: "PCMag Buying Guide" <BuyingGuide@enews.pcmag.com>
+To: 1@oscar-oe.gr
+Subject: Your Tablet Superguide
+Date: Thu, 19 Feb 2015 04:40:00 -0700
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="buyingguide-mime-boundary-20151902044000"
+Reply-To: BuyingGuide@enews.pcmag.com
+Message-ID: <LYRIS-849243-1172253-2015.02.19-04.46.37--1#oscar-oe.gr@enews.pcmag.com>
+x-lyrmembers: 849243
+List-Unsubscribe: <mailto:leave-1172253-849243.71f967f5513566f309da415e09bbad6f@enews.pcmag.com>, <http://mailing.enews.pcmag.com/u?id=849243.71f967f5513566f309da415e09bbad6f&n=T&l=buyingguide&o=1172253>
+Feedback-ID: 849243:1172253:buyingguide:ZiffDavisESP_AZ
+
+This is a multi-part message in MIME format.
+
+--buyingguide-mime-boundary-20151902044000
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+
+============================================================
+--------           PC Mag Buying Guide              --------
+--------           for February 19, 2015             --------
+============================================================
+Android, Apple, or Windows: How to Choose the Right Tablet; Top-Notch Tablets; Stellar Android Slates; 
+============================================================
+************************************************************
+
+Sponsored by PC Magazine
+
+
+
+http://mailing.enews.pcmag.com/t/1172253/849243/5934052/4/?e5e2987d=MTE3MjI1Mw%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=e60297fe
+
+************************************************************
+============================================================
+
+IN THIS ISSUE:
+
+* Android, Apple, or Windows: How to Choose the Right Tablet
+
+* Top-Notch Tablets
+
+* Stellar Android Slates
+
+* Must-Have iPad Apps
+
+* Windows Tablets Have the Most Variety
+
+* The 100 Best iPad Apps of 2015
+
+* Nvidia Shield Tablet Reviewed
+
+
+============================================================
+
+Android, Apple, or Windows: How to Choose the Right Tablet
+
+Whether you opt for an Apple iPad, or one of many Androids or Windows slates, finding the right tablet isn't always a snap. Here's what you need to know before you hit the store.
+
+http://mailing.enews.pcmag.com/t/1172253/849243/5720560/4/?e5e2987d=MTE3MjI1Mw%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=797f6d69
+
+============================================================
+
+Top-Notch Tablets
+
+Looking for something to bridge the gap between laptop and smartphone? With Android, Apple, and Windows options, these ten top-rated tablets fit the bill.
+
+http://mailing.enews.pcmag.com/t/1172253/849243/5721267/4/?e5e2987d=MTE3MjI1Mw%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=d3d5591b
+
+============================================================
+
+Stellar Android Slates
+
+No love for the iPad or Windows tablets? Take a look at the top Android slates we've tested.
+
+http://mailing.enews.pcmag.com/t/1172253/849243/5942608/4/?e5e2987d=MTE3MjI1Mw%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=3eb235ac
+
+============================================================
+
+Must-Have iPad Apps
+
+The iPad and iPad mini are great pieces of hardware, but they're nothing without the apps. These 10 are the perfect starting point.
+
+http://mailing.enews.pcmag.com/t/1172253/849243/5941082/4/?e5e2987d=MTE3MjI1Mw%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=5c271004
+
+============================================================
+
+Windows Tablets Have the Most Variety
+
+The tablet is finally a viable PC with the latest Intel hardware and Windows support. If you want a slate or a convertible built for more than mere entertainment, take a look at our top-rated Windows 8 tablets.
+
+http://mailing.enews.pcmag.com/t/1172253/849243/5723184/4/?e5e2987d=MTE3MjI1Mw%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=03464606
+
+============================================================
+
+The 100 Best iPad Apps of 2015
+
+Fill your iPad or iPad mini with the best software available in the Apple App Store.
+
+http://mailing.enews.pcmag.com/t/1172253/849243/5942609/4/?e5e2987d=MTE3MjI1Mw%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=742bca84
+
+============================================================
+
+Nvidia Shield Tablet Reviewed
+
+Nvidia's gaming-oriented Shield Tablet is one of the first mobile devices to use the Tegra K1 CPU, and in sheer power it blows other tablets out of the water.
+
+http://mailing.enews.pcmag.com/t/1172253/849243/5721282/4/?e5e2987d=MTE3MjI1Mw%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=5662b306
+
+
+============================================================
+
+For more reviews, news, guides, expert advice, and alerts,
+visit our Product Guide.
+
+============================================================
+eNewsletter Information
+============================================================
+You are subscribed to PCMag Buyer's Guide with
+the e-mail: 1@oscar-oe.gr
+
+To unsubscribe to this newsletter, click below:
+http://mailing.enews.pcmag.com/t/1172253/849243/5715829/4/?3e076d18=MUBvc2Nhci1vZS5ncg%3d%3d&e5e2987d=MTE3MjI1Mw%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3MjI1Mw%3d%3d&x=6dc61288
+
+To change your e-mail address, change your text/HTML
+preferences, or to subscribe to other FREE PC Magazine Online
+e-mail newsletters, visit:
+http://mailing.enews.pcmag.com/t/1172253/849243/5715043/4/?e5e2987d=MTE3MjI1Mw%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3MjI1Mw%3d%3d&x=f1a14a89
+
+============================================================ 
+
+Copyright (C)2015 Ziff Davis, LLC. All Rights Reserved.
+Ziff Davis, LLC., 28 East 28th Street, 11th Floor,
+New York, NY 10016
+
+--buyingguide-mime-boundary-20151902044000
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Buying Guide</title>
+</head>
+<body spellcheck="false">
+<table cellspacing="0" cellpadding="2" border="0" align="left" width="760">
+<tbody>
+    <tr>
+        <td>
+            <table cellspacing="0" cellpadding="0" border="0" bgcolor="#000000" width="760">
+            <tbody>
+                <tr>
+                    <td bgcolor="#ffffff" colspan="2"></td>
+                </tr>
+                <tr>
+                    <td bgcolor="#ffffff" width="145">
+                        <a href="https://zdbb.net/r/?http%3a%2f%2fwww.pcmag.com%2f&mailing_id=1172253&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter">
+                            <img height="92" width="143" src="http://static.ziffdavis.com/images/logo.gif" alt="PC Magazine" border=0 />
+                        </a>
+                    </td>
+                    <td bgcolor="#ffffff" width="654"><br />
+                        <table cellspacing="0" cellpadding="0" border="0" width="654">
+                        <tbody>
+                            <tr>
+                                <td colspan="2"></td>
+                            </tr>
+                            <tr>
+                                <td height="39" bgcolor="#000000" width="11" style="font-size: 30px; color: rgb(255, 255, 255);">&nbsp;</td>
+                                <td bgcolor="#000000" width="609" style="font-size: 30px; color: rgb(255, 255, 255); font-family: Arial,Helvetica,sans-serif;"><strong>Buying Guide </strong><font color="#cccccc" size="+1">February 19, 2015</font></td>
+                            </tr>
+                            <tr>
+                                <td>&nbsp;</td>
+                                <td style="font-size: 12px; color: rgb(102, 102, 102); font-family: Arial,Helvetica,sans-serif;">
+                                    <table cellspacing="2" cellpadding="0" border="0">
+                                    <tbody>
+                                        <tr>
+                                            <td>
+                                                <a href="http://mailing.enews.pcmag.com/t/1172253/849243/6/4/?6299e5a7=aHR0cDovL21haWxpbmcuZW5ld3MucGNtYWcuY29tL3JlYWQvYXJjaGl2ZT9pZD0zNjcyNCZtaWQ9ODQ5MjQzJmU9MSU0MG9zY2FyJTJkb2UlMmVnciZ4PWZhZmJjMWQx&x=7fe9ce53" style="font-size: 12px; color: rgb(102, 102, 102); font-family: Arial,Helvetica,sans-serif;">View Online</a> | 
+                                                <a href="http://mailing.enews.pcmag.com/t/1172253/849243/5715830/4/?e5e2987d=MTE3MjI1Mw%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3MjI1Mw%3d%3d&x=3db81250" style="font-size: 12px; color: rgb(102, 102, 102); font-family: Arial,Helvetica,sans-serif;">Manage Subscription</a> | 
+                                                <font style="font-size: 12px; color: rgb(102, 102, 102); font-family: Arial,Helvetica,sans-serif;">Follow Us</font> 
+                                                <a href="http://mailing.enews.pcmag.com/t/1172253/849243/5722690/4/?e5e2987d=MTE3MjI1Mw%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3MjI1Mw%3d%3d&x=bb642744"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/facebook.png" alt="Follow us on Facebook" /></a>&nbsp;
+                                                <a href="http://mailing.enews.pcmag.com/t/1172253/849243/5715832/4/?e5e2987d=MTE3MjI1Mw%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3MjI1Mw%3d%3d&x=c7ce6ff1"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/twitter.png" alt="Follow us on Twitter" /></a>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td bgcolor="#ffffff" colspan="2"><hr color="#cccccc" width="760" />
+                        <table cellspacing="0" cellpadding="0" border="0">
+                        <tbody>
+                            <tr>
+                                <td width="369" valign="top" style="padding-right: 14px; padding-left: 25px; font-size: 20px; font-family: Arial,Helvetica,sans-serif;">
+                                              
+                                        <div style="width: 368px; overflow: hidden;">                             
+                                            <font size="-1">Welcome to the PCMag Buying Guide newsletter. This week: Everything you need to know about tablets.</font>    
+                                            <br />
+                                        </div>
+                                    
+                                    
+                                    
+                                    <!-- Articles -->
+                                    
+                                    <strong><br />TOP</strong> STORIES 
+                                    <hr color="#999999" width="369" size="4" />
+                                    
+                                    <a href="http://mailing.enews.pcmag.com/t/1172253/849243/5942622/4/?e5e2987d=MTE3MjI1Mw%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3MjI1Mw%3d%3d&x=2a6823c0" style="font-size: 16px; color: rgb(0, 100, 160); font-family: Arial,Helvetica,sans-serif;"><strong>Android, Apple, or Windows: How to Choose the Right Tablet</strong></a>
+                                    <font style="font-size: 11px; font-family: Verdana;"><br />Whether you opt for an Apple iPad, or one of many Androids or Windows slates, finding the right tablet isn't always a snap. Here's what you need to know before you hit the store.<br /></font>                                    
+                                    <font style="font-size: 11px; color: rgb(202, 135, 0); font-family: verdana;">Share This:</font> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2fwww.facebook.com%2fshare.php%3fu%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2382821%2c00.asp&mailing_id=1172253&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/facebook.png" alt="Facebook" /></a> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2ftwitter.com%2fhome%3fstatus%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2382821%2c00.asp&mailing_id=1172253&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/twitter.png" alt="Twitter" /></a> 
+                                    <br />
+                                    <hr color="#999999" width="369" size="1" />
+                                    
+                                    <a href="http://mailing.enews.pcmag.com/t/1172253/849243/5942623/4/?e5e2987d=MTE3MjI1Mw%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3MjI1Mw%3d%3d&x=4a8925ad" style="font-size: 16px; color: rgb(0, 100, 160); font-family: Arial,Helvetica,sans-serif;"><strong>Top-Notch Tablets</strong></a>
+                                    <font style="font-size: 11px; font-family: Verdana;"><br />Looking for something to bridge the gap between laptop and smartphone? With Android, Apple, and Windows options, these ten top-rated tablets fit the bill.<br /></font>                                    
+                                    <font style="font-size: 11px; color: rgb(202, 135, 0); font-family: verdana;">Share This:</font> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2fwww.facebook.com%2fshare.php%3fu%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2413145%2c00.asp&mailing_id=1172253&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/facebook.png" alt="Facebook" /></a> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2ftwitter.com%2fhome%3fstatus%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2413145%2c00.asp&mailing_id=1172253&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/twitter.png" alt="Twitter" /></a> 
+                                    <br />
+                                    <hr color="#999999" width="369" size="1" />
+                                    
+                                    <a href="http://mailing.enews.pcmag.com/t/1172253/849243/5942624/4/?e5e2987d=MTE3MjI1Mw%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3MjI1Mw%3d%3d&x=cb424952" style="font-size: 16px; color: rgb(0, 100, 160); font-family: Arial,Helvetica,sans-serif;"><strong>Stellar Android Slates</strong></a>
+                                    <font style="font-size: 11px; font-family: Verdana;"><br />No love for the iPad or Windows tablets? Take a look at the top Android slates we've tested.<br /></font>                                    
+                                    <font style="font-size: 11px; color: rgb(202, 135, 0); font-family: verdana;">Share This:</font> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2fwww.facebook.com%2fshare.php%3fu%3dhttp%3a%2f%2fwww.pcmag.com%2fslideshow%2fstory%2f266915%2fthe-best-android-tablets&mailing_id=1172253&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/facebook.png" alt="Facebook" /></a> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2ftwitter.com%2fhome%3fstatus%3dhttp%3a%2f%2fwww.pcmag.com%2fslideshow%2fstory%2f266915%2fthe-best-android-tablets&mailing_id=1172253&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/twitter.png" alt="Twitter" /></a> 
+                                    <br />
+                                    <hr color="#999999" width="369" size="1" />
+                                    
+                                    <a href="http://mailing.enews.pcmag.com/t/1172253/849243/5942625/4/?e5e2987d=MTE3MjI1Mw%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3MjI1Mw%3d%3d&x=b42ae7ca" style="font-size: 16px; color: rgb(0, 100, 160); font-family: Arial,Helvetica,sans-serif;"><strong>Must-Have iPad Apps</strong></a>
+                                    <font style="font-size: 11px; font-family: Verdana;"><br />The iPad and iPad mini are great pieces of hardware, but they're nothing without the apps. These 10 are the perfect starting point.<br /></font>                                    
+                                    <font style="font-size: 11px; color: rgb(202, 135, 0); font-family: verdana;">Share This:</font> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2fwww.facebook.com%2fshare.php%3fu%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2372157%2c00.asp&mailing_id=1172253&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/facebook.png" alt="Facebook" /></a> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2ftwitter.com%2fhome%3fstatus%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2372157%2c00.asp&mailing_id=1172253&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/twitter.png" alt="Twitter" /></a> 
+                                    <br />
+                                    <hr color="#999999" width="369" size="1" />
+                                    
+                                    <a href="http://mailing.enews.pcmag.com/t/1172253/849243/5942626/4/?e5e2987d=MTE3MjI1Mw%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3MjI1Mw%3d%3d&x=76ae05c7" style="font-size: 16px; color: rgb(0, 100, 160); font-family: Arial,Helvetica,sans-serif;"><strong>Windows Tablets Have the Most Variety</strong></a>
+                                    <font style="font-size: 11px; font-family: Verdana;"><br />The tablet is finally a viable PC with the latest Intel hardware and Windows support. If you want a slate or a convertible built for more than mere entertainment, take a look at our top-rated Windows 8 tablets.<br /></font>                                    
+                                    <font style="font-size: 11px; color: rgb(202, 135, 0); font-family: verdana;">Share This:</font> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2fwww.facebook.com%2fshare.php%3fu%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2417564%2c00.asp&mailing_id=1172253&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/facebook.png" alt="Facebook" /></a> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2ftwitter.com%2fhome%3fstatus%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2417564%2c00.asp&mailing_id=1172253&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/twitter.png" alt="Twitter" /></a> 
+                                    <br />
+                                    <hr color="#999999" width="369" size="1" />
+                                    
+                                    <a href="http://mailing.enews.pcmag.com/t/1172253/849243/5942627/4/?e5e2987d=MTE3MjI1Mw%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3MjI1Mw%3d%3d&x=3f2dfb77" style="font-size: 16px; color: rgb(0, 100, 160); font-family: Arial,Helvetica,sans-serif;"><strong>The 100 Best iPad Apps of 2015</strong></a>
+                                    <font style="font-size: 11px; font-family: Verdana;"><br />Fill your iPad or iPad mini with the best software available in the Apple App Store.<br /></font>                                    
+                                    <font style="font-size: 11px; color: rgb(202, 135, 0); font-family: verdana;">Share This:</font> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2fwww.facebook.com%2fshare.php%3fu%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2362572%2c00.aspzq&mailing_id=1172253&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/facebook.png" alt="Facebook" /></a> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2ftwitter.com%2fhome%3fstatus%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2362572%2c00.aspzq&mailing_id=1172253&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/twitter.png" alt="Twitter" /></a> 
+                                    <br />
+                                    <hr color="#999999" width="369" size="1" />
+                                    
+                                    <a href="http://mailing.enews.pcmag.com/t/1172253/849243/5942628/4/?e5e2987d=MTE3MjI1Mw%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3MjI1Mw%3d%3d&x=3ac62c7e" style="font-size: 16px; color: rgb(0, 100, 160); font-family: Arial,Helvetica,sans-serif;"><strong>Nvidia Shield Tablet Reviewed</strong></a>
+                                    <font style="font-size: 11px; font-family: Verdana;"><br />Nvidia's gaming-oriented Shield Tablet is one of the first mobile devices to use the Tegra K1 CPU, and in sheer power it blows other tablets out of the water.<br /></font>                                    
+                                    <font style="font-size: 11px; color: rgb(202, 135, 0); font-family: verdana;">Share This:</font> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2fwww.facebook.com%2fshare.php%3fu%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2468646%2c00.asp&mailing_id=1172253&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/facebook.png" alt="Facebook" /></a> 
+                                    <a href="https://zdbb.net/r/?http%3a%2f%2ftwitter.com%2fhome%3fstatus%3dhttp%3a%2f%2fwww.pcmag.com%2farticle2%2f0%2c2817%2c2468646%2c00.asp&mailing_id=1172253&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img height="13" border="0" width="14" src="http://static.ziffdavis.com/images/twitter.png" alt="Twitter" /></a> 
+                                    <br />
+                                    <hr color="#999999" width="369" size="1" />
+                                    
+                                    <!-- Article 1 ends -->
+                                                                        
+                                              
+                                        <div style="width: 368px; overflow: hidden;">                             
+                                            <font size="-1">For more reviews, news, guides, expert advice, and alerts, visit our <a href="https://zdbb.net/r/?http%3a%2f%2fwww.pcmag.com%2fcategory2%2f0%2c2806%2c2358246%2c00.asp&mailing_id=1172253&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter">Tablet Product Guide</a>.</font>    
+                                            <br />
+                                        </div>
+                                    
+                                        <!-- B2B Ad Unit -->                                        
+                                            <hr noshade="noshade" color="#d8d8d8" size="1" />
+                                            <!-- -->    
+                                            <br clear="all">                                            
+                                        <!-- End B2B Ad Unit -->
+                                        
+
+                                     <!-- Removed Featured Offer -->
+                                                                        
+                                </td>
+                                <td width="391" valign="top" style="padding-right: 30px; padding-left: 25px;"><br />
+                                    <!-- ADVERTISEMENT -->
+                                    <a href="https://zdbb.net/r/?https%3a%2f%2fwww.zdmcirc.com%2fzdmcirc%2fdefault.asp%3fLK%3dfebDA5%26I%3dibmp&mailing_id=1172253&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter"><img src="http://www2.pcmag.com/media/images/381795-pcmde-feb.jpg" border="0"></a><br>
+                                    <br />
+
+                                    <!-- Start PCmag Review Items --> 
+                                    
+<!-- Start PCmag Review Items --> 
+
+<!-- End PCmag Review Items -->
+                                    <!-- Start PCmag Commerce Items --> 
+                                    
+<!-- Start PCmag Review Items --> 
+
+    <table border="0" width="300" cellpadding="0" cellspacing="0">
+	    <tr>
+            <td valign="top" width="100">
+			    <img src="http://images.ittoolbox.com/ads/pcmag/editorschoice.png" alt="PCMag Editor's Choice" vspace="4">
+		    </td>
+		    <td>
+			    <font face="arial" size="3" color="black" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px;">
+				    <b>AWARD-WINNING TECH</b><br>
+				    now on sale!
+			    </font>
+		    </td>
+	    </tr>
+        <tr>
+            <td colspan="2"><hr size="4px" color="#999999" width="100%" /></td>
+        </tr>
+    </table>
+       
+        <table border="0" width="300" cellpadding="0" cellspacing="0">
+	        <tr>
+		        <td valign="top" width="40">
+			        <a href="http://mailing.enews.pcmag.com/t/1172253/849243/5942629/4/?e5e2987d=MTE3MjI1Mw%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3MjI1Mw%3d%3d&x=545e3538" ><img src="http://images.enews.pcmag.com/enews/58480582-8de2-4841-b912-45ab046bf332.jpg" width="40" height="40" border="0" ></a>
+		        </td>
+		        <td width="4"></td>
+		        <td valign="top" style="font-family: Arial; color: #999999; font-size: 12px; margin-bottom: 7px;">
+			        <a href="http://mailing.enews.pcmag.com/t/1172253/849243/5942629/4/?e5e2987d=MTE3MjI1Mw%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3MjI1Mw%3d%3d&x=545e3538" style="font-weight:bold; color: #0064A0;"><font face="arial" size="2" color="#006399"><b>Canary All-in One Home Security Pre-order</b></font></a>
+                    &nbsp;<font color="black"><b>|</b></font>&nbsp;
+			        <font face="arial" size="2" color="#666666" style="font-family: Arial; color: #999999; font-size: 12px; margin-bottom: 7px;">Security Device</font>
+			        <br>
+			        <font face="arial" size="1" color="#666666" style="font-family: Arial; color: #999999; font-size: 11px; margin-bottom: 7px;">
+				        <s>MSRP: $249.99</s>&nbsp;|&nbsp;
+                    </font>
+                    <font color="#000000">
+                    <font size="2" style="font-family: Arial; color: #000000; font-size: 12px; margin-bottom: 7px;"><b>$249.99</b></font>
+				    
+			        </font>
+			        <a href="http://mailing.enews.pcmag.com/t/1172253/849243/5942629/4/?e5e2987d=MTE3MjI1Mw%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3MjI1Mw%3d%3d&x=545e3538"><img src="http://images.ittoolbox.com/ads/pcmag/see_it.png" border="0" style="margin-bottom:-4px"></a>
+
+		        </td>
+	        </tr>
+	        <tr><td colspan="3"><hr size="1" color="lightgray"><td></tr>
+        </table>
+       
+        <table border="0" width="300" cellpadding="0" cellspacing="0">
+	        <tr>
+		        <td valign="top" width="40">
+			        <a href="http://mailing.enews.pcmag.com/t/1172253/849243/5942630/4/?e5e2987d=MTE3MjI1Mw%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3MjI1Mw%3d%3d&x=4cc0a8aa" ><img src="http://images.enews.pcmag.com/enews/c1ca5aa0-f24a-4591-86a6-e139bce8dd40.jpg" width="40" height="40" border="0" ></a>
+		        </td>
+		        <td width="4"></td>
+		        <td valign="top" style="font-family: Arial; color: #999999; font-size: 12px; margin-bottom: 7px;">
+			        <a href="http://mailing.enews.pcmag.com/t/1172253/849243/5942630/4/?e5e2987d=MTE3MjI1Mw%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3MjI1Mw%3d%3d&x=4cc0a8aa" style="font-weight:bold; color: #0064A0;"><font face="arial" size="2" color="#006399"><b>Dell Inspiron 15 7000 i7 1080p Touch Laptop</b></font></a>
+                    &nbsp;<font color="black"><b>|</b></font>&nbsp;
+			        <font face="arial" size="2" color="#666666" style="font-family: Arial; color: #999999; font-size: 12px; margin-bottom: 7px;">Laptop</font>
+			        <br>
+			        <font face="arial" size="1" color="#666666" style="font-family: Arial; color: #999999; font-size: 11px; margin-bottom: 7px;">
+				        <s>MSRP: $1199</s>&nbsp;|&nbsp;
+                    </font>
+                    <font color="#000000">
+                    <font size="2" style="font-family: Arial; color: #000000; font-size: 12px; margin-bottom: 7px;"><b>$799</b></font>
+				    
+			        </font>
+			        <a href="http://mailing.enews.pcmag.com/t/1172253/849243/5942630/4/?e5e2987d=MTE3MjI1Mw%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3MjI1Mw%3d%3d&x=4cc0a8aa"><img src="http://images.ittoolbox.com/ads/pcmag/see_it.png" border="0" style="margin-bottom:-4px"></a>
+
+		        </td>
+	        </tr>
+	        <tr><td colspan="3"><hr size="1" color="lightgray"><td></tr>
+        </table>
+       
+        <table border="0" width="300" cellpadding="0" cellspacing="0">
+	        <tr>
+		        <td valign="top" width="40">
+			        <a href="http://mailing.enews.pcmag.com/t/1172253/849243/5942631/4/?e5e2987d=MTE3MjI1Mw%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3MjI1Mw%3d%3d&x=af3ad8e5" ><img src="http://images.enews.pcmag.com/enews/f44e3be3-5a91-4a51-9334-512beb96e1f8.jpg" width="40" height="40" border="0" ></a>
+		        </td>
+		        <td width="4"></td>
+		        <td valign="top" style="font-family: Arial; color: #999999; font-size: 12px; margin-bottom: 7px;">
+			        <a href="http://mailing.enews.pcmag.com/t/1172253/849243/5942631/4/?e5e2987d=MTE3MjI1Mw%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3MjI1Mw%3d%3d&x=af3ad8e5" style="font-weight:bold; color: #0064A0;"><font face="arial" size="2" color="#006399"><b>Amazon Fire TV</b></font></a>
+                    &nbsp;<font color="black"><b>|</b></font>&nbsp;
+			        <font face="arial" size="2" color="#666666" style="font-family: Arial; color: #999999; font-size: 12px; margin-bottom: 7px;">Media Hub</font>
+			        <br>
+			        <font face="arial" size="1" color="#666666" style="font-family: Arial; color: #999999; font-size: 11px; margin-bottom: 7px;">
+				        <s>MSRP: $99</s>&nbsp;|&nbsp;
+                    </font>
+                    <font color="#000000">
+                    <font size="2" style="font-family: Arial; color: #000000; font-size: 12px; margin-bottom: 7px;"><b>$84</b></font>
+				    
+			        </font>
+			        <a href="http://mailing.enews.pcmag.com/t/1172253/849243/5942631/4/?e5e2987d=MTE3MjI1Mw%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3MjI1Mw%3d%3d&x=af3ad8e5"><img src="http://images.ittoolbox.com/ads/pcmag/see_it.png" border="0" style="margin-bottom:-4px"></a>
+
+		        </td>
+	        </tr>
+	        <tr><td colspan="3"><hr size="1" color="lightgray"><td></tr>
+        </table>
+       
+        <table border="0" width="300" cellpadding="0" cellspacing="0">
+	        <tr>
+		        <td valign="top" width="40">
+			        <a href="http://mailing.enews.pcmag.com/t/1172253/849243/5942632/4/?e5e2987d=MTE3MjI1Mw%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3MjI1Mw%3d%3d&x=00b6f626" ><img src="http://images.enews.pcmag.com/enews/a04dbed7-a649-44dc-8db3-a66b233039fe.jpg" width="40" height="40" border="0" ></a>
+		        </td>
+		        <td width="4"></td>
+		        <td valign="top" style="font-family: Arial; color: #999999; font-size: 12px; margin-bottom: 7px;">
+			        <a href="http://mailing.enews.pcmag.com/t/1172253/849243/5942632/4/?e5e2987d=MTE3MjI1Mw%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3MjI1Mw%3d%3d&x=00b6f626" style="font-weight:bold; color: #0064A0;"><font face="arial" size="2" color="#006399"><b>Dell XPS 11 1440p Touch Ultrabook</b></font></a>
+                    &nbsp;<font color="black"><b>|</b></font>&nbsp;
+			        <font face="arial" size="2" color="#666666" style="font-family: Arial; color: #999999; font-size: 12px; margin-bottom: 7px;">Ultrabook</font>
+			        <br>
+			        <font face="arial" size="1" color="#666666" style="font-family: Arial; color: #999999; font-size: 11px; margin-bottom: 7px;">
+				        <s>MSRP: $1199</s>&nbsp;|&nbsp;
+                    </font>
+                    <font color="#000000">
+                    <font size="2" style="font-family: Arial; color: #000000; font-size: 12px; margin-bottom: 7px;"><b>$599</b></font>
+				    
+			        </font>
+			        <a href="http://mailing.enews.pcmag.com/t/1172253/849243/5942632/4/?e5e2987d=MTE3MjI1Mw%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3MjI1Mw%3d%3d&x=00b6f626"><img src="http://images.ittoolbox.com/ads/pcmag/see_it.png" border="0" style="margin-bottom:-4px"></a>
+
+		        </td>
+	        </tr>
+	        <tr><td colspan="3"><hr size="1" color="lightgray"><td></tr>
+        </table>
+       
+        <table border="0" width="300" cellpadding="0" cellspacing="0">
+	        <tr>
+		        <td valign="top" width="40">
+			        <a href="http://mailing.enews.pcmag.com/t/1172253/849243/5942633/4/?e5e2987d=MTE3MjI1Mw%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3MjI1Mw%3d%3d&x=81786b84" ><img src="http://images.enews.pcmag.com/enews/3d7daf10-8ece-4daa-a94d-f9579e716d78.jpg" width="40" height="40" border="0" ></a>
+		        </td>
+		        <td width="4"></td>
+		        <td valign="top" style="font-family: Arial; color: #999999; font-size: 12px; margin-bottom: 7px;">
+			        <a href="http://mailing.enews.pcmag.com/t/1172253/849243/5942633/4/?e5e2987d=MTE3MjI1Mw%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3MjI1Mw%3d%3d&x=81786b84" style="font-weight:bold; color: #0064A0;"><font face="arial" size="2" color="#006399"><b>Canon MF216n Printer, Scanner & Fax</b></font></a>
+                    &nbsp;<font color="black"><b>|</b></font>&nbsp;
+			        <font face="arial" size="2" color="#666666" style="font-family: Arial; color: #999999; font-size: 12px; margin-bottom: 7px;">All-In-One Printers</font>
+			        <br>
+			        <font face="arial" size="1" color="#666666" style="font-family: Arial; color: #999999; font-size: 11px; margin-bottom: 7px;">
+				        <s>MSRP: $399</s>&nbsp;|&nbsp;
+                    </font>
+                    <font color="#000000">
+                    <font size="2" style="font-family: Arial; color: #000000; font-size: 12px; margin-bottom: 7px;"><b>$99</b></font>
+				    
+			        </font>
+			        <a href="http://mailing.enews.pcmag.com/t/1172253/849243/5942633/4/?e5e2987d=MTE3MjI1Mw%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3MjI1Mw%3d%3d&x=81786b84"><img src="http://images.ittoolbox.com/ads/pcmag/see_it.png" border="0" style="margin-bottom:-4px"></a>
+
+		        </td>
+	        </tr>
+	        <tr><td colspan="3"><hr size="1" color="lightgray"><td></tr>
+        </table>
+
+
+<!-- End PCmag Review Items -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" style="padding-right: 14px; padding-left: 25px; font-size: 12px; font-family: Verdana;"><hr color="#cccccc" width="760" />
+                                    <p><strong>eNewsletter Information</strong><br />
+                                    <img height="5" border="0" width="1" src="http://enewsletters.ziffdavisinternet.com/ewk/spacer.gif" alt="" />You are subscribed to PCMag.com's Buying Guide with the email address 1@oscar-oe.gr. <br />
+                                    Click <a href="http://mailing.enews.pcmag.com/t/1172253/849243/5715850/4/?3e076d18=MUBvc2Nhci1vZS5ncg%3d%3d&e5e2987d=MTE3MjI1Mw%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3MjI1Mw%3d%3d&x=62c2bf89" target="_new"><strong>here</strong></a> to unsubscribe from this newsletter. <br />
+                                    <br />
+                                    To subscribe to other e-mail newsletters from Ziff Davis, change your delivery format from HTML to text, or change your email address, click <a href="http://mailing.enews.pcmag.com/t/1172253/849243/5715851/4/?e5e2987d=MTE3MjI1Mw%3d%3d&4f415564=ODQ5MjQz&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3MjI1Mw%3d%3d&x=f1b33c55" target="_new"><strong>here</strong></a>.</p>
+                                    <hr noshade="noshade" color="#d8d8d8" size="1" />
+                                    <br />
+                                    Copyright &copy;2015 <a href="https://zdbb.net/r/?http%3a%2f%2fwww.ziffdavis.com&mailing_id=1172253&list=buyingguide&member_id=849243&engine_id=1&mailing=ZiffDavisNewsletter">Ziff Davis, LLC.</a>&nbsp; All Rights Reserved.<br />
+                                    Ziff Davis, LLC., 28 East 28th Street, 11th Floor, New York, NY 10016
+                                </td>
+                            </tr>
+                        </tbody>
+                        </table>
+                    </td>
+                </tr>
+            </tbody>
+            </table>
+        </td>
+    </tr>
+</tbody>
+</table>
+<blockquote><img height="1" border="0" width="1" src="http://link.p0.com/1x1.dyn" alt="" /></blockquote>
+<img src='https://zdbb.net/l/vUl_mG-rEeK8mRIxOxAUTQ?member_id=849243&list=buyingguide&mailing_id=1172253&mailing=BuyingGuide&engine_id=1' />
+<IMG ALT="" SRC="http://mailing.enews.pcmag.com/do/1172253/849243/1.gif" WIDTH=1 HEIGHT=1><BR>
+<img src="https://bounceexchange.com/tag/em/1166.gif" width="1" height="1" border="0" />
+</BODY>
+</html>
+
+
+
+--buyingguide-mime-boundary-20151902044000--
+

@@ -1,0 +1,204 @@
+Return-path: <bounce-1176745-849243@enews.pcmag.com>
+Envelope-to: 1@oscar-oe.gr
+Delivery-date: Tue, 24 Feb 2015 08:22:39 -0600
+Received: from hdmail07-1.toolbox.com ([208.99.185.112]:21008)
+	by nascar.websitewelcome.com with esmtp (Exim 4.82)
+	(envelope-from <bounce-1176745-849243@enews.pcmag.com>)
+	id 1YQGNj-000839-Al
+	for 1@oscar-oe.gr; Tue, 24 Feb 2015 08:22:39 -0600
+Received: from enews.pcmag.com (unknown [10.1.1.45])
+	by hdmail07-1.toolbox.com (Postfix) with SMTP id 4C6342AA0D6
+	for <1@oscar-oe.gr>; Tue, 24 Feb 2015 07:13:23 -0700 (MST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; q=dns/txt; l=10792;
+ d=enews.pcmag.com;s=lyrisv2;
+ h=from : message-id;
+ bh=inxw67WfR8p1EMYN5m+Kc0yd0izjdeVAEGUFKTlHZCY=;
+ b=NI6iPGe8msGgVTZSX1JhbT6xe6EDGIys/BBh1OG1Z6yFyAYXpncgqqO7/fWM/77Em9XZz/k4
+ xkWjAQDrkbqPmcMFIlZVsk9ip1ZLlIagLcJGma613mjjcyraIHaN5QHLd86wPIpgmLhMFZNC
+ vRLZW8a8pw9lTuQJH9Mctr+sGjo=;
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=lyrisv2; d=enews.pcmag.com;
+ h=from:message-id;
+ b=lfZDEsl1hW/t97yhuYVJWSNuCvmEcu1K7MTjoOmk8PfoLfqDgnKVSTjKRpfWX0GoLV07kWtu xOoCsK726Qda83fGv6/WibFUPxBUgY1qhIfuaRFhoVobGsR+8k3iokifU5ZO/2lYLhDQB9Zx
+ C7EOyXa7JBjvt3X7xXSlgUkEzKo=
+From: "PCMag Buying Guide Special Offer" <BuyingGuide@enews.pcmag.com>
+To: 1@oscar-oe.gr
+Subject: IDrive earns PCMag Editor's Choice for Online Backup! Protect your data and save 75%.
+Date: Tue, 24 Feb 2015 07:00:00 -0700
+MIME-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+Reply-To: BuyingGuide@enews.pcmag.com
+Message-ID: <LYRIS-849243-1176745-2015.02.24-07.09.14--1#oscar-oe.gr@enews.pcmag.com>
+x-lyrmembers: 849243
+List-Unsubscribe: <mailto:leave-1176745-849243.71f967f5513566f309da415e09bbad6f@enews.pcmag.com>, <http://mailing.enews.pcmag.com/u?id=849243.71f967f5513566f309da415e09bbad6f&n=T&l=buyingguide&o=1176745>
+Feedback-ID: 849243:1176745:buyingguide:ZiffDavisESP_AZ
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type">
+</head>
+<body bgcolor="#000000">
+<br>
+<table width="100%" bgcolor="#000000" cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>
+      <table width="600" bgcolor="#ffffff" cellspacing="0" border="0" cellpadding="0" align="center">
+        <tbody>
+          <tr>
+            <td>		<div style="margin-left:10px;">
+			<font style="line-height: 22px; font-family: Tahoma,Geneva,sans-serif; font-size: 17px; font-weight: normal;" color="#646464">A special offer from a PCMag.com partner...</font><img src="http://common.ziffdavisinternet.com/util_get_image/36/0,,i=368852,00.jpg" align="right">
+		</div></td>
+          </tr>
+          <tr>
+            <td><a href="http://mailing.enews.pcmag.com/t/1176745/849243/5943093/5/?e5e2987d=MTE3Njc0NQ%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=287ec505"><img width="600" src="http://enewsletters.ziffdavisinternet.com.s3.amazonaws.com/idrive/images/top-header.png" height="143" style="display: block;" border="0"></a></td>
+          </tr>
+          <tr>
+            <td><a href="http://mailing.enews.pcmag.com/t/1176745/849243/5943093/6/?e5e2987d=MTE3Njc0NQ%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=8b9e1685"><img width="600" src="http://enewsletters.ziffdavisinternet.com.s3.amazonaws.com/idrive/images/buyers-guide-75.png" height="328" style="display: block;" border="0"></a></td>
+          </tr>
+          <tr>
+            <td><a href="http://mailing.enews.pcmag.com/t/1176745/849243/5943094/7/?e5e2987d=MTE3Njc0NQ%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=22cd326a"><img width="600" src="http://enewsletters.ziffdavisinternet.com.s3.amazonaws.com/idrive/images/pcm-quote.png" height="103" style="display: block;" border="0"></a></td>
+          </tr>
+          <tr>
+            <td>
+            <table width="500" cellspacing="0" style="line-height: 20px; font-family: Tahoma,Geneva,sans-serif; font-size: 14px; color: rgb(100, 100, 100); text-align: justify;" border="0" cellpadding="0" align="center">
+              <tbody>
+                <tr>
+                  <td align="center"><img width="1" src="http://enewsletters.ziffdavisinternet.com.s3.amazonaws.com/idrive/images/spacer.gif" height="40" border="0"></td>
+                </tr>
+                <tr>
+                  <td align="center"><font style="line-height: 35px; font-family: Tahoma,Geneva,sans-serif; font-size: 24px;" color="#398ec4">Backup your critical data with IDrive!</font></td>
+                </tr>
+                <tr>
+                  <td align="center">
+                  <p><font style="line-height: 22px; font-family: Tahoma,Geneva,sans-serif; font-size: 17px; font-weight: normal;" color="#646464">Everyone has important files they can't afford to
+lose. Protect your most precious files easily and securely with IDrive.</font></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center"><br>
+                  <font style="line-height: 22px; font-family: Tahoma,Geneva,sans-serif; font-size: 17px;" color="#333333"><strong>Features</strong></font><br>
+                  <br>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                  <table width="100%" cellspacing="0" border="0" cellpadding="4">
+                    <tbody>
+                      <tr>
+                        <td width="20" valign="middle"><img width="34" src="http://enewsletters.ziffdavisinternet.com.s3.amazonaws.com/idrive/images/pcm-md.png" height="26" border="0"></td>
+                        <td valign="middle"><font style="line-height: 20px; font-family: Tahoma,Geneva,sans-serif; font-size: 17px;" color="#646464">Multiple Device Backup</font></td>
+                        <td valign="middle">&nbsp;</td>
+                        <td valign="middle"><img width="34" src="http://enewsletters.ziffdavisinternet.com.s3.amazonaws.com/idrive/images/pcm-enc.png" height="26" border="0"></td>
+                        <td valign="middle"><font style="line-height: 20px; font-family: Tahoma,Geneva,sans-serif; font-size: 17px;" color="#646464">Military-Grade Encryption</font></td>
+                      </tr>
+                      <tr>
+                        <td width="20" valign="middle"><img width="34" src="http://enewsletters.ziffdavisinternet.com.s3.amazonaws.com/idrive/images/pcm-hb.png" height="26" border="0"></td>
+                        <td valign="middle"><font style="line-height: 20px; font-family: Tahoma,Geneva,sans-serif; font-size: 17px;" color="#646464">Hybrid Backup</font></td>
+                        <td valign="middle">&nbsp;</td>
+                        <td valign="middle"><img width="34" src="http://enewsletters.ziffdavisinternet.com.s3.amazonaws.com/idrive/images/pcm-remo.png" height="26" border="0"></td>
+                        <td valign="middle"><font style="line-height: 20px; font-family: Tahoma,Geneva,sans-serif; font-size: 17px;" color="#646464">Remote Management</font></td>
+                      </tr>
+                      <tr>
+                        <td width="20" valign="top"><img width="34" src="http://enewsletters.ziffdavisinternet.com.s3.amazonaws.com/idrive/images/pcm-share.png" height="26" border="0"></td>
+                        <td valign="middle"><font style="line-height: 20px; font-family: Tahoma,Geneva,sans-serif; font-size: 17px;" color="#646464">File Sharing</font></td>
+                        <td valign="middle">&nbsp;</td>
+                        <td valign="middle"><img width="34" src="http://enewsletters.ziffdavisinternet.com.s3.amazonaws.com/idrive/images/pcm-spd.png" height="26" border="0"></td>
+                        <td valign="middle"><font style="line-height: 20px; font-family: Tahoma,Geneva,sans-serif; font-size: 17px;" color="#646464">Express Upload Service</font></td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <br>
+                  <table width="100%" cellspacing="0" border="0" cellpadding="0" align="center">
+                    <tbody>
+                      <tr>
+                        <td>&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td align="center"><a href="http://mailing.enews.pcmag.com/t/1176745/849243/5943094/8/?e5e2987d=MTE3Njc0NQ%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=e8b3488a"><img width="481" src="http://enewsletters.ziffdavisinternet.com.s3.amazonaws.com/idrive/images/idrive_rating.png" height="183" style="display: block;" border="0"></a></td>
+                      </tr>
+                      <tr>
+                        <td>&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td align="center"><a href="http://mailing.enews.pcmag.com/t/1176745/849243/5943093/9/?e5e2987d=MTE3Njc0NQ%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=adc94bd7"><img width="251" src="http://enewsletters.ziffdavisinternet.com.s3.amazonaws.com/idrive/images/pcm-button.png" height="67" border="0"></a></td>
+                      </tr>
+                      <tr>
+                        <td align="center"><font style="font-family: Tahoma,Geneva,sans-serif; font-size: 12px;" color="#646464">TODAY ONLY! (Feb 24th, 2015) </font></td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td><img width="1" src="http://enewsletters.ziffdavisinternet.com.s3.amazonaws.com/idrive/images/spacer.gif" height="20" border="0"></td>
+                </tr>
+                <tr>
+                  <td align="center"><img width="500" src="http://enewsletters.ziffdavisinternet.com.s3.amazonaws.com/idrive/images/mailer_divider.png" height="1" border="0"></td>
+                </tr>
+                <tr>
+                  <td><img width="1" src="http://enewsletters.ziffdavisinternet.com.s3.amazonaws.com/idrive/images/spacer.gif" height="5" border="0"></td>
+                </tr>
+                <tr>
+                  <td><font style="line-height: 18px; font-family: Tahoma,Geneva,sans-serif; font-size: 11px;" color="#646464"><span style="color: rgb(255, 0, 0);">*</span> The 75%
+offer is applicable for the first year only. Subsequently, usual
+charges will apply.</font></td>
+                </tr>
+                <tr>
+                  <td><img width="1" src="http://enewsletters.ziffdavisinternet.com.s3.amazonaws.com/idrive/images/spacer.gif" height="40" border="0"></td>
+                </tr>
+                <tr>
+                  <td>
+                  <table width="500" cellspacing="0" border="0" cellpadding="0">
+                    <tbody>
+                      <tr>
+                        <td align="left"><font style="font-size: 12px; font-family: Tahoma,Geneva,sans-serif;" color="#646464">&copy; IDrive Inc.</font></td>
+                        <td width="40" align="right"><a href="http://mailing.enews.pcmag.com/t/1176745/849243/5715078/10/?e5e2987d=MTE3Njc0NQ%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=37d43e40"><img width="32" src="http://enewsletters.ziffdavisinternet.com.s3.amazonaws.com/idrive/images/fb.png" height="32" alt="Follow us on Facebook" border="0"></a></td>
+                        <td width="40" align="right"><a href="http://mailing.enews.pcmag.com/t/1176745/849243/5715079/11/?e5e2987d=MTE3Njc0NQ%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=81e7bf61"><img width="32" src="http://enewsletters.ziffdavisinternet.com.s3.amazonaws.com/idrive/images/tw.png" height="32" alt="Follow us on Twitter" border="0"></a></td>
+                        <td width="40" align="right"><a href="http://mailing.enews.pcmag.com/t/1176745/849243/5715080/12/?e5e2987d=MTE3Njc0NQ%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=11ba60c5"><img width="32" src="http://enewsletters.ziffdavisinternet.com.s3.amazonaws.com/idrive/images/gp.png" height="32" alt="Follow us on Google+" border="0"></a></td>
+                        <td width="40" align="right"><a href="http://mailing.enews.pcmag.com/t/1176745/849243/5715081/13/?e5e2987d=MTE3Njc0NQ%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=5ed5cb5b"><img width="32" src="http://enewsletters.ziffdavisinternet.com.s3.amazonaws.com/idrive/images/ln.png" height="32" alt="Follow us on LinkedIn" border="0"></a></td>
+                        <td width="40" align="right"><a href="http://mailing.enews.pcmag.com/t/1176745/849243/5715082/14/?e5e2987d=MTE3Njc0NQ%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=22c162b6"><img width="32" src="http://enewsletters.ziffdavisinternet.com.s3.amazonaws.com/idrive/images/blog.png" height="32" alt="IDrive Blog" border="0"></a></td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            </td>
+          </tr>
+          <tr>
+            <td><img width="1" src="http://enewsletters.ziffdavisinternet.com.s3.amazonaws.com/idrive/images/spacer.gif" height="30" border="0"></td>
+          </tr>
+          <tr>
+            <td>		<div style="margin-left:40px;">
+			<p><font face="Helvetica" color="#000000" size="2pt">eNewsletter Information<br>
+			You are subscribed to PCMag's Buying Guide with the e-mail address 1@oscar-oe.gr.<br>
+			To unsubscribe from this newsletter, <a href="http://mailing.enews.pcmag.com/t/1176745/849243/5934531/15/?f566cc7b=ODQ5MjQzLjcxZjk2N2Y1NTEzNTY2ZjMwOWRhNDE1ZTA5YmJhZDZm&e5e2987d=MTE3Njc0NQ%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&e5e2987d=MTE3Njc0NQ%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=b99abb62">click here</a>.<br>
+			<a href="http://mailing.enews.pcmag.com/t/1176745/849243/5714378/16/?e5e2987d=MTE3Njc0NQ%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=ff9095d9">Terms of Service</a> | <a href="http://mailing.enews.pcmag.com/t/1176745/849243/5712748/17/?e5e2987d=MTE3Njc0NQ%3d%3d&c73c8e04=YnV5aW5nZ3VpZGU%3d&4f415564=ODQ5MjQz&x=f646b999">Privacy Policy</a><br>  
+			Copyright &copy 2015 Ziff Davis, Inc. All Rights Reserved. Ziff Davis, Inc., 28 East 28th Street, New York, NY 10016</font></p>
+		</div></td>
+          </tr>
+          <tr>
+            <td bgcolor="#000000">&nbsp;</td>
+          </tr>
+        </tbody>
+      </table>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+<IMG ALT="" SRC="http://mailing.enews.pcmag.com/db/1176745/849243/1.gif" WIDTH=1 HEIGHT=1>
+<img src="https://zdbb.net/l/vUl_mG-rEeK8mRIxOxAUTQ?mailing_id=1176745&list=buyingguide&member_id=849243&engine_id=1" />
+<BR>
+<img src="https://bounceexchange.com/tag/em/1166.gif" width="1" height="1" border="0" />
+</BODY>
+</html>
+
